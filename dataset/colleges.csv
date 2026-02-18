@@ -1,0 +1,31 @@
+college_id,college_name,college_image,fees,cutoff,ranking,placement_percentage,infrastructure,college_type,affiliation,established_year,state,city,official_website
+C001,COEP Technological University,https://www.coeptech.ac.in/sites/default/files/coep_building.jpg,140000,90,25,85,4,Engineering,Government,1854,Maharashtra,Pune,https://www.coeptech.ac.in
+C002,PICT Pune,https://pict.edu/images/campus.jpg,150000,88,40,80,3,Engineering,Private,1983,Maharashtra,Pune,https://pict.edu
+C003,MIT World Peace University,https://mitwpu.edu.in/assets/images/campus.jpg,165000,85,35,78,3,Engineering,Private,1983,Maharashtra,Pune,https://mitwpu.edu.in
+C004,PCCOE Pune,https://www.pccoepune.com/assets/images/pccoe-campus.jpg,135000,82,55,75,3,Engineering,Private,1999,Maharashtra,Pune,https://www.pccoepune.com
+C005,VIIT Pune,https://viit.ac.in/images/slider/viit1.jpg,130000,80,60,72,3,Engineering,Private,2002,Maharashtra,Pune,https://www.viit.ac.in
+C006,Sinhgad College of Engineering,https://cms.sinhgad.edu/media/images/campus.jpg,120000,78,65,70,3,Engineering,Private,1996,Maharashtra,Pune,https://cms.sinhgad.edu
+C007,JSPM RSCOE Pune,https://www.jspmrscoe.edu.in/images/slider/slider1.jpg,130000,76,70,68,3,Engineering,Private,2001,Maharashtra,Pune,https://www.jspmrscoe.edu.in
+C008,DY Patil College of Engineering Pune,https://engg.dypvp.edu.in/images/campus.jpg,140000,79,58,73,3,Engineering,Private,1983,Maharashtra,Pune,https://engg.dypvp.edu.in
+C009,AISSMS COE Pune,https://aissmscoe.com/wp-content/uploads/2020/03/aissms-campus.jpg,145000,81,52,76,3,Engineering,Private,1992,Maharashtra,Pune,https://aissmscoe.com
+C010,BVP College of Engineering Pune,https://www.bvucoep.edu.in/images/campus.jpg,150000,83,50,77,3,Engineering,Private,1983,Maharashtra,Pune,https://www.bvucoep.edu.in
+C011,ICT Mumbai,https://www.ictmumbai.edu.in/images/ict-building.jpg,180000,92,18,88,4,Engineering,Government,1933,Maharashtra,Mumbai,https://www.ictmumbai.edu.in
+C012,SPIT Mumbai,https://www.spit.ac.in/wp-content/uploads/2022/01/spit-campus.jpg,165000,90,22,85,4,Engineering,Private,1995,Maharashtra,Mumbai,https://www.spit.ac.in
+C013,VJTI Mumbai,https://vjti.ac.in/images/vjti-main-building.jpg,160000,91,20,87,4,Engineering,Government,1887,Maharashtra,Mumbai,https://vjti.ac.in
+C014,Thadomal Shahani Engineering College,https://tsec.edu/images/tsec-campus.jpg,155000,88,30,80,3,Engineering,Private,1983,Maharashtra,Mumbai,https://tsec.edu
+C015,DJ Sanghvi College of Engineering,https://www.djsce.ac.in/images/djsce-campus.jpg,170000,89,28,82,4,Engineering,Private,1994,Maharashtra,Mumbai,https://www.djsce.ac.in
+C016,Fr Conceicao Rodrigues College of Engineering,https://www.frcrce.ac.in/images/frcrce-campus.jpg,150000,85,40,78,3,Engineering,Private,1984,Maharashtra,Mumbai,https://www.frcrce.ac.in
+C017,TCET Mumbai,https://www.tcetmumbai.in/images/tcet-campus.jpg,140000,82,48,74,3,Engineering,Private,1983,Maharashtra,Mumbai,https://www.tcetmumbai.in
+C018,Rizvi College of Engineering,https://engg.rizvi.edu.in/images/rizvi-campus.jpg,135000,78,55,70,3,Engineering,Private,1998,Maharashtra,Mumbai,https://engg.rizvi.edu.in
+C019,SIES GST Navi Mumbai,https://siesgst.edu.in/images/sies-campus.jpg,135000,80,45,75,3,Engineering,Private,1999,Maharashtra,Mumbai,https://siesgst.edu.in
+C020,Pillai College of Engineering,https://www.pce.ac.in/images/pce-campus.jpg,130000,77,60,68,3,Engineering,Private,1999,Maharashtra,Mumbai,https://www.pce.ac.in
+C021,K K Wagh Institute of Engineering,https://engg.kkwagh.edu.in/images/kkwagh-campus.jpg,120000,75,65,70,3,Engineering,Private,1984,Maharashtra,Nashik,https://engg.kkwagh.edu.in
+C022,Sandip Institute of Technology,https://sitrc.sandipfoundation.org/images/sandip-campus.jpg,125000,73,70,68,3,Engineering,Private,2009,Maharashtra,Nashik,https://sitrc.sandipfoundation.org
+C023,Gokhale Education Society College of Engineering,https://ges-coengg.org/images/ges-campus.jpg,130000,74,68,69,3,Engineering,Private,1998,Maharashtra,Nashik,https://ges-coengg.org
+C024,NDMVP College of Engineering,https://kbtcoe.org/images/kbt-campus.jpg,115000,72,72,66,3,Engineering,Private,1983,Maharashtra,Nashik,https://kbtcoe.org
+C025,Brahma Valley College of Engineering,https://brahmavalley.com/images/brahma-campus.jpg,110000,70,75,65,3,Engineering,Private,2008,Maharashtra,Nashik,https://brahmavalley.com
+C026,Visvesvaraya National Institute of Technology,https://vnit.ac.in/images/vnit-campus.jpg,180000,93,15,90,5,Engineering,Government,1960,Maharashtra,Nagpur,https://vnit.ac.in
+C027,YCCE Nagpur,https://www.ycce.edu/images/ycce-campus.jpg,140000,82,45,75,3,Engineering,Private,1984,Maharashtra,Nagpur,https://www.ycce.edu
+C028,Ramdeobaba College of Engineering,https://www.rknec.edu/images/rcoem-campus.jpg,150000,85,38,80,4,Engineering,Private,1984,Maharashtra,Nagpur,https://www.rknec.edu
+C029,G H Raisoni College of Engineering,https://ghrce.raisoni.net/images/ghrce-campus.jpg,135000,80,50,72,3,Engineering,Private,1996,Maharashtra,Nagpur,https://ghrce.raisoni.net
+C030,JD College of Engineering,https://jdcoe.edu.in/images/jdcoe-campus.jpg,120000,75,65,68,3,Engineering,Private,2008,Maharashtra,Nagpur,https://jdcoe.edu.in

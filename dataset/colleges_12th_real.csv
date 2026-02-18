@@ -1,0 +1,75 @@
+college_id,college_name,state,city,college_type,branch,stream,entrance_exam,fees,placement_percentage,infrastructure_score nirf_rank,category_general,category_obc,category_sc,category_st,lab_score,faculty_score
+C201,COEP Pune,Maharashtra,Pune,Government,Computer Engineering,Engineering,CET,95000,90,5,73,4500,6000,12000,18000,5,5
+C202,COEP Pune,Maharashtra,Pune,Government,Mechanical Engineering,Engineering,CET,95000,88,5,73,5000,6500,13000,19000,5,5
+C203,VJTI Mumbai,Maharashtra,Mumbai,Government,Computer Engineering,Engineering,CET,85000,92,5,70,3500,5000,10000,16000,5,5
+C204,VJTI Mumbai,Maharashtra,Mumbai,Government,ENTC,Engineering,CET,85000,90,5,70,4000,5500,11000,17000,5,5
+C205,Walchand COE,Maharashtra,Sangli,Government,Mechanical Engineering,Engineering,CET,85000,86,4,65,7000,9000,16000,22000,4,4
+C206,Walchand COE,Maharashtra,Sangli,Government,Civil Engineering,Engineering,CET,85000,84,4,65,7500,9500,17000,23000,4,4
+C207,GCOE Nashik,Maharashtra,Nashik,Government,Computer Engineering,Engineering,CET,60000,78,3,140,13000,16000,22000,28000,3,3
+C208,GCOE Nashik,Maharashtra,Nashik,Government,Mechanical Engineering,Engineering,CET,60000,75,3,140,14500,18000,24000,30000,3,3
+C209,GCOE Nagpur,Maharashtra,Nagpur,Government,Electrical Engineering,Engineering,CET,65000,80,3,135,12500,15500,21000,27000,3,3
+C210,GCOE Nagpur,Maharashtra,Nagpur,Government,Mechanical Engineering,Engineering,CET,65000,77,3,135,14000,17500,23000,29000,3,3
+C211,PICT Pune,Maharashtra,Pune,Private,Computer Engineering,Engineering,CET,140000,94,5,80,7800,10000,16000,22000,5,5
+C212,PICT Pune,Maharashtra,Pune,Private,Information Technology,Engineering,CET,140000,92,5,80,8000,10500,16500,23000,5,5
+C213,VIT Pune,Maharashtra,Pune,Private,Computer Engineering,Engineering,CET,145000,88,4,85,9000,11500,18000,25000,4,4
+C214,VIT Pune,Maharashtra,Pune,Private,ENTC,Engineering,CET,145000,86,4,85,10000,12500,19000,26000,4,4
+C215,PCCOE Pune,Maharashtra,Pune,Private,Mechanical Engineering,Engineering,CET,120000,82,4,110,10000,13000,20000,27000,4,4
+C216,PCCOE Pune,Maharashtra,Pune,Private,Computer Engineering,Engineering,CET,120000,85,4,110,9500,12000,19000,26000,4,4
+C217,KJ Somaiya,Maharashtra,Mumbai,Private,Computer Engineering,Engineering,CET,180000,88,4,60,9000,11500,18000,25000,4,4
+C218,KJ Somaiya,Maharashtra,Mumbai,Private,Mechanical Engineering,Engineering,CET,180000,85,4,60,10000,13000,20000,27000,4,4
+C219,Fr Agnel,Maharashtra,Mumbai,Private,ENTC,Engineering,CET,130000,80,4,115,13500,16500,22000,28000,4,4
+C220,Fr Agnel,Maharashtra,Mumbai,Private,Computer Engineering,Engineering,CET,130000,82,4,115,13000,16000,21500,27500,4,4
+C221,DY Patil COE Akurdi,Maharashtra,Pune,Private,Computer Engineering,Engineering,CET,125000,82,4,118,14000,17000,23000,30000,4,4
+C222,DY Patil COE Akurdi,Maharashtra,Pune,Private,Mechanical Engineering,Engineering,CET,125000,80,4,118,15500,18500,25000,32000,4,4
+C223,DY Patil COE Akurdi,Maharashtra,Pune,Private,ENTC,Engineering,CET,125000,81,4,118,15000,18000,24000,31000,4,4
+C224,AISSMS COE,Maharashtra,Pune,Private,Computer Engineering,Engineering,CET,100000,78,3,122,14500,17500,24000,31000,3,3
+C225,AISSMS COE,Maharashtra,Pune,Private,Civil Engineering,Engineering,CET,100000,75,3,122,16000,19000,26000,33000,3,3
+C226,MIT Academy of Engg,Maharashtra,Pune,Private,Computer Engineering,Engineering,CET,130000,82,4,100,13500,16500,22500,29000,4,4
+C227,MIT Academy of Engg,Maharashtra,Pune,Private,Mechanical Engineering,Engineering,CET,130000,80,4,100,15000,18000,24000,31000,4,4
+C228,Modern COE,Maharashtra,Pune,Private,Computer Engineering,Engineering,CET,110000,79,3,125,14500,17500,23500,30000,3,3
+C229,Modern COE,Maharashtra,Pune,Private,Mechanical Engineering,Engineering,CET,110000,76,3,125,16000,19500,26000,33000,3,3
+C230,Vishwakarma Inst Tech,Maharashtra,Pune,Private,Computer Engineering,Engineering,CET,145000,88,4,85,9000,12000,18000,25000,4,4
+C231,YCCE Nagpur,Maharashtra,Nagpur,Private,Computer Engineering,Engineering,CET,125000,80,4,120,11000,14000,20000,27000,4,4
+C232,YCCE Nagpur,Maharashtra,Nagpur,Private,ENTC,Engineering,CET,125000,78,4,120,12500,15500,21500,28500,4,4
+C233,RCOEM Nagpur,Maharashtra,Nagpur,Private,Computer Engineering,Engineering,CET,140000,85,4,95,9500,12500,18000,25000,4,4
+C234,RCOEM Nagpur,Maharashtra,Nagpur,Private,Mechanical Engineering,Engineering,CET,140000,83,4,95,10500,13500,19500,26500,4,4
+C235,GHRCE Nagpur,Maharashtra,Nagpur,Private,Computer Engineering,Engineering,CET,120000,77,3,135,14000,17000,23000,30000,3,3
+C236,Terna Engg College,Maharashtra,Navi Mumbai,Private,Computer Engineering,Engineering,CET,125000,74,3,130,15500,18500,25000,32000,3,3
+C237,Terna Engg College,Maharashtra,Navi Mumbai,Private,AI & Data Science,Engineering,CET,125000,72,3,130,16500,19500,26000,33000,3,3
+C238,SIES GST,Maharashtra,Navi Mumbai,Private,Computer Engineering,Engineering,CET,135000,80,4,115,13000,16000,22000,29000,4,4
+C239,SIES GST,Maharashtra,Navi Mumbai,Private,ENTC,Engineering,CET,135000,78,4,115,14500,17500,23500,30500,4,4
+C240,Thakur COE,Maharashtra,Mumbai,Private,Computer Engineering,Engineering,CET,140000,75,3,128,16000,19000,26000,34000,3,3
+C241,Thakur COE,Maharashtra,Mumbai,Private,AI & Data Science,Engineering,CET,140000,73,3,128,17000,20000,27000,35000,3,3
+C242,Fr CRCE Bandra,Maharashtra,Mumbai,Private,Computer Engineering,Engineering,CET,130000,82,4,115,12000,15000,21000,28000,4,4
+C243,Fr CRCE Bandra,Maharashtra,Mumbai,Private,Mechanical Engineering,Engineering,CET,130000,80,4,115,13500,16500,22500,29500,4,4
+C244,Sandip Inst Engg,Maharashtra,Nashik,Private,Computer Engineering,Engineering,CET,95000,70,3,145,19000,22000,28000,36000,3,3
+C245,Sandip Inst Engg,Maharashtra,Nashik,Private,Civil Engineering,Engineering,CET,95000,68,3,145,21000,24000,30000,38000,3,3
+C246,GCOE Amravati,Maharashtra,Amravati,Government,Computer Engineering,Engineering,CET,60000,75,3,150,18000,21000,27000,35000,3,3
+C247,GCOE Amravati,Maharashtra,Amravati,Government,Mechanical Engineering,Engineering,CET,60000,72,3,150,20000,23000,29000,37000,3,3
+C248,Babasaheb Ambedkar COE,Maharashtra,Nagpur,Government,Electrical Engineering,Engineering,CET,65000,74,3,155,18500,21500,27500,35500,3,3
+C249,Babasaheb Ambedkar COE,Maharashtra,Nagpur,Government,Civil Engineering,Engineering,CET,65000,70,3,155,20500,23500,29500,37500,3,3
+C250,GCOE Jalgaon,Maharashtra,Jalgaon,Government,Computer Engineering,Engineering,CET,58000,73,3,160,19000,22000,28000,36000,3,3
+C251,Pimpri Chinchwad College of Engg,Maharashtra,Pune,Private,Information Technology,Engineering,CET,120000,84,4,110,12000,15000,21000,28000,4,4
+C252,Pimpri Chinchwad College of Engg,Maharashtra,Pune,Private,AI & Data Science,Engineering,CET,125000,82,4,110,13500,16500,22500,29500,4,4
+C253,Pimpri Chinchwad College of Engg,Maharashtra,Pune,Private,Electrical Engineering,Engineering,CET,135000,78,3,110,15500,18500,24500,31500,3,3
+C254,Vidyavardhini COE,Maharashtra,Palghar,Private,Information Technology,Engineering,CET,140000,76,3,135,16500,19500,26000,33500,3,3
+C255,Vidyavardhini COE,Maharashtra,Palghar,Private,Civil Engineering,Engineering,CET,145000,74,3,135,17500,20500,27000,34500,3,3
+C256,SIES Graduate School of Tech,Maharashtra,Navi Mumbai,Private,Information Technology,Engineering,CET,130000,81,4,115,13000,16000,22000,29000,4,4
+C257,SIES Graduate School of Tech,Maharashtra,Navi Mumbai,Private,Electrical Engineering,Engineering,CET,140000,79,3,115,14500,17500,23500,30500,3,3
+C258,Datta Meghe COE,Maharashtra,Navi Mumbai,Private,AI & Data Science,Engineering,CET,150000,75,3,140,17000,20000,27000,35000,3,3
+C259,Datta Meghe COE,Maharashtra,Navi Mumbai,Private,Information Technology,Engineering,CET,148000,77,3,140,16500,19500,26500,34500,3,3
+C260,Sinhgad Inst of Technology,Maharashtra,Lonavala,Private,Electrical Engineering,Engineering,CET,155000,72,3,145,18000,21000,28000,36000,3,3
+C261,Sinhgad Inst of Technology,Maharashtra,Lonavala,Private,Civil Engineering,Engineering,CET,160000,70,3,145,19500,22500,29500,37500,3,3
+C262,Government COE Chandrapur,Maharashtra,Chandrapur,Government,Electrical Engineering,Engineering,CET,72000,74,3,165,18500,21500,27500,35500,3,3
+C263,Government COE Chandrapur,Maharashtra,Chandrapur,Government,Civil Engineering,Engineering,CET,75000,72,3,165,20000,23000,29000,37000,3,3
+C264,Government COE Karad,Maharashtra,Karad,Government,Information Technology,Engineering,CET,68000,76,3,155,17500,20500,26500,34500,3,3
+C265,Government COE Karad,Maharashtra,Karad,Government,Electrical Engineering,Engineering,CET,70000,74,3,155,18500,21500,27500,35500,3,3
+C266,Rajiv Gandhi COE,Maharashtra,Latur,Private,AI & Data Science,Engineering,CET,145000,73,3,150,17500,20500,27500,35500,3,3
+C267,Rajiv Gandhi COE,Maharashtra,Latur,Private,Information Technology,Engineering,CET,140000,75,3,150,16500,19500,26500,34500,3,3
+C268,Shree Ram COE,Maharashtra,Panvel,Private,Electrical Engineering,Engineering,CET,150000,72,3,148,18000,21000,28000,36000,3,3
+C269,Shree Ram COE,Maharashtra,Panvel,Private,Civil Engineering,Engineering,CET,155000,70,3,148,19500,22500,29500,37500,3,3
+C270,GCOE Hingoli,Maharashtra,Hingoli,Government,Information Technology,Engineering,CET,78000,71,3,170,20500,23500,29500,37500,3,3
+C271,GCOE Hingoli,Maharashtra,Hingoli,Government,Electrical Engineering,Engineering,CET,80000,69,3,170,21500,24500,30500,38500,3,3
+C272,Indira College of Engg,Maharashtra,Pune,Private,AI & Data Science,Engineering,CET,135000,78,4,130,14500,17500,23500,30500,4,4
+C273,Indira College of Engg,Maharashtra,Pune,Private,Information Technology,Engineering,CET,132000,80,4,130,13500,16500,22500,29500,4,4
+C274,MIT Academy of Engg,Maharashtra,Pune,Private,Civil Engineering,Engineering,CET,130000,72,4,100,15000,18000,24000,31000,4,4

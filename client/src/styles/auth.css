@@ -1,0 +1,39 @@
+
+.icon-input {
+  position: relative;
+}
+
+.icon-input span {
+  position: absolute;
+  left: 12px;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.icon-input input {
+  padding-left: 40px;
+}
+
+.social-login {
+  display: flex;
+  gap: 10px;
+  margin-top: 15px;
+}
+
+.social-login button {
+  flex: 1;
+  padding: 10px;
+  border-radius: 20px;
+  border: none;
+  cursor: pointer;
+}
+
+.google {
+  background: #db4437;
+  color: white;
+}
+
+.facebook {
+  background: #4267B2;
+  color: white;
+}

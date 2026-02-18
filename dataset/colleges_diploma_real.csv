@@ -1,0 +1,51 @@
+college_id,college_name,state,city,college_type,branch,diploma_cutoff,lateral_entry_exam,fees,placement_percentage,lab_score,faculty_score
+D001,Govt Polytechnic Mumbai,Maharashtra,Mumbai,Government,Computer Engineering,78,LEET,40000,70,3,3
+D002,Govt Polytechnic Mumbai,Maharashtra,Mumbai,Government,Mechanical Engineering,75,LEET,40000,68,3,3
+D003,Govt Polytechnic Mumbai,Maharashtra,Mumbai,Government,Electrical Engineering,77,LEET,40000,69,3,3
+D004,VJTI Polytechnic,Maharashtra,Mumbai,Government,Computer Engineering,85,LEET,42000,78,4,4
+D005,VJTI Polytechnic,Maharashtra,Mumbai,Government,Electrical Engineering,82,LEET,42000,76,4,4
+D006,COEP Polytechnic,Maharashtra,Pune,Government,Computer Engineering,80,LEET,38000,72,3,3
+D007,COEP Polytechnic,Maharashtra,Pune,Government,Mechanical Engineering,78,LEET,38000,70,3,3
+D008,COEP Polytechnic,Maharashtra,Pune,Government,Civil Engineering,75,LEET,38000,68,3,3
+D009,Sinhgad Polytechnic,Maharashtra,Pune,Private,Computer Engineering,72,LEET,75000,72,4,4
+D010,Sinhgad Polytechnic,Maharashtra,Pune,Private,Mechanical Engineering,70,LEET,75000,70,4,4
+D011,Sinhgad Polytechnic,Maharashtra,Pune,Private,ENTC,71,LEET,75000,71,4,4
+D012,KJ Somaiya Polytechnic,Maharashtra,Mumbai,Private,Computer Engineering,80,LEET,90000,80,4,4
+D013,KJ Somaiya Polytechnic,Maharashtra,Mumbai,Private,Mechanical Engineering,78,LEET,90000,78,4,4
+D014,MIT Polytechnic,Maharashtra,Pune,Private,Computer Engineering,76,LEET,85000,77,4,4
+D015,MIT Polytechnic,Maharashtra,Pune,Private,AI & Data Science,78,LEET,85000,75,4,4
+D016,AISSMS Polytechnic,Maharashtra,Pune,Private,Computer Engineering,70,LEET,65000,72,3,3
+D017,AISSMS Polytechnic,Maharashtra,Pune,Private,Mechanical Engineering,68,LEET,65000,70,3,3
+D018,Govt Polytechnic Nashik,Maharashtra,Nashik,Government,Computer Engineering,74,LEET,36000,70,3,3
+D019,Govt Polytechnic Nashik,Maharashtra,Nashik,Government,Mechanical Engineering,72,LEET,36000,68,3,3
+D020,Govt Polytechnic Nashik,Maharashtra,Nashik,Government,Electrical Engineering,73,LEET,36000,69,3,3
+D021,Sandip Polytechnic,Maharashtra,Nashik,Private,Computer Engineering,70,LEET,70000,65,3,3
+D022,Sandip Polytechnic,Maharashtra,Nashik,Private,AI & Data Science,72,LEET,70000,67,3,3
+D023,Govt Polytechnic Nagpur,Maharashtra,Nagpur,Government,Computer Engineering,75,LEET,37000,71,3,3
+D024,Govt Polytechnic Nagpur,Maharashtra,Nagpur,Government,Mechanical Engineering,73,LEET,37000,69,3,3
+D025,Govt Polytechnic Nagpur,Maharashtra,Nagpur,Government,Electrical Engineering,74,LEET,37000,70,3,3
+D026,YCCE Polytechnic,Maharashtra,Nagpur,Private,Computer Engineering,78,LEET,70000,72,4,4
+D027,YCCE Polytechnic,Maharashtra,Nagpur,Private,ENTC,76,LEET,70000,71,4,4
+D028,RCOEM Polytechnic,Maharashtra,Nagpur,Private,Computer Engineering,80,LEET,75000,75,4,4
+D029,RCOEM Polytechnic,Maharashtra,Nagpur,Private,AI & Data Science,82,LEET,75000,76,4,4
+D030,Govt Polytechnic Kolhapur,Maharashtra,Kolhapur,Government,Computer Engineering,73,LEET,36000,68,3,3
+D031,Govt Polytechnic Kolhapur,Maharashtra,Kolhapur,Government,Mechanical Engineering,71,LEET,36000,66,3,3
+D032,Sinhgad Polytechnic Kolhapur,Maharashtra,Kolhapur,Private,Computer Engineering,74,LEET,65000,70,4,4
+D033,Sinhgad Polytechnic Kolhapur,Maharashtra,Kolhapur,Private,Mechanical Engineering,72,LEET,65000,68,4,4
+D034,Govt Polytechnic Aurangabad,Maharashtra,Aurangabad,Government,Computer Engineering,74,LEET,36000,69,3,3
+D035,Govt Polytechnic Aurangabad,Maharashtra,Aurangabad,Government,Mechanical Engineering,72,LEET,36000,67,3,3
+D036,MIT Polytechnic Aurangabad,Maharashtra,Aurangabad,Private,Computer Engineering,76,LEET,72000,74,4,4
+D037,MIT Polytechnic Aurangabad,Maharashtra,Aurangabad,Private,AI & Data Science,78,LEET,72000,75,4,4
+D038,Govt Polytechnic Solapur,Maharashtra,Solapur,Government,Computer Engineering,72,LEET,35000,68,3,3
+D039,Govt Polytechnic Solapur,Maharashtra,Solapur,Government,Mechanical Engineering,70,LEET,35000,66,3,3
+D040,Govt Polytechnic Jalgaon,Maharashtra,Jalgaon,Government,Computer Engineering,73,LEET,34000,69,3,3
+D041,Govt Polytechnic Jalgaon,Maharashtra,Jalgaon,Government,Mechanical Engineering,71,LEET,34000,67,3,3
+D042,Govt Polytechnic Ahmednagar,Maharashtra,Ahmednagar,Government,Computer Engineering,72,LEET,33000,66,3,3
+D043,Govt Polytechnic Ahmednagar,Maharashtra,Ahmednagar,Government,Electrical Engineering,74,LEET,33000,67,3,3
+D044,SIES Polytechnic,Maharashtra,Mumbai,Private,Computer Engineering,76,LEET,72000,73,4,4
+D045,SIES Polytechnic,Maharashtra,Mumbai,Private,ENTC,75,LEET,72000,72,4,4
+D046,Fr Agnel Polytechnic,Maharashtra,Mumbai,Private,Computer Engineering,78,LEET,74000,75,4,4
+D047,Fr Agnel Polytechnic,Maharashtra,Mumbai,Private,Mechanical Engineering,76,LEET,74000,73,4,4
+D048,Govt Polytechnic Satara,Maharashtra,Satara,Government,Civil Engineering,70,LEET,35000,65,3,3
+D049,Govt Polytechnic Satara,Maharashtra,Satara,Government,Electrical Engineering,72,LEET,35000,67,3,3
+D050,Govt Polytechnic Baramati,Maharashtra,Baramati,Government,Computer Engineering,73,LEET,34000,68,3,3
