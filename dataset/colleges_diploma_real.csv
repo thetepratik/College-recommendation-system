@@ -1,51 +1,801 @@
 college_id,college_name,state,city,college_type,branch,diploma_cutoff,lateral_entry_exam,fees,placement_percentage,lab_score,faculty_score
-D001,Govt Polytechnic Mumbai,Maharashtra,Mumbai,Government,Computer Engineering,78,LEET,40000,70,3,3
-D002,Govt Polytechnic Mumbai,Maharashtra,Mumbai,Government,Mechanical Engineering,75,LEET,40000,68,3,3
-D003,Govt Polytechnic Mumbai,Maharashtra,Mumbai,Government,Electrical Engineering,77,LEET,40000,69,3,3
-D004,VJTI Polytechnic,Maharashtra,Mumbai,Government,Computer Engineering,85,LEET,42000,78,4,4
-D005,VJTI Polytechnic,Maharashtra,Mumbai,Government,Electrical Engineering,82,LEET,42000,76,4,4
-D006,COEP Polytechnic,Maharashtra,Pune,Government,Computer Engineering,80,LEET,38000,72,3,3
-D007,COEP Polytechnic,Maharashtra,Pune,Government,Mechanical Engineering,78,LEET,38000,70,3,3
-D008,COEP Polytechnic,Maharashtra,Pune,Government,Civil Engineering,75,LEET,38000,68,3,3
-D009,Sinhgad Polytechnic,Maharashtra,Pune,Private,Computer Engineering,72,LEET,75000,72,4,4
-D010,Sinhgad Polytechnic,Maharashtra,Pune,Private,Mechanical Engineering,70,LEET,75000,70,4,4
-D011,Sinhgad Polytechnic,Maharashtra,Pune,Private,ENTC,71,LEET,75000,71,4,4
-D012,KJ Somaiya Polytechnic,Maharashtra,Mumbai,Private,Computer Engineering,80,LEET,90000,80,4,4
-D013,KJ Somaiya Polytechnic,Maharashtra,Mumbai,Private,Mechanical Engineering,78,LEET,90000,78,4,4
-D014,MIT Polytechnic,Maharashtra,Pune,Private,Computer Engineering,76,LEET,85000,77,4,4
-D015,MIT Polytechnic,Maharashtra,Pune,Private,AI & Data Science,78,LEET,85000,75,4,4
-D016,AISSMS Polytechnic,Maharashtra,Pune,Private,Computer Engineering,70,LEET,65000,72,3,3
-D017,AISSMS Polytechnic,Maharashtra,Pune,Private,Mechanical Engineering,68,LEET,65000,70,3,3
-D018,Govt Polytechnic Nashik,Maharashtra,Nashik,Government,Computer Engineering,74,LEET,36000,70,3,3
-D019,Govt Polytechnic Nashik,Maharashtra,Nashik,Government,Mechanical Engineering,72,LEET,36000,68,3,3
-D020,Govt Polytechnic Nashik,Maharashtra,Nashik,Government,Electrical Engineering,73,LEET,36000,69,3,3
-D021,Sandip Polytechnic,Maharashtra,Nashik,Private,Computer Engineering,70,LEET,70000,65,3,3
-D022,Sandip Polytechnic,Maharashtra,Nashik,Private,AI & Data Science,72,LEET,70000,67,3,3
-D023,Govt Polytechnic Nagpur,Maharashtra,Nagpur,Government,Computer Engineering,75,LEET,37000,71,3,3
-D024,Govt Polytechnic Nagpur,Maharashtra,Nagpur,Government,Mechanical Engineering,73,LEET,37000,69,3,3
-D025,Govt Polytechnic Nagpur,Maharashtra,Nagpur,Government,Electrical Engineering,74,LEET,37000,70,3,3
-D026,YCCE Polytechnic,Maharashtra,Nagpur,Private,Computer Engineering,78,LEET,70000,72,4,4
-D027,YCCE Polytechnic,Maharashtra,Nagpur,Private,ENTC,76,LEET,70000,71,4,4
-D028,RCOEM Polytechnic,Maharashtra,Nagpur,Private,Computer Engineering,80,LEET,75000,75,4,4
-D029,RCOEM Polytechnic,Maharashtra,Nagpur,Private,AI & Data Science,82,LEET,75000,76,4,4
-D030,Govt Polytechnic Kolhapur,Maharashtra,Kolhapur,Government,Computer Engineering,73,LEET,36000,68,3,3
-D031,Govt Polytechnic Kolhapur,Maharashtra,Kolhapur,Government,Mechanical Engineering,71,LEET,36000,66,3,3
-D032,Sinhgad Polytechnic Kolhapur,Maharashtra,Kolhapur,Private,Computer Engineering,74,LEET,65000,70,4,4
-D033,Sinhgad Polytechnic Kolhapur,Maharashtra,Kolhapur,Private,Mechanical Engineering,72,LEET,65000,68,4,4
-D034,Govt Polytechnic Aurangabad,Maharashtra,Aurangabad,Government,Computer Engineering,74,LEET,36000,69,3,3
-D035,Govt Polytechnic Aurangabad,Maharashtra,Aurangabad,Government,Mechanical Engineering,72,LEET,36000,67,3,3
-D036,MIT Polytechnic Aurangabad,Maharashtra,Aurangabad,Private,Computer Engineering,76,LEET,72000,74,4,4
-D037,MIT Polytechnic Aurangabad,Maharashtra,Aurangabad,Private,AI & Data Science,78,LEET,72000,75,4,4
-D038,Govt Polytechnic Solapur,Maharashtra,Solapur,Government,Computer Engineering,72,LEET,35000,68,3,3
-D039,Govt Polytechnic Solapur,Maharashtra,Solapur,Government,Mechanical Engineering,70,LEET,35000,66,3,3
-D040,Govt Polytechnic Jalgaon,Maharashtra,Jalgaon,Government,Computer Engineering,73,LEET,34000,69,3,3
-D041,Govt Polytechnic Jalgaon,Maharashtra,Jalgaon,Government,Mechanical Engineering,71,LEET,34000,67,3,3
-D042,Govt Polytechnic Ahmednagar,Maharashtra,Ahmednagar,Government,Computer Engineering,72,LEET,33000,66,3,3
-D043,Govt Polytechnic Ahmednagar,Maharashtra,Ahmednagar,Government,Electrical Engineering,74,LEET,33000,67,3,3
-D044,SIES Polytechnic,Maharashtra,Mumbai,Private,Computer Engineering,76,LEET,72000,73,4,4
-D045,SIES Polytechnic,Maharashtra,Mumbai,Private,ENTC,75,LEET,72000,72,4,4
-D046,Fr Agnel Polytechnic,Maharashtra,Mumbai,Private,Computer Engineering,78,LEET,74000,75,4,4
-D047,Fr Agnel Polytechnic,Maharashtra,Mumbai,Private,Mechanical Engineering,76,LEET,74000,73,4,4
-D048,Govt Polytechnic Satara,Maharashtra,Satara,Government,Civil Engineering,70,LEET,35000,65,3,3
-D049,Govt Polytechnic Satara,Maharashtra,Satara,Government,Electrical Engineering,72,LEET,35000,67,3,3
-D050,Govt Polytechnic Baramati,Maharashtra,Baramati,Government,Computer Engineering,73,LEET,34000,68,3,3
+D1000,YCCE Polytechnic Mumbai,Maharashtra,Mumbai,Private,Mechatronics Engineering,61,CET,40808,80,4,5
+D1001,RCOEM Polytechnic Sangli,Maharashtra,Sangli,Private,AI & Data Science,94,CET,88919,63,5,3
+D1002,Fr Agnel Polytechnic Nagpur,Maharashtra,Nagpur,Government,Robotics Engineering,52,CET,47610,70,3,5
+D1003,MET Polytechnic Mumbai,Maharashtra,Mumbai,Private,AI & Data Science,79,CET,65007,79,4,4
+D1004,Sinhgad Polytechnic Nashik,Maharashtra,Nashik,Government,Robotics Engineering,64,CET,66890,85,5,4
+D1005,Government Polytechnic Latur,Maharashtra,Latur,Government,Robotics Engineering,83,CET,93916,55,3,3
+D1006,YCCE Polytechnic Solapur,Maharashtra,Solapur,Private,Electrical Engineering,69,CET,52982,56,3,3
+D1007,Government Polytechnic Solapur,Maharashtra,Solapur,Private,Mechanical Engineering,58,CET,58555,74,4,3
+D1008,MIT Polytechnic Solapur,Maharashtra,Solapur,Private,Automobile Engineering,59,CET,40910,84,3,3
+D1009,AISSMS Polytechnic Navi Mumbai,Maharashtra,Navi Mumbai,Government,Electronics Engineering,54,CET,64984,59,4,4
+D1010,SIES Polytechnic Mumbai,Maharashtra,Mumbai,Government,AI & Data Science,63,CET,77409,65,3,3
+D1011,Fr Agnel Polytechnic Mumbai,Maharashtra,Mumbai,Private,Information Technology,88,CET,88841,55,3,5
+D1012,KK Wagh Polytechnic Amravati,Maharashtra,Amravati,Private,Electronics Engineering,79,CET,34008,76,3,4
+D1013,Sinhgad Polytechnic Aurangabad,Maharashtra,Aurangabad,Private,AI & Data Science,84,CET,58697,69,4,4
+D1014,Sinhgad Polytechnic Mumbai,Maharashtra,Mumbai,Government,AI & Data Science,76,CET,30294,72,4,5
+D1015,SIES Polytechnic Mumbai,Maharashtra,Mumbai,Private,Electrical Engineering,79,CET,49156,81,5,5
+D1016,MIT Polytechnic Nashik,Maharashtra,Nashik,Government,Civil Engineering,62,CET,46408,84,3,5
+D1017,Government Polytechnic Kolhapur,Maharashtra,Kolhapur,Government,Civil Engineering,85,CET,58926,73,4,5
+D1018,SIES Polytechnic Satara,Maharashtra,Satara,Private,Electronics Engineering,51,CET,66617,57,5,5
+D1019,RCOEM Polytechnic Solapur,Maharashtra,Solapur,Government,Automobile Engineering,58,CET,38401,63,4,5
+D1020,Sinhgad Polytechnic Amravati,Maharashtra,Amravati,Private,Computer Engineering,87,CET,50428,62,5,5
+D1021,SIES Polytechnic Pune,Maharashtra,Pune,Private,Electronics Engineering,84,CET,55399,73,3,5
+D1022,KK Wagh Polytechnic Jalgaon,Maharashtra,Jalgaon,Government,Mechatronics Engineering,59,CET,36412,82,4,5
+D1023,RCOEM Polytechnic Amravati,Maharashtra,Amravati,Private,Robotics Engineering,92,CET,81454,74,5,5
+D1024,MET Polytechnic Amravati,Maharashtra,Amravati,Government,AI & Data Science,55,CET,31345,58,3,3
+D1025,YCCE Polytechnic Kolhapur,Maharashtra,Kolhapur,Government,Computer Engineering,63,CET,70916,67,3,5
+D1026,Government Polytechnic Latur,Maharashtra,Latur,Government,Information Technology,62,CET,83761,65,3,5
+D1027,MET Polytechnic Latur,Maharashtra,Latur,Government,AI & Data Science,56,CET,60341,68,3,3
+D1028,Terna Polytechnic Latur,Maharashtra,Latur,Government,Mechatronics Engineering,62,CET,64954,79,4,5
+D1029,Terna Polytechnic Nagpur,Maharashtra,Nagpur,Private,Robotics Engineering,59,CET,36438,62,4,4
+D1030,SIES Polytechnic Kolhapur,Maharashtra,Kolhapur,Private,Mechanical Engineering,68,CET,81275,61,4,3
+D1031,KK Wagh Polytechnic Nashik,Maharashtra,Nashik,Government,Mechanical Engineering,60,CET,74928,71,5,5
+D1032,AISSMS Polytechnic Nashik,Maharashtra,Nashik,Government,Robotics Engineering,83,CET,34222,85,4,4
+D1033,Sinhgad Polytechnic Latur,Maharashtra,Latur,Private,Computer Engineering,92,CET,58599,64,3,3
+D1034,AISSMS Polytechnic Satara,Maharashtra,Satara,Private,Mechanical Engineering,90,CET,91836,74,5,3
+D1035,Sinhgad Polytechnic Nashik,Maharashtra,Nashik,Private,AI & Data Science,69,CET,83681,72,4,3
+D1036,MIT Polytechnic Satara,Maharashtra,Satara,Government,Robotics Engineering,75,CET,37938,81,3,3
+D1037,Government Polytechnic Satara,Maharashtra,Satara,Private,Information Technology,80,CET,85738,76,5,4
+D1038,Sinhgad Polytechnic Pune,Maharashtra,Pune,Private,Civil Engineering,66,CET,73502,78,3,4
+D1039,Terna Polytechnic Sangli,Maharashtra,Sangli,Government,Automobile Engineering,50,CET,69771,64,3,5
+D1040,MIT Polytechnic Mumbai,Maharashtra,Mumbai,Government,Information Technology,60,CET,43220,78,4,3
+D1041,Sandip Polytechnic Sangli,Maharashtra,Sangli,Private,Automobile Engineering,58,CET,88912,62,3,5
+D1042,SIES Polytechnic Jalgaon,Maharashtra,Jalgaon,Private,Mechatronics Engineering,64,CET,69844,62,4,4
+D1043,Sinhgad Polytechnic Navi Mumbai,Maharashtra,Navi Mumbai,Private,Automobile Engineering,50,CET,32664,64,3,4
+D1044,MET Polytechnic Sangli,Maharashtra,Sangli,Private,Civil Engineering,51,CET,73539,56,3,5
+D1045,AISSMS Polytechnic Sangli,Maharashtra,Sangli,Private,Information Technology,71,CET,78933,78,3,3
+D1046,Sinhgad Polytechnic Amravati,Maharashtra,Amravati,Government,Electrical Engineering,57,CET,35768,58,3,4
+D1047,SIES Polytechnic Latur,Maharashtra,Latur,Government,Computer Engineering,95,CET,61017,73,3,3
+D1048,MIT Polytechnic Sangli,Maharashtra,Sangli,Private,Electrical Engineering,80,CET,84837,81,5,5
+D1049,MIT Polytechnic Nagpur,Maharashtra,Nagpur,Government,AI & Data Science,86,CET,78115,75,4,3
+D1050,Government Polytechnic Satara,Maharashtra,Satara,Private,Mechanical Engineering,66,CET,39730,62,4,4
+D1051,SIES Polytechnic Mumbai,Maharashtra,Mumbai,Private,Robotics Engineering,59,CET,91380,82,3,5
+D1052,Terna Polytechnic Aurangabad,Maharashtra,Aurangabad,Private,Robotics Engineering,69,CET,76927,70,3,5
+D1053,AISSMS Polytechnic Latur,Maharashtra,Latur,Government,AI & Data Science,64,CET,92395,59,5,4
+D1054,Government Polytechnic Aurangabad,Maharashtra,Aurangabad,Government,Electronics Engineering,75,CET,62540,82,5,5
+D1055,MIT Polytechnic Latur,Maharashtra,Latur,Private,Computer Engineering,80,CET,55007,78,5,4
+D1056,SIES Polytechnic Thane,Maharashtra,Thane,Private,Electronics Engineering,88,CET,81057,61,5,4
+D1057,Sinhgad Polytechnic Sangli,Maharashtra,Sangli,Private,AI & Data Science,52,CET,54878,66,4,3
+D1058,KK Wagh Polytechnic Navi Mumbai,Maharashtra,Navi Mumbai,Private,Robotics Engineering,57,CET,48075,84,3,4
+D1059,YCCE Polytechnic Satara,Maharashtra,Satara,Government,Mechanical Engineering,92,CET,82384,66,4,3
+D1060,Terna Polytechnic Amravati,Maharashtra,Amravati,Government,Mechanical Engineering,55,CET,51857,76,4,5
+D1061,YCCE Polytechnic Nagpur,Maharashtra,Nagpur,Government,Automobile Engineering,72,CET,87025,55,4,5
+D1062,Government Polytechnic Solapur,Maharashtra,Solapur,Government,Mechatronics Engineering,56,CET,79198,61,3,5
+D1063,MET Polytechnic Amravati,Maharashtra,Amravati,Government,Mechanical Engineering,69,CET,83780,55,5,3
+D1064,SIES Polytechnic Sangli,Maharashtra,Sangli,Private,Information Technology,62,CET,47374,84,3,4
+D1065,Government Polytechnic Latur,Maharashtra,Latur,Government,Electrical Engineering,94,CET,42079,78,3,4
+D1066,Terna Polytechnic Solapur,Maharashtra,Solapur,Private,Automobile Engineering,60,CET,50505,71,5,3
+D1067,Fr Agnel Polytechnic Satara,Maharashtra,Satara,Government,AI & Data Science,90,CET,93830,81,4,4
+D1068,AISSMS Polytechnic Navi Mumbai,Maharashtra,Navi Mumbai,Private,Mechanical Engineering,75,CET,54389,84,4,5
+D1069,SIES Polytechnic Satara,Maharashtra,Satara,Government,Mechatronics Engineering,68,CET,77050,66,3,5
+D1070,MIT Polytechnic Latur,Maharashtra,Latur,Private,Mechatronics Engineering,88,CET,90823,73,5,5
+D1071,RCOEM Polytechnic Amravati,Maharashtra,Amravati,Private,Mechanical Engineering,78,CET,41493,58,3,3
+D1072,SIES Polytechnic Pune,Maharashtra,Pune,Private,Mechatronics Engineering,81,CET,35927,66,4,5
+D1073,YCCE Polytechnic Kolhapur,Maharashtra,Kolhapur,Government,Mechanical Engineering,54,CET,90402,56,4,5
+D1074,Government Polytechnic Sangli,Maharashtra,Sangli,Government,Information Technology,81,CET,91449,72,4,5
+D1075,SIES Polytechnic Mumbai,Maharashtra,Mumbai,Private,Mechatronics Engineering,57,CET,91845,79,3,5
+D1076,Terna Polytechnic Jalgaon,Maharashtra,Jalgaon,Government,Electrical Engineering,53,CET,37955,71,3,4
+D1077,Fr Agnel Polytechnic Navi Mumbai,Maharashtra,Navi Mumbai,Private,Electronics Engineering,78,CET,93451,69,5,4
+D1078,RCOEM Polytechnic Nagpur,Maharashtra,Nagpur,Private,Mechatronics Engineering,69,CET,90229,83,3,4
+D1079,AISSMS Polytechnic Kolhapur,Maharashtra,Kolhapur,Government,Automobile Engineering,81,CET,94761,83,4,5
+D1080,RCOEM Polytechnic Jalgaon,Maharashtra,Jalgaon,Government,Mechanical Engineering,82,CET,76812,82,5,3
+D1081,Sandip Polytechnic Aurangabad,Maharashtra,Aurangabad,Private,Mechatronics Engineering,67,CET,86912,66,3,4
+D1082,MET Polytechnic Pune,Maharashtra,Pune,Private,Electrical Engineering,82,CET,66155,82,5,3
+D1083,MIT Polytechnic Mumbai,Maharashtra,Mumbai,Private,Mechanical Engineering,80,CET,90754,59,5,4
+D1084,AISSMS Polytechnic Thane,Maharashtra,Thane,Government,AI & Data Science,67,CET,31865,82,5,4
+D1085,MET Polytechnic Mumbai,Maharashtra,Mumbai,Private,Electrical Engineering,91,CET,65384,61,5,3
+D1086,AISSMS Polytechnic Solapur,Maharashtra,Solapur,Private,Mechanical Engineering,54,CET,85179,61,3,4
+D1087,KK Wagh Polytechnic Latur,Maharashtra,Latur,Government,Information Technology,72,CET,34376,76,4,5
+D1088,Fr Agnel Polytechnic Sangli,Maharashtra,Sangli,Private,Automobile Engineering,94,CET,40951,60,5,4
+D1089,Fr Agnel Polytechnic Sangli,Maharashtra,Sangli,Private,Electrical Engineering,67,CET,37467,58,5,3
+D1090,YCCE Polytechnic Latur,Maharashtra,Latur,Private,Electronics Engineering,91,CET,63598,72,5,5
+D1091,Terna Polytechnic Navi Mumbai,Maharashtra,Navi Mumbai,Government,Mechanical Engineering,51,CET,59959,76,4,3
+D1092,SIES Polytechnic Satara,Maharashtra,Satara,Private,Electronics Engineering,76,CET,45595,76,4,4
+D1093,AISSMS Polytechnic Satara,Maharashtra,Satara,Government,Mechatronics Engineering,88,CET,84159,68,5,3
+D1094,SIES Polytechnic Solapur,Maharashtra,Solapur,Government,Electrical Engineering,58,CET,48709,58,4,4
+D1095,Government Polytechnic Amravati,Maharashtra,Amravati,Private,Electrical Engineering,88,CET,85847,55,5,3
+D1096,Fr Agnel Polytechnic Jalgaon,Maharashtra,Jalgaon,Private,Automobile Engineering,92,CET,67160,77,4,5
+D1097,SIES Polytechnic Kolhapur,Maharashtra,Kolhapur,Government,Information Technology,82,CET,89384,67,4,4
+D1098,SIES Polytechnic Aurangabad,Maharashtra,Aurangabad,Private,Electronics Engineering,60,CET,48639,81,5,3
+D1099,Fr Agnel Polytechnic Mumbai,Maharashtra,Mumbai,Government,AI & Data Science,60,CET,65376,70,4,5
+D1100,Government Polytechnic Jalgaon,Maharashtra,Jalgaon,Government,Information Technology,77,CET,44309,66,5,4
+D1101,RCOEM Polytechnic Kolhapur,Maharashtra,Kolhapur,Government,Mechanical Engineering,80,CET,43833,58,3,4
+D1102,SIES Polytechnic Latur,Maharashtra,Latur,Private,Information Technology,93,CET,85581,76,5,3
+D1103,YCCE Polytechnic Satara,Maharashtra,Satara,Private,Computer Engineering,71,CET,62844,56,3,4
+D1104,YCCE Polytechnic Nashik,Maharashtra,Nashik,Private,Mechatronics Engineering,59,CET,71651,77,5,3
+D1105,Sandip Polytechnic Aurangabad,Maharashtra,Aurangabad,Government,Civil Engineering,65,CET,56245,65,5,4
+D1106,Government Polytechnic Amravati,Maharashtra,Amravati,Government,AI & Data Science,62,CET,60973,78,4,3
+D1107,Sandip Polytechnic Amravati,Maharashtra,Amravati,Government,Electrical Engineering,73,CET,54290,60,4,5
+D1108,Terna Polytechnic Mumbai,Maharashtra,Mumbai,Private,Automobile Engineering,81,CET,67568,58,5,3
+D1109,KK Wagh Polytechnic Latur,Maharashtra,Latur,Government,Computer Engineering,84,CET,38955,73,4,5
+D1110,AISSMS Polytechnic Mumbai,Maharashtra,Mumbai,Government,Mechatronics Engineering,85,CET,48012,59,3,4
+D1111,Government Polytechnic Kolhapur,Maharashtra,Kolhapur,Government,Information Technology,55,CET,71152,81,5,4
+D1112,SIES Polytechnic Solapur,Maharashtra,Solapur,Government,Electronics Engineering,56,CET,42955,65,3,5
+D1113,KK Wagh Polytechnic Pune,Maharashtra,Pune,Private,Automobile Engineering,80,CET,50454,77,4,3
+D1114,MET Polytechnic Kolhapur,Maharashtra,Kolhapur,Government,Civil Engineering,76,CET,93769,70,3,4
+D1115,MET Polytechnic Mumbai,Maharashtra,Mumbai,Government,AI & Data Science,56,CET,64916,83,4,4
+D1116,KK Wagh Polytechnic Amravati,Maharashtra,Amravati,Private,Electrical Engineering,74,CET,87024,78,4,4
+D1117,MIT Polytechnic Pune,Maharashtra,Pune,Government,Robotics Engineering,65,CET,58554,61,3,5
+D1118,MIT Polytechnic Aurangabad,Maharashtra,Aurangabad,Private,Electronics Engineering,77,CET,53323,63,3,3
+D1119,AISSMS Polytechnic Satara,Maharashtra,Satara,Private,Information Technology,90,CET,57757,57,4,3
+D1120,RCOEM Polytechnic Nashik,Maharashtra,Nashik,Private,Electronics Engineering,89,CET,56957,68,5,4
+D1121,Sinhgad Polytechnic Mumbai,Maharashtra,Mumbai,Private,Electrical Engineering,77,CET,64755,72,4,3
+D1122,MIT Polytechnic Pune,Maharashtra,Pune,Private,AI & Data Science,67,CET,80856,65,4,5
+D1123,MET Polytechnic Pune,Maharashtra,Pune,Private,Robotics Engineering,93,CET,88460,73,4,4
+D1124,MIT Polytechnic Nagpur,Maharashtra,Nagpur,Private,Robotics Engineering,72,CET,56571,67,4,3
+D1125,MIT Polytechnic Nagpur,Maharashtra,Nagpur,Government,Electrical Engineering,90,CET,41443,75,4,5
+D1126,Terna Polytechnic Amravati,Maharashtra,Amravati,Private,AI & Data Science,63,CET,83099,83,4,5
+D1127,KK Wagh Polytechnic Nashik,Maharashtra,Nashik,Government,Automobile Engineering,77,CET,36084,67,3,5
+D1128,SIES Polytechnic Sangli,Maharashtra,Sangli,Government,Electrical Engineering,83,CET,54226,79,5,4
+D1129,KK Wagh Polytechnic Satara,Maharashtra,Satara,Private,Electronics Engineering,64,CET,48279,76,3,5
+D1130,Government Polytechnic Navi Mumbai,Maharashtra,Navi Mumbai,Government,Electronics Engineering,75,CET,33165,60,4,4
+D1131,MIT Polytechnic Jalgaon,Maharashtra,Jalgaon,Government,Electronics Engineering,71,CET,58875,63,3,4
+D1132,KK Wagh Polytechnic Nagpur,Maharashtra,Nagpur,Private,Electronics Engineering,88,CET,33496,76,3,5
+D1133,Sinhgad Polytechnic Pune,Maharashtra,Pune,Private,Electrical Engineering,85,CET,60681,71,3,5
+D1134,MIT Polytechnic Amravati,Maharashtra,Amravati,Government,Information Technology,92,CET,36474,67,4,4
+D1135,Sandip Polytechnic Latur,Maharashtra,Latur,Private,Mechatronics Engineering,64,CET,58710,74,5,3
+D1136,Sandip Polytechnic Nagpur,Maharashtra,Nagpur,Government,Electrical Engineering,69,CET,64612,82,4,3
+D1137,Government Polytechnic Navi Mumbai,Maharashtra,Navi Mumbai,Private,Electrical Engineering,93,CET,68266,70,5,3
+D1138,Sinhgad Polytechnic Pune,Maharashtra,Pune,Government,Civil Engineering,53,CET,79121,59,4,4
+D1139,RCOEM Polytechnic Navi Mumbai,Maharashtra,Navi Mumbai,Private,Mechanical Engineering,88,CET,54284,75,3,4
+D1140,SIES Polytechnic Nashik,Maharashtra,Nashik,Private,Information Technology,51,CET,47203,85,5,3
+D1141,AISSMS Polytechnic Aurangabad,Maharashtra,Aurangabad,Government,Automobile Engineering,94,CET,40263,65,5,5
+D1142,MIT Polytechnic Aurangabad,Maharashtra,Aurangabad,Private,Mechatronics Engineering,62,CET,39950,83,5,5
+D1143,KK Wagh Polytechnic Latur,Maharashtra,Latur,Government,Computer Engineering,56,CET,84823,58,4,3
+D1144,RCOEM Polytechnic Aurangabad,Maharashtra,Aurangabad,Government,Civil Engineering,86,CET,57893,61,5,4
+D1145,Sinhgad Polytechnic Solapur,Maharashtra,Solapur,Government,Computer Engineering,78,CET,86023,64,4,4
+D1146,MET Polytechnic Aurangabad,Maharashtra,Aurangabad,Government,Civil Engineering,62,CET,90561,67,3,3
+D1147,Sandip Polytechnic Navi Mumbai,Maharashtra,Navi Mumbai,Government,Automobile Engineering,84,CET,71317,74,5,3
+D1148,MIT Polytechnic Nagpur,Maharashtra,Nagpur,Private,Mechatronics Engineering,88,CET,47653,56,4,4
+D1149,Sandip Polytechnic Mumbai,Maharashtra,Mumbai,Private,Automobile Engineering,73,CET,60720,76,4,4
+D1150,MET Polytechnic Kolhapur,Maharashtra,Kolhapur,Private,Robotics Engineering,77,CET,74635,58,4,4
+D1151,AISSMS Polytechnic Navi Mumbai,Maharashtra,Navi Mumbai,Government,Electronics Engineering,71,CET,31507,79,5,4
+D1152,Terna Polytechnic Mumbai,Maharashtra,Mumbai,Private,Information Technology,81,CET,78050,73,3,5
+D1153,RCOEM Polytechnic Navi Mumbai,Maharashtra,Navi Mumbai,Government,Robotics Engineering,51,CET,61647,67,4,4
+D1154,Fr Agnel Polytechnic Satara,Maharashtra,Satara,Government,Computer Engineering,67,CET,92241,65,3,3
+D1155,SIES Polytechnic Nashik,Maharashtra,Nashik,Government,Information Technology,85,CET,45226,59,3,3
+D1156,YCCE Polytechnic Solapur,Maharashtra,Solapur,Government,AI & Data Science,70,CET,92915,83,4,3
+D1157,SIES Polytechnic Nashik,Maharashtra,Nashik,Private,Computer Engineering,73,CET,57188,57,4,5
+D1158,MET Polytechnic Sangli,Maharashtra,Sangli,Government,Information Technology,93,CET,36236,74,3,5
+D1159,MIT Polytechnic Solapur,Maharashtra,Solapur,Government,Mechatronics Engineering,73,CET,30352,55,5,4
+D1160,YCCE Polytechnic Satara,Maharashtra,Satara,Government,Information Technology,87,CET,73638,58,3,5
+D1161,MET Polytechnic Latur,Maharashtra,Latur,Private,AI & Data Science,76,CET,36455,63,3,5
+D1162,MIT Polytechnic Sangli,Maharashtra,Sangli,Government,Electrical Engineering,78,CET,41491,58,4,4
+D1163,Fr Agnel Polytechnic Navi Mumbai,Maharashtra,Navi Mumbai,Government,Information Technology,92,CET,85262,73,4,3
+D1164,SIES Polytechnic Solapur,Maharashtra,Solapur,Government,Mechanical Engineering,55,CET,41654,68,4,4
+D1165,MIT Polytechnic Amravati,Maharashtra,Amravati,Private,Electrical Engineering,90,CET,40471,84,3,3
+D1166,RCOEM Polytechnic Nagpur,Maharashtra,Nagpur,Government,Information Technology,61,CET,76686,61,4,4
+D1167,Government Polytechnic Mumbai,Maharashtra,Mumbai,Private,Robotics Engineering,75,CET,78529,61,4,4
+D1168,KK Wagh Polytechnic Satara,Maharashtra,Satara,Private,Information Technology,53,CET,65145,65,3,4
+D1169,Terna Polytechnic Amravati,Maharashtra,Amravati,Private,Automobile Engineering,81,CET,47027,72,3,4
+D1170,AISSMS Polytechnic Satara,Maharashtra,Satara,Government,Civil Engineering,86,CET,33650,63,4,3
+D1171,MET Polytechnic Satara,Maharashtra,Satara,Government,Automobile Engineering,60,CET,82070,73,5,3
+D1172,MIT Polytechnic Aurangabad,Maharashtra,Aurangabad,Private,Mechatronics Engineering,95,CET,47824,62,4,5
+D1173,Sandip Polytechnic Solapur,Maharashtra,Solapur,Government,Robotics Engineering,53,CET,33569,66,4,3
+D1174,RCOEM Polytechnic Nashik,Maharashtra,Nashik,Private,Mechatronics Engineering,91,CET,32168,57,3,3
+D1175,SIES Polytechnic Satara,Maharashtra,Satara,Government,Electronics Engineering,94,CET,53875,77,5,3
+D1176,Fr Agnel Polytechnic Solapur,Maharashtra,Solapur,Government,Automobile Engineering,81,CET,74929,72,4,4
+D1177,MIT Polytechnic Nagpur,Maharashtra,Nagpur,Private,Civil Engineering,95,CET,65244,64,4,3
+D1178,Fr Agnel Polytechnic Sangli,Maharashtra,Sangli,Private,Mechanical Engineering,90,CET,53266,60,3,5
+D1179,Sinhgad Polytechnic Jalgaon,Maharashtra,Jalgaon,Private,Civil Engineering,56,CET,48779,59,3,3
+D1180,Sandip Polytechnic Satara,Maharashtra,Satara,Government,Automobile Engineering,67,CET,65926,64,5,5
+D1181,YCCE Polytechnic Jalgaon,Maharashtra,Jalgaon,Government,Mechanical Engineering,53,CET,63742,85,3,3
+D1182,Sandip Polytechnic Nashik,Maharashtra,Nashik,Private,Electrical Engineering,91,CET,80250,74,4,3
+D1183,RCOEM Polytechnic Thane,Maharashtra,Thane,Private,Mechanical Engineering,82,CET,38561,70,3,5
+D1184,YCCE Polytechnic Amravati,Maharashtra,Amravati,Private,Electronics Engineering,88,CET,53567,79,3,4
+D1185,SIES Polytechnic Satara,Maharashtra,Satara,Private,Computer Engineering,69,CET,79564,61,3,3
+D1186,MET Polytechnic Mumbai,Maharashtra,Mumbai,Private,Information Technology,55,CET,33094,70,5,4
+D1187,RCOEM Polytechnic Latur,Maharashtra,Latur,Government,Civil Engineering,63,CET,30139,79,4,5
+D1188,YCCE Polytechnic Pune,Maharashtra,Pune,Government,AI & Data Science,73,CET,63605,75,4,5
+D1189,Sinhgad Polytechnic Navi Mumbai,Maharashtra,Navi Mumbai,Private,Automobile Engineering,65,CET,55673,76,4,3
+D1190,Sandip Polytechnic Amravati,Maharashtra,Amravati,Private,Automobile Engineering,87,CET,58272,61,5,4
+D1191,Terna Polytechnic Kolhapur,Maharashtra,Kolhapur,Government,Robotics Engineering,65,CET,88435,55,5,4
+D1192,KK Wagh Polytechnic Mumbai,Maharashtra,Mumbai,Private,Civil Engineering,76,CET,90222,75,5,5
+D1193,SIES Polytechnic Latur,Maharashtra,Latur,Private,Automobile Engineering,59,CET,51336,70,4,4
+D1194,KK Wagh Polytechnic Mumbai,Maharashtra,Mumbai,Government,Computer Engineering,84,CET,79633,75,5,5
+D1195,YCCE Polytechnic Nagpur,Maharashtra,Nagpur,Private,Information Technology,58,CET,54337,81,4,4
+D1196,Sinhgad Polytechnic Pune,Maharashtra,Pune,Government,Information Technology,82,CET,83241,73,3,4
+D1197,YCCE Polytechnic Latur,Maharashtra,Latur,Government,Robotics Engineering,76,CET,33832,58,5,3
+D1198,MET Polytechnic Thane,Maharashtra,Thane,Government,Civil Engineering,55,CET,69543,79,5,5
+D1199,YCCE Polytechnic Thane,Maharashtra,Thane,Government,Automobile Engineering,50,CET,39420,57,3,4
+D1200,SIES Polytechnic Solapur,Maharashtra,Solapur,Private,Electronics Engineering,72,CET,64349,66,5,4
+D1201,Fr Agnel Polytechnic Navi Mumbai,Maharashtra,Navi Mumbai,Private,Mechatronics Engineering,60,CET,80041,84,3,3
+D1202,MIT Polytechnic Nagpur,Maharashtra,Nagpur,Private,Electronics Engineering,56,CET,41050,61,3,4
+D1203,MET Polytechnic Latur,Maharashtra,Latur,Private,Mechanical Engineering,61,CET,49494,65,4,5
+D1204,Sandip Polytechnic Sangli,Maharashtra,Sangli,Government,Civil Engineering,95,CET,42220,83,5,3
+D1205,KK Wagh Polytechnic Pune,Maharashtra,Pune,Private,Mechanical Engineering,68,CET,75131,78,3,3
+D1206,RCOEM Polytechnic Nagpur,Maharashtra,Nagpur,Government,Mechanical Engineering,72,CET,30681,82,3,5
+D1207,Sinhgad Polytechnic Satara,Maharashtra,Satara,Government,Electronics Engineering,65,CET,34867,62,3,5
+D1208,KK Wagh Polytechnic Jalgaon,Maharashtra,Jalgaon,Private,Electrical Engineering,58,CET,42726,62,4,3
+D1209,Sandip Polytechnic Mumbai,Maharashtra,Mumbai,Government,Electronics Engineering,68,CET,81135,69,3,4
+D1210,SIES Polytechnic Nagpur,Maharashtra,Nagpur,Government,Mechanical Engineering,61,CET,49501,72,3,5
+D1211,MIT Polytechnic Jalgaon,Maharashtra,Jalgaon,Government,Robotics Engineering,60,CET,54032,61,5,4
+D1212,KK Wagh Polytechnic Nashik,Maharashtra,Nashik,Government,Civil Engineering,53,CET,41313,55,4,4
+D1213,KK Wagh Polytechnic Nashik,Maharashtra,Nashik,Private,Electronics Engineering,88,CET,31823,70,5,5
+D1214,Terna Polytechnic Kolhapur,Maharashtra,Kolhapur,Private,Robotics Engineering,52,CET,43101,75,3,5
+D1215,YCCE Polytechnic Kolhapur,Maharashtra,Kolhapur,Private,Automobile Engineering,55,CET,93301,57,4,3
+D1216,Terna Polytechnic Navi Mumbai,Maharashtra,Navi Mumbai,Private,Robotics Engineering,71,CET,34712,63,4,4
+D1217,Government Polytechnic Satara,Maharashtra,Satara,Government,Civil Engineering,81,CET,72398,72,5,4
+D1218,Terna Polytechnic Thane,Maharashtra,Thane,Government,Electrical Engineering,73,CET,37750,79,5,5
+D1219,MET Polytechnic Jalgaon,Maharashtra,Jalgaon,Private,Civil Engineering,57,CET,66157,70,3,5
+D1220,Sinhgad Polytechnic Nashik,Maharashtra,Nashik,Government,Electronics Engineering,88,CET,69833,55,4,4
+D1221,Fr Agnel Polytechnic Nagpur,Maharashtra,Nagpur,Private,AI & Data Science,60,CET,41717,59,3,3
+D1222,MIT Polytechnic Thane,Maharashtra,Thane,Private,Robotics Engineering,73,CET,39708,66,4,5
+D1223,Terna Polytechnic Mumbai,Maharashtra,Mumbai,Government,AI & Data Science,94,CET,91087,62,3,4
+D1224,YCCE Polytechnic Mumbai,Maharashtra,Mumbai,Private,Computer Engineering,74,CET,70658,85,5,5
+D1225,SIES Polytechnic Solapur,Maharashtra,Solapur,Government,Electronics Engineering,70,CET,54923,83,3,4
+D1226,Terna Polytechnic Solapur,Maharashtra,Solapur,Government,Electronics Engineering,95,CET,36219,71,3,4
+D1227,KK Wagh Polytechnic Amravati,Maharashtra,Amravati,Private,Civil Engineering,71,CET,48025,81,5,4
+D1228,MET Polytechnic Navi Mumbai,Maharashtra,Navi Mumbai,Private,Computer Engineering,89,CET,37792,79,3,4
+D1229,KK Wagh Polytechnic Kolhapur,Maharashtra,Kolhapur,Government,AI & Data Science,93,CET,33199,71,5,5
+D1230,MIT Polytechnic Latur,Maharashtra,Latur,Government,Mechatronics Engineering,67,CET,79962,74,5,5
+D1231,MIT Polytechnic Nashik,Maharashtra,Nashik,Government,Computer Engineering,82,CET,49589,75,4,3
+D1232,AISSMS Polytechnic Sangli,Maharashtra,Sangli,Private,Computer Engineering,69,CET,63834,62,4,4
+D1233,Government Polytechnic Sangli,Maharashtra,Sangli,Private,Computer Engineering,82,CET,51684,74,3,5
+D1234,Sinhgad Polytechnic Nagpur,Maharashtra,Nagpur,Government,Automobile Engineering,93,CET,90749,65,5,4
+D1235,Fr Agnel Polytechnic Amravati,Maharashtra,Amravati,Private,Electronics Engineering,53,CET,56431,57,3,4
+D1236,SIES Polytechnic Nashik,Maharashtra,Nashik,Private,Automobile Engineering,70,CET,48892,80,5,4
+D1237,MIT Polytechnic Pune,Maharashtra,Pune,Government,Information Technology,69,CET,87340,65,4,5
+D1238,SIES Polytechnic Latur,Maharashtra,Latur,Government,Information Technology,59,CET,75162,74,5,4
+D1239,KK Wagh Polytechnic Latur,Maharashtra,Latur,Private,Robotics Engineering,62,CET,73361,57,5,5
+D1240,MIT Polytechnic Sangli,Maharashtra,Sangli,Government,AI & Data Science,85,CET,93766,61,5,3
+D1241,AISSMS Polytechnic Mumbai,Maharashtra,Mumbai,Government,Computer Engineering,63,CET,73256,56,3,5
+D1242,Government Polytechnic Nashik,Maharashtra,Nashik,Private,Robotics Engineering,75,CET,42448,68,5,3
+D1243,Fr Agnel Polytechnic Aurangabad,Maharashtra,Aurangabad,Government,Robotics Engineering,71,CET,78945,65,4,3
+D1244,MIT Polytechnic Satara,Maharashtra,Satara,Private,Automobile Engineering,92,CET,40396,69,4,3
+D1245,SIES Polytechnic Solapur,Maharashtra,Solapur,Government,Mechatronics Engineering,57,CET,50222,71,3,3
+D1246,Terna Polytechnic Jalgaon,Maharashtra,Jalgaon,Government,Civil Engineering,87,CET,52606,74,3,4
+D1247,YCCE Polytechnic Sangli,Maharashtra,Sangli,Government,Automobile Engineering,56,CET,40522,85,3,3
+D1248,Sinhgad Polytechnic Satara,Maharashtra,Satara,Private,Electrical Engineering,82,CET,93087,65,3,3
+D1249,YCCE Polytechnic Sangli,Maharashtra,Sangli,Private,AI & Data Science,63,CET,30044,76,4,3
+D1250,Terna Polytechnic Nashik,Maharashtra,Nashik,Private,Automobile Engineering,78,CET,33717,80,3,5
+D1251,Sinhgad Polytechnic Sangli,Maharashtra,Sangli,Government,Robotics Engineering,82,CET,41198,72,3,3
+D1252,KK Wagh Polytechnic Nashik,Maharashtra,Nashik,Government,Electronics Engineering,94,CET,64801,76,5,3
+D1253,AISSMS Polytechnic Sangli,Maharashtra,Sangli,Government,Mechanical Engineering,89,CET,68127,77,4,3
+D1254,Sandip Polytechnic Aurangabad,Maharashtra,Aurangabad,Government,Mechanical Engineering,94,CET,61442,69,5,4
+D1255,Sandip Polytechnic Pune,Maharashtra,Pune,Private,Electrical Engineering,94,CET,58261,57,5,5
+D1256,RCOEM Polytechnic Mumbai,Maharashtra,Mumbai,Private,Automobile Engineering,89,CET,81301,72,5,3
+D1257,SIES Polytechnic Thane,Maharashtra,Thane,Government,Mechanical Engineering,93,CET,43123,71,4,3
+D1258,YCCE Polytechnic Aurangabad,Maharashtra,Aurangabad,Government,Information Technology,61,CET,83189,55,4,5
+D1259,MET Polytechnic Nashik,Maharashtra,Nashik,Private,Mechatronics Engineering,77,CET,46745,63,4,3
+D1260,AISSMS Polytechnic Thane,Maharashtra,Thane,Government,Mechanical Engineering,78,CET,56820,82,3,5
+D1261,Fr Agnel Polytechnic Amravati,Maharashtra,Amravati,Private,Mechanical Engineering,61,CET,34160,66,4,4
+D1262,KK Wagh Polytechnic Mumbai,Maharashtra,Mumbai,Private,Civil Engineering,67,CET,72616,65,3,3
+D1263,YCCE Polytechnic Navi Mumbai,Maharashtra,Navi Mumbai,Private,Computer Engineering,58,CET,90263,58,3,3
+D1264,AISSMS Polytechnic Mumbai,Maharashtra,Mumbai,Private,AI & Data Science,85,CET,82642,78,4,3
+D1265,SIES Polytechnic Solapur,Maharashtra,Solapur,Government,Civil Engineering,60,CET,35993,70,5,3
+D1266,Fr Agnel Polytechnic Mumbai,Maharashtra,Mumbai,Government,Mechatronics Engineering,63,CET,42399,60,4,3
+D1267,KK Wagh Polytechnic Satara,Maharashtra,Satara,Private,Information Technology,88,CET,79820,59,5,5
+D1268,KK Wagh Polytechnic Nagpur,Maharashtra,Nagpur,Government,Electrical Engineering,72,CET,66608,67,3,4
+D1269,MET Polytechnic Mumbai,Maharashtra,Mumbai,Government,Mechanical Engineering,88,CET,63152,60,4,5
+D1270,MET Polytechnic Latur,Maharashtra,Latur,Private,Civil Engineering,59,CET,77827,68,4,5
+D1271,KK Wagh Polytechnic Jalgaon,Maharashtra,Jalgaon,Government,Electronics Engineering,77,CET,51180,69,3,4
+D1272,MET Polytechnic Thane,Maharashtra,Thane,Government,Computer Engineering,53,CET,61496,61,3,4
+D1273,Terna Polytechnic Sangli,Maharashtra,Sangli,Private,Computer Engineering,50,CET,64939,71,4,4
+D1274,YCCE Polytechnic Nagpur,Maharashtra,Nagpur,Government,Information Technology,93,CET,63502,77,4,3
+D1275,Government Polytechnic Aurangabad,Maharashtra,Aurangabad,Private,Automobile Engineering,55,CET,44150,57,3,3
+D1276,Terna Polytechnic Satara,Maharashtra,Satara,Private,AI & Data Science,89,CET,64318,67,5,5
+D1277,Terna Polytechnic Pune,Maharashtra,Pune,Government,AI & Data Science,60,CET,59552,57,3,5
+D1278,YCCE Polytechnic Amravati,Maharashtra,Amravati,Private,Mechatronics Engineering,53,CET,63928,56,3,4
+D1279,Sandip Polytechnic Nashik,Maharashtra,Nashik,Private,Automobile Engineering,83,CET,91572,55,4,5
+D1280,MIT Polytechnic Jalgaon,Maharashtra,Jalgaon,Private,Mechanical Engineering,65,CET,77318,60,3,4
+D1281,MIT Polytechnic Navi Mumbai,Maharashtra,Navi Mumbai,Private,Information Technology,94,CET,37420,85,4,5
+D1282,YCCE Polytechnic Latur,Maharashtra,Latur,Private,Electrical Engineering,58,CET,94035,81,3,5
+D1283,AISSMS Polytechnic Sangli,Maharashtra,Sangli,Private,Mechatronics Engineering,81,CET,42449,76,5,5
+D1284,MIT Polytechnic Jalgaon,Maharashtra,Jalgaon,Private,Electrical Engineering,90,CET,78281,85,4,3
+D1285,Terna Polytechnic Nagpur,Maharashtra,Nagpur,Government,Automobile Engineering,73,CET,64484,75,3,3
+D1286,SIES Polytechnic Mumbai,Maharashtra,Mumbai,Government,Information Technology,72,CET,41926,83,3,5
+D1287,Sandip Polytechnic Pune,Maharashtra,Pune,Government,Computer Engineering,93,CET,88604,61,4,5
+D1288,MIT Polytechnic Sangli,Maharashtra,Sangli,Government,Computer Engineering,51,CET,38902,73,5,4
+D1289,SIES Polytechnic Solapur,Maharashtra,Solapur,Private,Civil Engineering,95,CET,43006,69,5,4
+D1290,KK Wagh Polytechnic Solapur,Maharashtra,Solapur,Private,Automobile Engineering,59,CET,59190,63,4,3
+D1291,Sandip Polytechnic Kolhapur,Maharashtra,Kolhapur,Government,Mechatronics Engineering,54,CET,45623,83,5,3
+D1292,AISSMS Polytechnic Navi Mumbai,Maharashtra,Navi Mumbai,Government,AI & Data Science,50,CET,62921,74,3,4
+D1293,SIES Polytechnic Aurangabad,Maharashtra,Aurangabad,Government,Mechatronics Engineering,69,CET,90082,77,4,5
+D1294,Sinhgad Polytechnic Mumbai,Maharashtra,Mumbai,Private,Robotics Engineering,86,CET,67601,73,3,5
+D1295,AISSMS Polytechnic Satara,Maharashtra,Satara,Private,Computer Engineering,69,CET,88093,73,4,5
+D1296,SIES Polytechnic Aurangabad,Maharashtra,Aurangabad,Government,Mechatronics Engineering,66,CET,90385,56,4,3
+D1297,Terna Polytechnic Sangli,Maharashtra,Sangli,Private,Computer Engineering,73,CET,51414,62,5,5
+D1298,MET Polytechnic Nagpur,Maharashtra,Nagpur,Private,Electronics Engineering,84,CET,83994,78,5,3
+D1299,MIT Polytechnic Navi Mumbai,Maharashtra,Navi Mumbai,Private,AI & Data Science,60,CET,89844,71,3,4
+D1300,MET Polytechnic Amravati,Maharashtra,Amravati,Private,Robotics Engineering,74,CET,57846,56,4,3
+D1301,Sandip Polytechnic Nagpur,Maharashtra,Nagpur,Private,Electrical Engineering,80,CET,49564,76,4,4
+D1302,Fr Agnel Polytechnic Jalgaon,Maharashtra,Jalgaon,Private,Mechatronics Engineering,81,CET,55460,73,5,4
+D1303,MIT Polytechnic Pune,Maharashtra,Pune,Private,Information Technology,69,CET,62192,71,4,4
+D1304,Fr Agnel Polytechnic Solapur,Maharashtra,Solapur,Government,Electronics Engineering,95,CET,78159,62,4,3
+D1305,Fr Agnel Polytechnic Satara,Maharashtra,Satara,Private,Information Technology,89,CET,37995,72,5,4
+D1306,Government Polytechnic Kolhapur,Maharashtra,Kolhapur,Government,AI & Data Science,77,CET,90418,63,3,5
+D1307,Sandip Polytechnic Pune,Maharashtra,Pune,Private,Robotics Engineering,51,CET,41725,67,4,3
+D1308,KK Wagh Polytechnic Navi Mumbai,Maharashtra,Navi Mumbai,Government,Information Technology,61,CET,42386,83,5,3
+D1309,Government Polytechnic Kolhapur,Maharashtra,Kolhapur,Government,Electronics Engineering,59,CET,33030,55,3,4
+D1310,YCCE Polytechnic Aurangabad,Maharashtra,Aurangabad,Government,Electrical Engineering,68,CET,42462,68,3,4
+D1311,RCOEM Polytechnic Jalgaon,Maharashtra,Jalgaon,Government,Robotics Engineering,69,CET,34646,71,4,3
+D1312,Sandip Polytechnic Aurangabad,Maharashtra,Aurangabad,Private,Automobile Engineering,67,CET,68404,64,4,3
+D1313,SIES Polytechnic Navi Mumbai,Maharashtra,Navi Mumbai,Private,Civil Engineering,82,CET,73258,64,3,3
+D1314,MIT Polytechnic Aurangabad,Maharashtra,Aurangabad,Private,Computer Engineering,75,CET,80426,73,4,4
+D1315,Sinhgad Polytechnic Amravati,Maharashtra,Amravati,Government,AI & Data Science,95,CET,58714,59,3,4
+D1316,AISSMS Polytechnic Nashik,Maharashtra,Nashik,Private,Electronics Engineering,75,CET,82587,65,4,3
+D1317,MIT Polytechnic Satara,Maharashtra,Satara,Government,Automobile Engineering,76,CET,65542,69,5,3
+D1318,Fr Agnel Polytechnic Aurangabad,Maharashtra,Aurangabad,Government,Automobile Engineering,62,CET,68229,80,4,5
+D1319,YCCE Polytechnic Mumbai,Maharashtra,Mumbai,Private,Automobile Engineering,91,CET,85664,59,3,5
+D1320,SIES Polytechnic Navi Mumbai,Maharashtra,Navi Mumbai,Private,Automobile Engineering,82,CET,80758,82,4,4
+D1321,Fr Agnel Polytechnic Amravati,Maharashtra,Amravati,Government,Computer Engineering,50,CET,39648,77,5,3
+D1322,AISSMS Polytechnic Amravati,Maharashtra,Amravati,Government,Robotics Engineering,89,CET,63949,57,5,3
+D1323,Sandip Polytechnic Pune,Maharashtra,Pune,Private,AI & Data Science,61,CET,40227,60,5,5
+D1324,MIT Polytechnic Kolhapur,Maharashtra,Kolhapur,Private,Computer Engineering,55,CET,86059,78,5,4
+D1325,AISSMS Polytechnic Nagpur,Maharashtra,Nagpur,Government,Automobile Engineering,69,CET,33321,69,4,3
+D1326,MET Polytechnic Mumbai,Maharashtra,Mumbai,Private,Information Technology,92,CET,72782,66,5,5
+D1327,MET Polytechnic Mumbai,Maharashtra,Mumbai,Government,Automobile Engineering,54,CET,62116,55,3,5
+D1328,Sandip Polytechnic Sangli,Maharashtra,Sangli,Government,Civil Engineering,86,CET,44166,62,4,4
+D1329,Sandip Polytechnic Jalgaon,Maharashtra,Jalgaon,Private,AI & Data Science,68,CET,76097,71,4,3
+D1330,Fr Agnel Polytechnic Jalgaon,Maharashtra,Jalgaon,Government,Mechatronics Engineering,61,CET,33689,72,5,4
+D1331,Terna Polytechnic Pune,Maharashtra,Pune,Private,Computer Engineering,85,CET,94119,83,5,5
+D1332,KK Wagh Polytechnic Sangli,Maharashtra,Sangli,Private,Electrical Engineering,66,CET,45179,74,3,4
+D1333,MET Polytechnic Nagpur,Maharashtra,Nagpur,Government,Robotics Engineering,92,CET,74101,67,4,3
+D1334,Terna Polytechnic Navi Mumbai,Maharashtra,Navi Mumbai,Government,Computer Engineering,73,CET,63356,73,3,5
+D1335,AISSMS Polytechnic Kolhapur,Maharashtra,Kolhapur,Government,Information Technology,53,CET,44918,60,4,4
+D1336,RCOEM Polytechnic Latur,Maharashtra,Latur,Private,Civil Engineering,60,CET,50372,70,4,5
+D1337,AISSMS Polytechnic Latur,Maharashtra,Latur,Private,Robotics Engineering,94,CET,36977,74,4,3
+D1338,MIT Polytechnic Aurangabad,Maharashtra,Aurangabad,Private,Information Technology,91,CET,41500,73,4,5
+D1339,Sandip Polytechnic Satara,Maharashtra,Satara,Private,Automobile Engineering,95,CET,73829,76,3,3
+D1340,Fr Agnel Polytechnic Latur,Maharashtra,Latur,Government,Robotics Engineering,86,CET,69911,58,3,4
+D1341,YCCE Polytechnic Amravati,Maharashtra,Amravati,Government,Mechatronics Engineering,55,CET,79684,72,4,3
+D1342,MET Polytechnic Amravati,Maharashtra,Amravati,Private,AI & Data Science,65,CET,70915,76,3,5
+D1343,KK Wagh Polytechnic Nagpur,Maharashtra,Nagpur,Government,Civil Engineering,69,CET,73046,66,4,5
+D1344,MIT Polytechnic Pune,Maharashtra,Pune,Private,Mechanical Engineering,60,CET,63433,70,4,4
+D1345,Terna Polytechnic Latur,Maharashtra,Latur,Government,Computer Engineering,78,CET,68207,69,4,3
+D1346,AISSMS Polytechnic Thane,Maharashtra,Thane,Private,Mechanical Engineering,77,CET,38502,78,4,4
+D1347,YCCE Polytechnic Navi Mumbai,Maharashtra,Navi Mumbai,Government,Automobile Engineering,86,CET,55298,75,3,3
+D1348,Sinhgad Polytechnic Thane,Maharashtra,Thane,Private,Electrical Engineering,68,CET,93140,74,5,3
+D1349,Government Polytechnic Aurangabad,Maharashtra,Aurangabad,Private,Mechanical Engineering,77,CET,40724,68,5,3
+D1350,MET Polytechnic Solapur,Maharashtra,Solapur,Government,Civil Engineering,73,CET,77228,59,4,5
+D1351,MIT Polytechnic Kolhapur,Maharashtra,Kolhapur,Private,Robotics Engineering,66,CET,64257,80,4,4
+D1352,SIES Polytechnic Mumbai,Maharashtra,Mumbai,Private,Mechatronics Engineering,75,CET,65445,73,3,3
+D1353,Sandip Polytechnic Latur,Maharashtra,Latur,Private,AI & Data Science,86,CET,62889,78,5,5
+D1354,RCOEM Polytechnic Nagpur,Maharashtra,Nagpur,Private,Electronics Engineering,62,CET,49238,70,3,4
+D1355,AISSMS Polytechnic Satara,Maharashtra,Satara,Government,Automobile Engineering,64,CET,71094,59,3,3
+D1356,YCCE Polytechnic Navi Mumbai,Maharashtra,Navi Mumbai,Private,Civil Engineering,95,CET,84435,58,4,4
+D1357,Government Polytechnic Latur,Maharashtra,Latur,Private,Automobile Engineering,60,CET,78327,61,5,5
+D1358,YCCE Polytechnic Sangli,Maharashtra,Sangli,Government,AI & Data Science,79,CET,80320,59,4,5
+D1359,SIES Polytechnic Pune,Maharashtra,Pune,Government,AI & Data Science,76,CET,59660,81,5,5
+D1360,RCOEM Polytechnic Kolhapur,Maharashtra,Kolhapur,Private,Robotics Engineering,95,CET,45759,57,5,5
+D1361,Sandip Polytechnic Navi Mumbai,Maharashtra,Navi Mumbai,Government,Computer Engineering,72,CET,77220,59,4,4
+D1362,SIES Polytechnic Aurangabad,Maharashtra,Aurangabad,Private,Electrical Engineering,86,CET,54022,62,3,4
+D1363,Terna Polytechnic Nashik,Maharashtra,Nashik,Government,AI & Data Science,93,CET,43033,56,4,3
+D1364,MET Polytechnic Nashik,Maharashtra,Nashik,Government,AI & Data Science,85,CET,31161,80,3,3
+D1365,RCOEM Polytechnic Thane,Maharashtra,Thane,Private,AI & Data Science,84,CET,60306,67,5,4
+D1366,Terna Polytechnic Solapur,Maharashtra,Solapur,Private,Mechatronics Engineering,77,CET,45045,65,5,5
+D1367,KK Wagh Polytechnic Satara,Maharashtra,Satara,Private,Robotics Engineering,51,CET,71161,58,4,3
+D1368,RCOEM Polytechnic Nashik,Maharashtra,Nashik,Government,Electronics Engineering,79,CET,88094,55,5,5
+D1369,Sandip Polytechnic Nagpur,Maharashtra,Nagpur,Government,Electronics Engineering,57,CET,68439,68,3,3
+D1370,AISSMS Polytechnic Mumbai,Maharashtra,Mumbai,Government,AI & Data Science,53,CET,65532,56,4,4
+D1371,Sinhgad Polytechnic Sangli,Maharashtra,Sangli,Government,Civil Engineering,93,CET,85934,81,4,3
+D1372,MIT Polytechnic Mumbai,Maharashtra,Mumbai,Private,Information Technology,54,CET,30077,68,3,3
+D1373,SIES Polytechnic Nashik,Maharashtra,Nashik,Government,Electronics Engineering,59,CET,40313,72,3,4
+D1374,Government Polytechnic Pune,Maharashtra,Pune,Government,Electronics Engineering,78,CET,37719,58,4,3
+D1375,Terna Polytechnic Navi Mumbai,Maharashtra,Navi Mumbai,Private,Mechanical Engineering,57,CET,89732,71,5,3
+D1376,Sandip Polytechnic Latur,Maharashtra,Latur,Private,Civil Engineering,76,CET,41920,69,5,4
+D1377,Sinhgad Polytechnic Navi Mumbai,Maharashtra,Navi Mumbai,Private,Information Technology,52,CET,71464,61,3,3
+D1378,SIES Polytechnic Navi Mumbai,Maharashtra,Navi Mumbai,Government,Robotics Engineering,83,CET,53547,61,3,4
+D1379,MET Polytechnic Mumbai,Maharashtra,Mumbai,Private,Mechatronics Engineering,71,CET,68620,58,3,4
+D1380,SIES Polytechnic Latur,Maharashtra,Latur,Private,AI & Data Science,60,CET,34404,71,5,4
+D1381,Terna Polytechnic Pune,Maharashtra,Pune,Private,Mechanical Engineering,63,CET,85698,72,5,3
+D1382,KK Wagh Polytechnic Solapur,Maharashtra,Solapur,Government,Mechatronics Engineering,95,CET,66616,59,4,5
+D1383,YCCE Polytechnic Satara,Maharashtra,Satara,Government,Automobile Engineering,56,CET,57509,70,5,5
+D1384,RCOEM Polytechnic Mumbai,Maharashtra,Mumbai,Government,Mechatronics Engineering,90,CET,78443,68,4,5
+D1385,Sinhgad Polytechnic Solapur,Maharashtra,Solapur,Government,Information Technology,80,CET,67843,66,5,3
+D1386,MET Polytechnic Nagpur,Maharashtra,Nagpur,Private,Automobile Engineering,93,CET,80073,84,3,3
+D1387,MIT Polytechnic Mumbai,Maharashtra,Mumbai,Private,Automobile Engineering,66,CET,86765,74,4,5
+D1388,SIES Polytechnic Kolhapur,Maharashtra,Kolhapur,Private,Information Technology,55,CET,34005,85,3,3
+D1389,Fr Agnel Polytechnic Thane,Maharashtra,Thane,Government,Electronics Engineering,75,CET,65304,85,3,5
+D1390,MET Polytechnic Solapur,Maharashtra,Solapur,Government,Electrical Engineering,53,CET,48703,55,5,4
+D1391,Sandip Polytechnic Aurangabad,Maharashtra,Aurangabad,Government,Robotics Engineering,81,CET,43022,77,4,5
+D1392,Sinhgad Polytechnic Mumbai,Maharashtra,Mumbai,Government,Electrical Engineering,64,CET,44668,60,4,3
+D1393,Government Polytechnic Nashik,Maharashtra,Nashik,Government,Electronics Engineering,77,CET,39756,83,3,3
+D1394,Government Polytechnic Nashik,Maharashtra,Nashik,Private,Electronics Engineering,70,CET,46167,64,4,5
+D1395,YCCE Polytechnic Amravati,Maharashtra,Amravati,Government,Robotics Engineering,69,CET,75382,55,3,4
+D1396,AISSMS Polytechnic Thane,Maharashtra,Thane,Government,Information Technology,69,CET,85101,55,4,3
+D1397,KK Wagh Polytechnic Latur,Maharashtra,Latur,Government,Electrical Engineering,75,CET,33373,74,3,5
+D1398,Fr Agnel Polytechnic Nashik,Maharashtra,Nashik,Government,Mechatronics Engineering,92,CET,71464,70,3,5
+D1399,Fr Agnel Polytechnic Nashik,Maharashtra,Nashik,Government,Information Technology,78,CET,37914,84,4,5
+D1400,AISSMS Polytechnic Aurangabad,Maharashtra,Aurangabad,Private,Electrical Engineering,95,CET,43677,74,3,4
+D1401,Terna Polytechnic Nashik,Maharashtra,Nashik,Private,Automobile Engineering,84,CET,77917,66,4,4
+D1402,Terna Polytechnic Navi Mumbai,Maharashtra,Navi Mumbai,Government,Civil Engineering,72,CET,64287,84,3,5
+D1403,SIES Polytechnic Kolhapur,Maharashtra,Kolhapur,Private,Information Technology,58,CET,44979,83,3,4
+D1404,MET Polytechnic Latur,Maharashtra,Latur,Government,Automobile Engineering,84,CET,90503,78,3,4
+D1405,SIES Polytechnic Satara,Maharashtra,Satara,Private,AI & Data Science,51,CET,73357,69,3,3
+D1406,RCOEM Polytechnic Thane,Maharashtra,Thane,Private,AI & Data Science,75,CET,66416,76,4,3
+D1407,MIT Polytechnic Nagpur,Maharashtra,Nagpur,Government,Electrical Engineering,83,CET,73906,56,3,4
+D1408,YCCE Polytechnic Solapur,Maharashtra,Solapur,Government,Mechanical Engineering,66,CET,77816,68,3,3
+D1409,Sandip Polytechnic Satara,Maharashtra,Satara,Government,Civil Engineering,54,CET,63932,76,4,4
+D1410,MIT Polytechnic Mumbai,Maharashtra,Mumbai,Government,Automobile Engineering,87,CET,86539,75,5,4
+D1411,MIT Polytechnic Navi Mumbai,Maharashtra,Navi Mumbai,Private,Robotics Engineering,52,CET,75808,62,4,4
+D1412,MIT Polytechnic Nashik,Maharashtra,Nashik,Government,Computer Engineering,73,CET,71726,70,3,3
+D1413,Fr Agnel Polytechnic Jalgaon,Maharashtra,Jalgaon,Private,Electronics Engineering,59,CET,61181,59,3,4
+D1414,RCOEM Polytechnic Amravati,Maharashtra,Amravati,Private,Automobile Engineering,87,CET,60791,84,5,3
+D1415,Government Polytechnic Pune,Maharashtra,Pune,Government,Mechatronics Engineering,56,CET,52147,76,3,3
+D1416,YCCE Polytechnic Navi Mumbai,Maharashtra,Navi Mumbai,Government,Electrical Engineering,55,CET,60961,69,5,5
+D1417,Sinhgad Polytechnic Kolhapur,Maharashtra,Kolhapur,Private,Information Technology,63,CET,50644,75,4,5
+D1418,Fr Agnel Polytechnic Thane,Maharashtra,Thane,Government,Computer Engineering,55,CET,76230,83,5,5
+D1419,RCOEM Polytechnic Nashik,Maharashtra,Nashik,Government,Mechanical Engineering,95,CET,82969,75,4,5
+D1420,Sandip Polytechnic Jalgaon,Maharashtra,Jalgaon,Private,Automobile Engineering,65,CET,70779,56,3,4
+D1421,Sandip Polytechnic Navi Mumbai,Maharashtra,Navi Mumbai,Private,Civil Engineering,52,CET,76680,73,3,5
+D1422,Terna Polytechnic Amravati,Maharashtra,Amravati,Private,Robotics Engineering,93,CET,69448,65,4,5
+D1423,YCCE Polytechnic Nagpur,Maharashtra,Nagpur,Private,Robotics Engineering,55,CET,42205,66,3,5
+D1424,Sinhgad Polytechnic Thane,Maharashtra,Thane,Government,Automobile Engineering,67,CET,31562,83,3,3
+D1425,Government Polytechnic Pune,Maharashtra,Pune,Government,Mechatronics Engineering,73,CET,65542,81,5,4
+D1426,Government Polytechnic Satara,Maharashtra,Satara,Private,Electronics Engineering,74,CET,84203,77,3,3
+D1427,KK Wagh Polytechnic Nashik,Maharashtra,Nashik,Government,Robotics Engineering,85,CET,67825,85,5,5
+D1428,AISSMS Polytechnic Mumbai,Maharashtra,Mumbai,Private,Electronics Engineering,88,CET,80104,58,5,4
+D1429,KK Wagh Polytechnic Kolhapur,Maharashtra,Kolhapur,Private,Automobile Engineering,75,CET,65962,67,4,4
+D1430,MIT Polytechnic Latur,Maharashtra,Latur,Private,Mechatronics Engineering,60,CET,92713,75,5,4
+D1431,Terna Polytechnic Latur,Maharashtra,Latur,Government,Mechanical Engineering,71,CET,89676,85,4,4
+D1432,MET Polytechnic Nashik,Maharashtra,Nashik,Government,Electronics Engineering,64,CET,60674,71,3,4
+D1433,MIT Polytechnic Satara,Maharashtra,Satara,Private,Computer Engineering,89,CET,92719,56,3,5
+D1434,MIT Polytechnic Mumbai,Maharashtra,Mumbai,Private,AI & Data Science,65,CET,85164,80,5,4
+D1435,AISSMS Polytechnic Aurangabad,Maharashtra,Aurangabad,Private,Automobile Engineering,69,CET,71887,70,3,5
+D1436,MET Polytechnic Latur,Maharashtra,Latur,Government,Civil Engineering,80,CET,34190,82,4,3
+D1437,SIES Polytechnic Jalgaon,Maharashtra,Jalgaon,Private,Computer Engineering,80,CET,48856,73,4,4
+D1438,MET Polytechnic Thane,Maharashtra,Thane,Private,AI & Data Science,78,CET,51553,59,3,5
+D1439,SIES Polytechnic Mumbai,Maharashtra,Mumbai,Government,Civil Engineering,92,CET,80569,61,3,5
+D1440,MET Polytechnic Amravati,Maharashtra,Amravati,Private,Electronics Engineering,77,CET,90250,63,4,3
+D1441,YCCE Polytechnic Kolhapur,Maharashtra,Kolhapur,Government,Computer Engineering,91,CET,69915,57,4,5
+D1442,YCCE Polytechnic Thane,Maharashtra,Thane,Private,Automobile Engineering,55,CET,59051,81,5,5
+D1443,KK Wagh Polytechnic Pune,Maharashtra,Pune,Private,AI & Data Science,65,CET,79265,62,3,5
+D1444,RCOEM Polytechnic Mumbai,Maharashtra,Mumbai,Government,Mechatronics Engineering,94,CET,74308,66,3,5
+D1445,Terna Polytechnic Sangli,Maharashtra,Sangli,Government,Robotics Engineering,83,CET,52576,70,5,5
+D1446,Sandip Polytechnic Nagpur,Maharashtra,Nagpur,Private,Electronics Engineering,75,CET,44416,57,3,4
+D1447,MIT Polytechnic Mumbai,Maharashtra,Mumbai,Private,Information Technology,81,CET,74686,69,3,5
+D1448,SIES Polytechnic Pune,Maharashtra,Pune,Private,Mechanical Engineering,71,CET,72808,58,3,5
+D1449,Terna Polytechnic Latur,Maharashtra,Latur,Private,Robotics Engineering,80,CET,43893,83,5,3
+D1450,YCCE Polytechnic Mumbai,Maharashtra,Mumbai,Government,Mechanical Engineering,79,CET,79544,55,3,5
+D1451,RCOEM Polytechnic Nashik,Maharashtra,Nashik,Government,Information Technology,60,CET,53372,69,3,4
+D1452,Sinhgad Polytechnic Amravati,Maharashtra,Amravati,Government,Mechanical Engineering,84,CET,81264,78,5,5
+D1453,RCOEM Polytechnic Nashik,Maharashtra,Nashik,Private,Mechanical Engineering,90,CET,53856,80,4,5
+D1454,Sinhgad Polytechnic Nashik,Maharashtra,Nashik,Private,Civil Engineering,67,CET,49578,57,4,3
+D1455,Terna Polytechnic Satara,Maharashtra,Satara,Private,Civil Engineering,76,CET,69690,81,3,3
+D1456,SIES Polytechnic Pune,Maharashtra,Pune,Private,Computer Engineering,78,CET,34749,81,4,3
+D1457,Government Polytechnic Navi Mumbai,Maharashtra,Navi Mumbai,Government,Robotics Engineering,81,CET,91429,80,5,5
+D1458,Government Polytechnic Mumbai,Maharashtra,Mumbai,Private,Electronics Engineering,91,CET,91553,77,5,5
+D1459,Sinhgad Polytechnic Mumbai,Maharashtra,Mumbai,Government,Mechatronics Engineering,58,CET,56223,71,5,5
+D1460,Government Polytechnic Kolhapur,Maharashtra,Kolhapur,Government,Mechanical Engineering,83,CET,39123,74,3,5
+D1461,YCCE Polytechnic Sangli,Maharashtra,Sangli,Government,Mechatronics Engineering,91,CET,34996,66,4,4
+D1462,MET Polytechnic Thane,Maharashtra,Thane,Private,Mechanical Engineering,94,CET,31760,83,3,4
+D1463,KK Wagh Polytechnic Latur,Maharashtra,Latur,Government,AI & Data Science,82,CET,39939,70,5,4
+D1464,Sinhgad Polytechnic Aurangabad,Maharashtra,Aurangabad,Government,Electrical Engineering,82,CET,55414,71,3,5
+D1465,MET Polytechnic Kolhapur,Maharashtra,Kolhapur,Government,AI & Data Science,88,CET,68909,59,4,5
+D1466,Fr Agnel Polytechnic Latur,Maharashtra,Latur,Private,Electronics Engineering,55,CET,40356,62,5,3
+D1467,KK Wagh Polytechnic Latur,Maharashtra,Latur,Private,AI & Data Science,84,CET,42324,58,5,4
+D1468,RCOEM Polytechnic Latur,Maharashtra,Latur,Government,Automobile Engineering,60,CET,31410,74,3,5
+D1469,YCCE Polytechnic Kolhapur,Maharashtra,Kolhapur,Government,Electronics Engineering,83,CET,94356,77,3,5
+D1470,YCCE Polytechnic Navi Mumbai,Maharashtra,Navi Mumbai,Government,Mechatronics Engineering,90,CET,73552,71,5,4
+D1471,Fr Agnel Polytechnic Nagpur,Maharashtra,Nagpur,Government,Computer Engineering,86,CET,67906,68,5,3
+D1472,AISSMS Polytechnic Nashik,Maharashtra,Nashik,Private,Electrical Engineering,90,CET,90731,83,5,3
+D1473,AISSMS Polytechnic Kolhapur,Maharashtra,Kolhapur,Government,Mechatronics Engineering,60,CET,90921,68,5,3
+D1474,Fr Agnel Polytechnic Latur,Maharashtra,Latur,Private,AI & Data Science,59,CET,91785,79,5,3
+D1475,MET Polytechnic Kolhapur,Maharashtra,Kolhapur,Private,Robotics Engineering,66,CET,74339,76,5,5
+D1476,Terna Polytechnic Satara,Maharashtra,Satara,Private,Electronics Engineering,94,CET,87741,63,5,5
+D1477,KK Wagh Polytechnic Nashik,Maharashtra,Nashik,Private,Robotics Engineering,85,CET,33958,76,4,5
+D1478,MET Polytechnic Jalgaon,Maharashtra,Jalgaon,Government,Information Technology,83,CET,92756,74,3,3
+D1479,KK Wagh Polytechnic Thane,Maharashtra,Thane,Government,Computer Engineering,73,CET,81415,68,4,5
+D1480,YCCE Polytechnic Sangli,Maharashtra,Sangli,Government,Electrical Engineering,60,CET,34394,55,3,3
+D1481,YCCE Polytechnic Pune,Maharashtra,Pune,Private,Electronics Engineering,54,CET,94230,78,5,3
+D1482,KK Wagh Polytechnic Latur,Maharashtra,Latur,Government,Robotics Engineering,88,CET,34283,70,3,5
+D1483,Terna Polytechnic Pune,Maharashtra,Pune,Government,Civil Engineering,50,CET,58558,74,5,3
+D1484,Sinhgad Polytechnic Pune,Maharashtra,Pune,Government,Mechatronics Engineering,77,CET,57280,80,5,5
+D1485,MET Polytechnic Sangli,Maharashtra,Sangli,Private,Electrical Engineering,68,CET,42526,71,4,4
+D1486,YCCE Polytechnic Kolhapur,Maharashtra,Kolhapur,Government,Civil Engineering,50,CET,74077,76,4,5
+D1487,MET Polytechnic Nagpur,Maharashtra,Nagpur,Private,Information Technology,56,CET,65005,73,3,4
+D1488,MET Polytechnic Solapur,Maharashtra,Solapur,Government,Electronics Engineering,59,CET,71322,59,3,4
+D1489,Sandip Polytechnic Amravati,Maharashtra,Amravati,Private,Mechanical Engineering,88,CET,46877,57,5,4
+D1490,Sinhgad Polytechnic Mumbai,Maharashtra,Mumbai,Private,Electrical Engineering,73,CET,56081,85,5,5
+D1491,Sinhgad Polytechnic Solapur,Maharashtra,Solapur,Government,Civil Engineering,64,CET,88189,78,4,3
+D1492,Fr Agnel Polytechnic Latur,Maharashtra,Latur,Private,Information Technology,63,CET,88675,63,4,4
+D1493,AISSMS Polytechnic Thane,Maharashtra,Thane,Government,Mechanical Engineering,79,CET,68596,62,3,3
+D1494,MIT Polytechnic Satara,Maharashtra,Satara,Private,Mechanical Engineering,85,CET,89064,81,5,4
+D1495,Fr Agnel Polytechnic Kolhapur,Maharashtra,Kolhapur,Government,Civil Engineering,67,CET,71097,58,4,5
+D1496,Terna Polytechnic Satara,Maharashtra,Satara,Government,Automobile Engineering,78,CET,54118,67,3,4
+D1497,RCOEM Polytechnic Amravati,Maharashtra,Amravati,Private,Electrical Engineering,55,CET,30355,76,5,3
+D1498,Terna Polytechnic Mumbai,Maharashtra,Mumbai,Government,Electrical Engineering,53,CET,93889,58,4,5
+D1499,YCCE Polytechnic Amravati,Maharashtra,Amravati,Private,Electronics Engineering,57,CET,58752,80,5,4
+D1500,Government Polytechnic Solapur,Maharashtra,Solapur,Private,Computer Engineering,63,CET,89636,67,3,5
+D1501,Terna Polytechnic Satara,Maharashtra,Satara,Private,Electrical Engineering,56,CET,78051,76,5,5
+D1502,KK Wagh Polytechnic Satara,Maharashtra,Satara,Private,Electronics Engineering,66,CET,89754,84,5,5
+D1503,Sandip Polytechnic Kolhapur,Maharashtra,Kolhapur,Private,Information Technology,75,CET,33730,69,5,3
+D1504,AISSMS Polytechnic Satara,Maharashtra,Satara,Government,Civil Engineering,69,CET,76089,81,4,5
+D1505,Government Polytechnic Jalgaon,Maharashtra,Jalgaon,Private,Computer Engineering,69,CET,41987,55,5,4
+D1506,Fr Agnel Polytechnic Kolhapur,Maharashtra,Kolhapur,Private,Mechanical Engineering,91,CET,40188,61,5,3
+D1507,Fr Agnel Polytechnic Nashik,Maharashtra,Nashik,Government,Automobile Engineering,84,CET,91051,66,3,5
+D1508,RCOEM Polytechnic Mumbai,Maharashtra,Mumbai,Private,Information Technology,89,CET,48440,83,3,4
+D1509,AISSMS Polytechnic Jalgaon,Maharashtra,Jalgaon,Government,Mechatronics Engineering,85,CET,74502,77,4,4
+D1510,Terna Polytechnic Amravati,Maharashtra,Amravati,Private,Electronics Engineering,87,CET,56865,67,4,5
+D1511,MIT Polytechnic Jalgaon,Maharashtra,Jalgaon,Private,Electrical Engineering,85,CET,61675,56,4,3
+D1512,Terna Polytechnic Navi Mumbai,Maharashtra,Navi Mumbai,Government,Robotics Engineering,50,CET,40088,67,3,4
+D1513,AISSMS Polytechnic Nashik,Maharashtra,Nashik,Private,Computer Engineering,76,CET,47329,73,5,5
+D1514,Sandip Polytechnic Jalgaon,Maharashtra,Jalgaon,Private,AI & Data Science,50,CET,66807,71,3,4
+D1515,MIT Polytechnic Solapur,Maharashtra,Solapur,Private,Computer Engineering,61,CET,81499,81,3,3
+D1516,SIES Polytechnic Jalgaon,Maharashtra,Jalgaon,Government,Electrical Engineering,78,CET,49063,64,3,5
+D1517,AISSMS Polytechnic Kolhapur,Maharashtra,Kolhapur,Private,Computer Engineering,92,CET,45160,64,5,3
+D1518,MET Polytechnic Satara,Maharashtra,Satara,Private,Robotics Engineering,82,CET,44753,77,3,5
+D1519,Fr Agnel Polytechnic Nashik,Maharashtra,Nashik,Government,AI & Data Science,54,CET,87009,61,3,4
+D1520,KK Wagh Polytechnic Latur,Maharashtra,Latur,Private,Mechanical Engineering,78,CET,56144,57,5,4
+D1521,RCOEM Polytechnic Latur,Maharashtra,Latur,Private,Mechanical Engineering,88,CET,57543,82,3,3
+D1522,Fr Agnel Polytechnic Nagpur,Maharashtra,Nagpur,Private,Mechatronics Engineering,62,CET,53542,57,3,5
+D1523,YCCE Polytechnic Jalgaon,Maharashtra,Jalgaon,Government,Information Technology,81,CET,71020,61,4,5
+D1524,Fr Agnel Polytechnic Kolhapur,Maharashtra,Kolhapur,Private,Civil Engineering,74,CET,38021,83,3,3
+D1525,KK Wagh Polytechnic Satara,Maharashtra,Satara,Government,Electrical Engineering,52,CET,73614,68,4,3
+D1526,Government Polytechnic Kolhapur,Maharashtra,Kolhapur,Private,Civil Engineering,65,CET,64989,84,5,5
+D1527,SIES Polytechnic Aurangabad,Maharashtra,Aurangabad,Private,Automobile Engineering,70,CET,67042,72,3,5
+D1528,RCOEM Polytechnic Nashik,Maharashtra,Nashik,Private,Civil Engineering,52,CET,61615,63,5,5
+D1529,KK Wagh Polytechnic Satara,Maharashtra,Satara,Government,Electronics Engineering,54,CET,55956,57,4,4
+D1530,Sandip Polytechnic Mumbai,Maharashtra,Mumbai,Private,Robotics Engineering,59,CET,41909,55,4,4
+D1531,Terna Polytechnic Nashik,Maharashtra,Nashik,Government,Computer Engineering,63,CET,71924,77,3,5
+D1532,SIES Polytechnic Thane,Maharashtra,Thane,Private,Civil Engineering,68,CET,36435,66,4,3
+D1533,Terna Polytechnic Nagpur,Maharashtra,Nagpur,Private,Electrical Engineering,56,CET,32499,75,4,5
+D1534,AISSMS Polytechnic Kolhapur,Maharashtra,Kolhapur,Government,Information Technology,83,CET,51434,59,5,3
+D1535,MIT Polytechnic Latur,Maharashtra,Latur,Government,Mechanical Engineering,53,CET,63585,69,5,4
+D1536,AISSMS Polytechnic Nagpur,Maharashtra,Nagpur,Private,Electrical Engineering,65,CET,63527,70,5,4
+D1537,Sandip Polytechnic Nashik,Maharashtra,Nashik,Private,Civil Engineering,63,CET,71970,72,3,3
+D1538,Government Polytechnic Solapur,Maharashtra,Solapur,Government,Information Technology,80,CET,85397,60,5,5
+D1539,KK Wagh Polytechnic Pune,Maharashtra,Pune,Government,Mechanical Engineering,90,CET,92059,74,4,4
+D1540,KK Wagh Polytechnic Nagpur,Maharashtra,Nagpur,Government,Mechanical Engineering,71,CET,62662,73,3,3
+D1541,Fr Agnel Polytechnic Sangli,Maharashtra,Sangli,Government,Computer Engineering,59,CET,41130,83,5,4
+D1542,Fr Agnel Polytechnic Kolhapur,Maharashtra,Kolhapur,Private,Information Technology,76,CET,75555,77,4,5
+D1543,KK Wagh Polytechnic Mumbai,Maharashtra,Mumbai,Private,Mechatronics Engineering,55,CET,39488,59,5,5
+D1544,MET Polytechnic Jalgaon,Maharashtra,Jalgaon,Private,Mechatronics Engineering,58,CET,50227,69,4,5
+D1545,KK Wagh Polytechnic Jalgaon,Maharashtra,Jalgaon,Government,Electronics Engineering,60,CET,38143,77,4,5
+D1546,KK Wagh Polytechnic Nagpur,Maharashtra,Nagpur,Government,Mechatronics Engineering,61,CET,62530,60,5,3
+D1547,MET Polytechnic Aurangabad,Maharashtra,Aurangabad,Government,Civil Engineering,83,CET,82157,78,3,5
+D1548,Sandip Polytechnic Mumbai,Maharashtra,Mumbai,Private,Robotics Engineering,94,CET,55528,62,5,4
+D1549,AISSMS Polytechnic Navi Mumbai,Maharashtra,Navi Mumbai,Government,Computer Engineering,84,CET,72700,80,5,4
+D1550,Sinhgad Polytechnic Satara,Maharashtra,Satara,Private,Civil Engineering,87,CET,72162,66,3,4
+D1551,Terna Polytechnic Amravati,Maharashtra,Amravati,Private,Electrical Engineering,67,CET,57993,57,5,4
+D1552,Terna Polytechnic Nagpur,Maharashtra,Nagpur,Private,Mechanical Engineering,68,CET,57714,78,3,4
+D1553,MET Polytechnic Jalgaon,Maharashtra,Jalgaon,Government,Civil Engineering,81,CET,83017,76,3,4
+D1554,MIT Polytechnic Nagpur,Maharashtra,Nagpur,Private,Electronics Engineering,84,CET,94486,58,4,4
+D1555,MIT Polytechnic Jalgaon,Maharashtra,Jalgaon,Government,Automobile Engineering,93,CET,81911,73,3,3
+D1556,RCOEM Polytechnic Amravati,Maharashtra,Amravati,Government,Electronics Engineering,64,CET,75917,80,5,3
+D1557,MIT Polytechnic Satara,Maharashtra,Satara,Government,Automobile Engineering,76,CET,63076,60,4,4
+D1558,KK Wagh Polytechnic Aurangabad,Maharashtra,Aurangabad,Government,Electronics Engineering,73,CET,44427,82,3,4
+D1559,YCCE Polytechnic Mumbai,Maharashtra,Mumbai,Private,Electrical Engineering,78,CET,47111,56,3,3
+D1560,Terna Polytechnic Sangli,Maharashtra,Sangli,Government,Computer Engineering,86,CET,55775,55,4,4
+D1561,YCCE Polytechnic Solapur,Maharashtra,Solapur,Private,Civil Engineering,86,CET,48524,60,3,3
+D1562,MET Polytechnic Sangli,Maharashtra,Sangli,Government,Computer Engineering,66,CET,82478,59,4,5
+D1563,RCOEM Polytechnic Navi Mumbai,Maharashtra,Navi Mumbai,Government,Mechanical Engineering,59,CET,82673,61,5,4
+D1564,KK Wagh Polytechnic Navi Mumbai,Maharashtra,Navi Mumbai,Private,Mechanical Engineering,89,CET,80503,82,3,4
+D1565,Sandip Polytechnic Navi Mumbai,Maharashtra,Navi Mumbai,Private,AI & Data Science,59,CET,51241,82,3,3
+D1566,Terna Polytechnic Solapur,Maharashtra,Solapur,Government,Electrical Engineering,83,CET,92061,70,3,4
+D1567,MIT Polytechnic Nashik,Maharashtra,Nashik,Government,Mechanical Engineering,53,CET,31093,62,4,3
+D1568,AISSMS Polytechnic Pune,Maharashtra,Pune,Government,Civil Engineering,87,CET,42884,67,3,5
+D1569,MET Polytechnic Amravati,Maharashtra,Amravati,Private,Mechatronics Engineering,50,CET,42497,75,3,3
+D1570,MET Polytechnic Thane,Maharashtra,Thane,Government,Computer Engineering,78,CET,91254,72,5,5
+D1571,MIT Polytechnic Latur,Maharashtra,Latur,Government,Automobile Engineering,71,CET,82203,76,5,5
+D1572,Terna Polytechnic Satara,Maharashtra,Satara,Private,Computer Engineering,95,CET,75670,63,4,4
+D1573,MET Polytechnic Pune,Maharashtra,Pune,Government,Mechanical Engineering,64,CET,34329,78,3,3
+D1574,MET Polytechnic Pune,Maharashtra,Pune,Government,Information Technology,55,CET,85652,56,5,3
+D1575,YCCE Polytechnic Mumbai,Maharashtra,Mumbai,Government,Electronics Engineering,76,CET,31244,61,4,3
+D1576,Sandip Polytechnic Jalgaon,Maharashtra,Jalgaon,Private,Automobile Engineering,56,CET,64849,83,3,4
+D1577,Government Polytechnic Nashik,Maharashtra,Nashik,Private,AI & Data Science,79,CET,83842,61,4,4
+D1578,MIT Polytechnic Pune,Maharashtra,Pune,Government,Robotics Engineering,62,CET,42590,68,5,5
+D1579,KK Wagh Polytechnic Nashik,Maharashtra,Nashik,Government,Mechanical Engineering,52,CET,42043,77,4,3
+D1580,Government Polytechnic Latur,Maharashtra,Latur,Private,Automobile Engineering,64,CET,77376,57,4,5
+D1581,MET Polytechnic Kolhapur,Maharashtra,Kolhapur,Private,Information Technology,70,CET,50129,79,4,3
+D1582,MIT Polytechnic Kolhapur,Maharashtra,Kolhapur,Private,AI & Data Science,93,CET,52151,79,3,5
+D1583,AISSMS Polytechnic Solapur,Maharashtra,Solapur,Government,Civil Engineering,55,CET,91022,56,3,3
+D1584,MET Polytechnic Mumbai,Maharashtra,Mumbai,Private,AI & Data Science,91,CET,52936,55,3,4
+D1585,AISSMS Polytechnic Pune,Maharashtra,Pune,Private,Robotics Engineering,76,CET,83112,75,3,5
+D1586,Fr Agnel Polytechnic Latur,Maharashtra,Latur,Government,Automobile Engineering,82,CET,61182,72,4,4
+D1587,Fr Agnel Polytechnic Pune,Maharashtra,Pune,Government,Electronics Engineering,87,CET,63223,62,4,4
+D1588,YCCE Polytechnic Mumbai,Maharashtra,Mumbai,Government,Robotics Engineering,65,CET,71399,83,5,5
+D1589,KK Wagh Polytechnic Kolhapur,Maharashtra,Kolhapur,Government,Electronics Engineering,79,CET,90636,56,5,5
+D1590,MIT Polytechnic Jalgaon,Maharashtra,Jalgaon,Private,AI & Data Science,63,CET,53746,79,5,3
+D1591,Government Polytechnic Navi Mumbai,Maharashtra,Navi Mumbai,Private,Electronics Engineering,84,CET,43165,55,3,5
+D1592,SIES Polytechnic Latur,Maharashtra,Latur,Government,Robotics Engineering,85,CET,46749,76,5,4
+D1593,AISSMS Polytechnic Aurangabad,Maharashtra,Aurangabad,Government,Robotics Engineering,62,CET,40829,76,4,3
+D1594,YCCE Polytechnic Nashik,Maharashtra,Nashik,Private,Civil Engineering,62,CET,32247,71,4,3
+D1595,Sinhgad Polytechnic Latur,Maharashtra,Latur,Government,Mechanical Engineering,58,CET,83016,69,4,3
+D1596,Fr Agnel Polytechnic Satara,Maharashtra,Satara,Private,Information Technology,56,CET,57523,85,5,4
+D1597,MIT Polytechnic Nashik,Maharashtra,Nashik,Government,Mechatronics Engineering,94,CET,56843,74,4,3
+D1598,YCCE Polytechnic Nashik,Maharashtra,Nashik,Private,Mechatronics Engineering,59,CET,75584,76,5,4
+D1599,RCOEM Polytechnic Mumbai,Maharashtra,Mumbai,Government,Civil Engineering,84,CET,78608,73,3,4
+D1600,RCOEM Polytechnic Mumbai,Maharashtra,Mumbai,Private,Electronics Engineering,63,CET,45835,69,5,3
+D1601,MET Polytechnic Navi Mumbai,Maharashtra,Navi Mumbai,Private,Robotics Engineering,95,CET,35454,66,4,4
+D1602,Sinhgad Polytechnic Nashik,Maharashtra,Nashik,Government,Electronics Engineering,57,CET,76669,82,3,4
+D1603,Sandip Polytechnic Navi Mumbai,Maharashtra,Navi Mumbai,Government,AI & Data Science,70,CET,41638,79,4,5
+D1604,AISSMS Polytechnic Satara,Maharashtra,Satara,Private,Civil Engineering,67,CET,60724,56,3,3
+D1605,Government Polytechnic Solapur,Maharashtra,Solapur,Private,Electrical Engineering,55,CET,93347,67,5,3
+D1606,AISSMS Polytechnic Amravati,Maharashtra,Amravati,Government,Computer Engineering,77,CET,51714,82,5,4
+D1607,RCOEM Polytechnic Kolhapur,Maharashtra,Kolhapur,Private,Computer Engineering,66,CET,52820,78,4,4
+D1608,Fr Agnel Polytechnic Solapur,Maharashtra,Solapur,Government,Mechanical Engineering,77,CET,78198,84,4,4
+D1609,Government Polytechnic Thane,Maharashtra,Thane,Government,Mechanical Engineering,58,CET,36717,79,5,3
+D1610,RCOEM Polytechnic Kolhapur,Maharashtra,Kolhapur,Private,Civil Engineering,88,CET,92641,79,5,4
+D1611,Government Polytechnic Navi Mumbai,Maharashtra,Navi Mumbai,Private,Mechanical Engineering,85,CET,46714,77,3,4
+D1612,YCCE Polytechnic Latur,Maharashtra,Latur,Private,Mechatronics Engineering,58,CET,32768,83,4,5
+D1613,MIT Polytechnic Aurangabad,Maharashtra,Aurangabad,Government,Electrical Engineering,64,CET,54665,81,4,4
+D1614,Government Polytechnic Thane,Maharashtra,Thane,Government,Information Technology,77,CET,69717,75,5,4
+D1615,Terna Polytechnic Mumbai,Maharashtra,Mumbai,Government,Robotics Engineering,78,CET,50163,80,3,4
+D1616,YCCE Polytechnic Amravati,Maharashtra,Amravati,Government,Robotics Engineering,84,CET,55245,72,4,5
+D1617,MET Polytechnic Nashik,Maharashtra,Nashik,Government,Electrical Engineering,63,CET,37820,73,3,3
+D1618,RCOEM Polytechnic Aurangabad,Maharashtra,Aurangabad,Private,Robotics Engineering,83,CET,70984,56,4,3
+D1619,KK Wagh Polytechnic Latur,Maharashtra,Latur,Government,Civil Engineering,58,CET,41559,61,5,5
+D1620,SIES Polytechnic Sangli,Maharashtra,Sangli,Government,Robotics Engineering,59,CET,88334,66,3,5
+D1621,Fr Agnel Polytechnic Amravati,Maharashtra,Amravati,Private,Mechatronics Engineering,78,CET,71191,60,5,5
+D1622,Fr Agnel Polytechnic Pune,Maharashtra,Pune,Private,Mechatronics Engineering,60,CET,84417,81,5,4
+D1623,Terna Polytechnic Thane,Maharashtra,Thane,Private,Mechatronics Engineering,54,CET,64067,60,5,5
+D1624,Terna Polytechnic Nashik,Maharashtra,Nashik,Government,Electronics Engineering,75,CET,80559,68,4,3
+D1625,SIES Polytechnic Kolhapur,Maharashtra,Kolhapur,Private,Mechanical Engineering,65,CET,49829,58,3,4
+D1626,MIT Polytechnic Kolhapur,Maharashtra,Kolhapur,Private,AI & Data Science,60,CET,43568,82,5,3
+D1627,KK Wagh Polytechnic Mumbai,Maharashtra,Mumbai,Private,Computer Engineering,73,CET,37957,73,5,5
+D1628,SIES Polytechnic Amravati,Maharashtra,Amravati,Private,Robotics Engineering,50,CET,62078,84,4,3
+D1629,AISSMS Polytechnic Sangli,Maharashtra,Sangli,Private,Computer Engineering,70,CET,49777,77,4,3
+D1630,MET Polytechnic Amravati,Maharashtra,Amravati,Private,Information Technology,78,CET,42767,84,3,4
+D1631,MET Polytechnic Aurangabad,Maharashtra,Aurangabad,Private,Electrical Engineering,86,CET,59752,84,3,3
+D1632,SIES Polytechnic Solapur,Maharashtra,Solapur,Government,Electrical Engineering,90,CET,68353,55,3,4
+D1633,KK Wagh Polytechnic Latur,Maharashtra,Latur,Private,AI & Data Science,92,CET,82498,68,5,5
+D1634,KK Wagh Polytechnic Nagpur,Maharashtra,Nagpur,Government,Electronics Engineering,82,CET,56097,59,5,5
+D1635,Sandip Polytechnic Nagpur,Maharashtra,Nagpur,Private,Computer Engineering,83,CET,45881,55,4,4
+D1636,Terna Polytechnic Solapur,Maharashtra,Solapur,Private,Electrical Engineering,67,CET,40284,74,3,4
+D1637,RCOEM Polytechnic Sangli,Maharashtra,Sangli,Private,Electrical Engineering,95,CET,80858,83,4,4
+D1638,RCOEM Polytechnic Pune,Maharashtra,Pune,Government,Mechatronics Engineering,77,CET,36644,84,3,3
+D1639,KK Wagh Polytechnic Sangli,Maharashtra,Sangli,Private,Civil Engineering,53,CET,74773,71,3,5
+D1640,Fr Agnel Polytechnic Aurangabad,Maharashtra,Aurangabad,Government,AI & Data Science,82,CET,71574,76,3,4
+D1641,MIT Polytechnic Sangli,Maharashtra,Sangli,Government,Electrical Engineering,65,CET,82208,60,5,5
+D1642,Government Polytechnic Latur,Maharashtra,Latur,Government,AI & Data Science,61,CET,30474,72,5,3
+D1643,Terna Polytechnic Thane,Maharashtra,Thane,Private,Electronics Engineering,94,CET,89887,75,4,3
+D1644,Terna Polytechnic Aurangabad,Maharashtra,Aurangabad,Private,Robotics Engineering,62,CET,68015,72,5,3
+D1645,Fr Agnel Polytechnic Sangli,Maharashtra,Sangli,Government,Information Technology,83,CET,79369,59,3,3
+D1646,MIT Polytechnic Aurangabad,Maharashtra,Aurangabad,Government,Robotics Engineering,69,CET,55391,56,5,4
+D1647,Sinhgad Polytechnic Jalgaon,Maharashtra,Jalgaon,Government,Automobile Engineering,83,CET,34588,73,5,3
+D1648,Government Polytechnic Thane,Maharashtra,Thane,Private,Civil Engineering,67,CET,71252,66,5,3
+D1649,AISSMS Polytechnic Pune,Maharashtra,Pune,Government,Robotics Engineering,83,CET,68509,79,3,4
+D1650,Sinhgad Polytechnic Amravati,Maharashtra,Amravati,Government,Mechatronics Engineering,75,CET,77380,85,5,3
+D1651,Terna Polytechnic Pune,Maharashtra,Pune,Government,Robotics Engineering,79,CET,93268,84,3,5
+D1652,Terna Polytechnic Nagpur,Maharashtra,Nagpur,Private,Computer Engineering,56,CET,75038,76,5,4
+D1653,YCCE Polytechnic Mumbai,Maharashtra,Mumbai,Government,Computer Engineering,95,CET,30164,56,5,3
+D1654,Sinhgad Polytechnic Nagpur,Maharashtra,Nagpur,Private,Electrical Engineering,94,CET,83352,84,3,4
+D1655,MIT Polytechnic Latur,Maharashtra,Latur,Government,Civil Engineering,58,CET,68231,75,5,4
+D1656,YCCE Polytechnic Thane,Maharashtra,Thane,Private,Information Technology,57,CET,57700,60,5,4
+D1657,RCOEM Polytechnic Nagpur,Maharashtra,Nagpur,Private,Civil Engineering,55,CET,43190,67,3,5
+D1658,RCOEM Polytechnic Thane,Maharashtra,Thane,Government,Electrical Engineering,74,CET,88230,85,4,3
+D1659,KK Wagh Polytechnic Pune,Maharashtra,Pune,Government,Electronics Engineering,75,CET,61513,55,4,5
+D1660,MET Polytechnic Satara,Maharashtra,Satara,Government,Civil Engineering,74,CET,70322,57,5,3
+D1661,RCOEM Polytechnic Kolhapur,Maharashtra,Kolhapur,Private,Mechatronics Engineering,79,CET,84975,75,5,3
+D1662,MET Polytechnic Nagpur,Maharashtra,Nagpur,Private,Mechatronics Engineering,78,CET,80710,56,4,5
+D1663,Government Polytechnic Kolhapur,Maharashtra,Kolhapur,Private,Mechanical Engineering,83,CET,30476,83,3,3
+D1664,RCOEM Polytechnic Satara,Maharashtra,Satara,Private,Mechatronics Engineering,95,CET,60267,66,4,3
+D1665,KK Wagh Polytechnic Mumbai,Maharashtra,Mumbai,Private,Mechanical Engineering,80,CET,77037,66,3,5
+D1666,Government Polytechnic Pune,Maharashtra,Pune,Government,Electrical Engineering,77,CET,84406,74,5,5
+D1667,AISSMS Polytechnic Satara,Maharashtra,Satara,Government,Robotics Engineering,59,CET,41068,65,3,3
+D1668,KK Wagh Polytechnic Nashik,Maharashtra,Nashik,Government,Information Technology,68,CET,80391,74,4,3
+D1669,SIES Polytechnic Latur,Maharashtra,Latur,Government,AI & Data Science,63,CET,93821,67,3,5
+D1670,Sinhgad Polytechnic Sangli,Maharashtra,Sangli,Private,Electrical Engineering,81,CET,78983,79,4,4
+D1671,MIT Polytechnic Solapur,Maharashtra,Solapur,Private,Mechanical Engineering,54,CET,49594,84,3,4
+D1672,Sinhgad Polytechnic Aurangabad,Maharashtra,Aurangabad,Government,AI & Data Science,94,CET,44314,61,4,3
+D1673,Fr Agnel Polytechnic Sangli,Maharashtra,Sangli,Private,Civil Engineering,87,CET,60579,57,3,5
+D1674,Fr Agnel Polytechnic Aurangabad,Maharashtra,Aurangabad,Government,Civil Engineering,89,CET,91328,64,4,4
+D1675,Sinhgad Polytechnic Solapur,Maharashtra,Solapur,Private,Civil Engineering,69,CET,85538,61,4,5
+D1676,Sandip Polytechnic Solapur,Maharashtra,Solapur,Government,Electronics Engineering,67,CET,63994,61,4,5
+D1677,MET Polytechnic Jalgaon,Maharashtra,Jalgaon,Government,Civil Engineering,75,CET,33153,81,3,3
+D1678,MET Polytechnic Latur,Maharashtra,Latur,Private,Information Technology,70,CET,54128,85,4,4
+D1679,Sandip Polytechnic Sangli,Maharashtra,Sangli,Government,Computer Engineering,70,CET,61432,66,5,5
+D1680,RCOEM Polytechnic Amravati,Maharashtra,Amravati,Private,Automobile Engineering,61,CET,77331,77,4,4
+D1681,Sandip Polytechnic Pune,Maharashtra,Pune,Private,Robotics Engineering,78,CET,58597,68,4,5
+D1682,RCOEM Polytechnic Mumbai,Maharashtra,Mumbai,Private,Automobile Engineering,93,CET,38089,70,5,3
+D1683,SIES Polytechnic Kolhapur,Maharashtra,Kolhapur,Private,Automobile Engineering,56,CET,51637,68,5,3
+D1684,RCOEM Polytechnic Thane,Maharashtra,Thane,Government,Information Technology,69,CET,36306,62,4,4
+D1685,KK Wagh Polytechnic Navi Mumbai,Maharashtra,Navi Mumbai,Government,Mechanical Engineering,91,CET,45858,62,3,5
+D1686,YCCE Polytechnic Kolhapur,Maharashtra,Kolhapur,Private,Electrical Engineering,94,CET,36171,66,3,5
+D1687,YCCE Polytechnic Amravati,Maharashtra,Amravati,Government,Information Technology,80,CET,65086,69,4,4
+D1688,SIES Polytechnic Jalgaon,Maharashtra,Jalgaon,Government,Civil Engineering,62,CET,41827,82,3,3
+D1689,Sandip Polytechnic Mumbai,Maharashtra,Mumbai,Private,Computer Engineering,92,CET,32530,72,5,3
+D1690,SIES Polytechnic Solapur,Maharashtra,Solapur,Government,Information Technology,70,CET,83060,83,3,4
+D1691,MET Polytechnic Navi Mumbai,Maharashtra,Navi Mumbai,Government,Mechanical Engineering,63,CET,37248,71,5,3
+D1692,MET Polytechnic Nashik,Maharashtra,Nashik,Private,Information Technology,83,CET,46978,60,5,4
+D1693,Fr Agnel Polytechnic Jalgaon,Maharashtra,Jalgaon,Government,Civil Engineering,77,CET,45347,55,4,3
+D1694,KK Wagh Polytechnic Satara,Maharashtra,Satara,Government,Electrical Engineering,94,CET,90248,71,3,5
+D1695,Sandip Polytechnic Thane,Maharashtra,Thane,Private,Mechanical Engineering,89,CET,66186,59,3,5
+D1696,Fr Agnel Polytechnic Jalgaon,Maharashtra,Jalgaon,Private,Computer Engineering,60,CET,36772,62,5,3
+D1697,KK Wagh Polytechnic Solapur,Maharashtra,Solapur,Government,Information Technology,77,CET,78612,74,4,5
+D1698,Terna Polytechnic Latur,Maharashtra,Latur,Private,Electrical Engineering,69,CET,39008,56,4,5
+D1699,SIES Polytechnic Latur,Maharashtra,Latur,Government,Mechanical Engineering,50,CET,78844,84,4,3
+D1700,Sandip Polytechnic Navi Mumbai,Maharashtra,Navi Mumbai,Private,Electrical Engineering,90,CET,77891,79,5,5
+D1701,RCOEM Polytechnic Thane,Maharashtra,Thane,Private,Mechanical Engineering,79,CET,75973,79,3,3
+D1702,KK Wagh Polytechnic Latur,Maharashtra,Latur,Private,Mechanical Engineering,91,CET,48424,79,4,5
+D1703,Government Polytechnic Navi Mumbai,Maharashtra,Navi Mumbai,Private,Electrical Engineering,75,CET,77252,78,3,5
+D1704,AISSMS Polytechnic Mumbai,Maharashtra,Mumbai,Private,Mechanical Engineering,67,CET,54087,83,5,3
+D1705,KK Wagh Polytechnic Nashik,Maharashtra,Nashik,Government,Robotics Engineering,70,CET,45706,80,5,4
+D1706,SIES Polytechnic Solapur,Maharashtra,Solapur,Government,Automobile Engineering,89,CET,44545,81,3,5
+D1707,RCOEM Polytechnic Kolhapur,Maharashtra,Kolhapur,Private,Mechatronics Engineering,65,CET,34301,56,3,4
+D1708,SIES Polytechnic Sangli,Maharashtra,Sangli,Private,Robotics Engineering,62,CET,94811,67,4,5
+D1709,MET Polytechnic Jalgaon,Maharashtra,Jalgaon,Private,Civil Engineering,77,CET,30535,58,5,3
+D1710,Fr Agnel Polytechnic Thane,Maharashtra,Thane,Government,Mechatronics Engineering,83,CET,66905,78,3,3
+D1711,Terna Polytechnic Aurangabad,Maharashtra,Aurangabad,Private,Electrical Engineering,85,CET,64427,74,4,3
+D1712,MIT Polytechnic Navi Mumbai,Maharashtra,Navi Mumbai,Government,Automobile Engineering,59,CET,48072,68,4,3
+D1713,MET Polytechnic Solapur,Maharashtra,Solapur,Private,Mechanical Engineering,56,CET,75776,61,5,4
+D1714,Sandip Polytechnic Nagpur,Maharashtra,Nagpur,Private,Mechanical Engineering,89,CET,75495,80,5,4
+D1715,MIT Polytechnic Jalgaon,Maharashtra,Jalgaon,Private,Electronics Engineering,83,CET,91165,74,4,3
+D1716,KK Wagh Polytechnic Nagpur,Maharashtra,Nagpur,Private,Computer Engineering,79,CET,63092,59,3,5
+D1717,SIES Polytechnic Nashik,Maharashtra,Nashik,Government,Information Technology,89,CET,47724,66,5,4
+D1718,RCOEM Polytechnic Satara,Maharashtra,Satara,Private,Mechatronics Engineering,77,CET,80643,55,4,3
+D1719,RCOEM Polytechnic Nagpur,Maharashtra,Nagpur,Private,Mechatronics Engineering,62,CET,79120,83,4,5
+D1720,YCCE Polytechnic Navi Mumbai,Maharashtra,Navi Mumbai,Private,Mechatronics Engineering,68,CET,63637,79,5,5
+D1721,AISSMS Polytechnic Amravati,Maharashtra,Amravati,Private,Electronics Engineering,74,CET,83683,77,5,4
+D1722,YCCE Polytechnic Pune,Maharashtra,Pune,Government,Mechanical Engineering,75,CET,89419,63,4,5
+D1723,MIT Polytechnic Jalgaon,Maharashtra,Jalgaon,Government,Electronics Engineering,53,CET,86710,76,5,5
+D1724,YCCE Polytechnic Solapur,Maharashtra,Solapur,Private,Electronics Engineering,68,CET,37644,56,5,5
+D1725,Government Polytechnic Mumbai,Maharashtra,Mumbai,Private,Mechatronics Engineering,70,CET,72403,55,3,3
+D1726,Terna Polytechnic Solapur,Maharashtra,Solapur,Government,Electronics Engineering,91,CET,31328,82,5,5
+D1727,Sandip Polytechnic Sangli,Maharashtra,Sangli,Government,Civil Engineering,73,CET,65375,59,3,5
+D1728,KK Wagh Polytechnic Kolhapur,Maharashtra,Kolhapur,Government,Mechatronics Engineering,66,CET,35290,57,5,5
+D1729,Sinhgad Polytechnic Nashik,Maharashtra,Nashik,Government,Electronics Engineering,91,CET,43748,82,3,5
+D1730,Fr Agnel Polytechnic Navi Mumbai,Maharashtra,Navi Mumbai,Government,AI & Data Science,65,CET,79414,81,5,4
+D1731,Terna Polytechnic Nashik,Maharashtra,Nashik,Private,Information Technology,71,CET,60076,60,5,5
+D1732,RCOEM Polytechnic Satara,Maharashtra,Satara,Government,Robotics Engineering,69,CET,56896,81,4,3
+D1733,Sinhgad Polytechnic Kolhapur,Maharashtra,Kolhapur,Government,Mechatronics Engineering,64,CET,70467,63,3,3
+D1734,RCOEM Polytechnic Amravati,Maharashtra,Amravati,Private,Mechatronics Engineering,64,CET,41862,56,4,4
+D1735,Government Polytechnic Pune,Maharashtra,Pune,Government,Computer Engineering,88,CET,75346,55,5,4
+D1736,MET Polytechnic Nagpur,Maharashtra,Nagpur,Private,Electronics Engineering,63,CET,93950,71,3,3
+D1737,AISSMS Polytechnic Jalgaon,Maharashtra,Jalgaon,Private,Mechanical Engineering,74,CET,64099,82,4,5
+D1738,Terna Polytechnic Pune,Maharashtra,Pune,Private,Automobile Engineering,53,CET,46621,67,3,4
+D1739,MET Polytechnic Nashik,Maharashtra,Nashik,Private,Information Technology,87,CET,37884,79,5,4
+D1740,Sinhgad Polytechnic Kolhapur,Maharashtra,Kolhapur,Government,Electronics Engineering,53,CET,49973,83,4,4
+D1741,Terna Polytechnic Amravati,Maharashtra,Amravati,Private,Mechatronics Engineering,56,CET,73225,68,5,4
+D1742,MIT Polytechnic Jalgaon,Maharashtra,Jalgaon,Private,Civil Engineering,71,CET,46434,69,3,3
+D1743,Fr Agnel Polytechnic Satara,Maharashtra,Satara,Private,Electrical Engineering,65,CET,61665,81,5,5
+D1744,Sandip Polytechnic Jalgaon,Maharashtra,Jalgaon,Private,Information Technology,52,CET,63808,82,5,3
+D1745,KK Wagh Polytechnic Jalgaon,Maharashtra,Jalgaon,Private,Electrical Engineering,58,CET,90264,78,4,3
+D1746,SIES Polytechnic Kolhapur,Maharashtra,Kolhapur,Government,Mechatronics Engineering,51,CET,93559,60,5,4
+D1747,Terna Polytechnic Jalgaon,Maharashtra,Jalgaon,Government,Information Technology,72,CET,72839,63,3,4
+D1748,SIES Polytechnic Thane,Maharashtra,Thane,Government,Civil Engineering,85,CET,47063,78,4,3
+D1749,YCCE Polytechnic Pune,Maharashtra,Pune,Private,Computer Engineering,74,CET,78933,70,3,4
+D1750,YCCE Polytechnic Kolhapur,Maharashtra,Kolhapur,Private,Electrical Engineering,82,CET,46514,79,5,5
+D1751,YCCE Polytechnic Jalgaon,Maharashtra,Jalgaon,Government,Electrical Engineering,78,CET,85727,83,3,4
+D1752,YCCE Polytechnic Thane,Maharashtra,Thane,Private,Information Technology,87,CET,90957,74,3,4
+D1753,Government Polytechnic Aurangabad,Maharashtra,Aurangabad,Private,Information Technology,70,CET,50705,68,3,5
+D1754,KK Wagh Polytechnic Amravati,Maharashtra,Amravati,Government,Civil Engineering,87,CET,52966,83,5,4
+D1755,SIES Polytechnic Nashik,Maharashtra,Nashik,Private,Robotics Engineering,66,CET,46572,69,3,5
+D1756,Government Polytechnic Nagpur,Maharashtra,Nagpur,Private,Information Technology,64,CET,65685,73,3,4
+D1757,Fr Agnel Polytechnic Mumbai,Maharashtra,Mumbai,Government,Civil Engineering,65,CET,87181,83,5,5
+D1758,Government Polytechnic Sangli,Maharashtra,Sangli,Private,Mechanical Engineering,73,CET,56586,61,3,3
+D1759,YCCE Polytechnic Nagpur,Maharashtra,Nagpur,Private,Information Technology,76,CET,68372,72,5,5
+D1760,YCCE Polytechnic Solapur,Maharashtra,Solapur,Private,Mechanical Engineering,58,CET,84155,70,4,3
+D1761,YCCE Polytechnic Latur,Maharashtra,Latur,Government,Automobile Engineering,93,CET,47762,64,3,4
+D1762,AISSMS Polytechnic Satara,Maharashtra,Satara,Private,Computer Engineering,80,CET,54620,55,4,5
+D1763,SIES Polytechnic Latur,Maharashtra,Latur,Private,Electrical Engineering,89,CET,61550,70,4,5
+D1764,AISSMS Polytechnic Mumbai,Maharashtra,Mumbai,Private,Mechanical Engineering,60,CET,72869,70,5,3
+D1765,MET Polytechnic Amravati,Maharashtra,Amravati,Government,Mechanical Engineering,75,CET,63465,83,4,3
+D1766,Terna Polytechnic Aurangabad,Maharashtra,Aurangabad,Government,Automobile Engineering,69,CET,67662,64,3,3
+D1767,MIT Polytechnic Sangli,Maharashtra,Sangli,Private,Robotics Engineering,81,CET,53575,79,5,4
+D1768,MET Polytechnic Solapur,Maharashtra,Solapur,Private,Information Technology,81,CET,38498,81,5,5
+D1769,RCOEM Polytechnic Kolhapur,Maharashtra,Kolhapur,Government,Mechatronics Engineering,93,CET,69223,74,5,3
+D1770,RCOEM Polytechnic Latur,Maharashtra,Latur,Government,Civil Engineering,77,CET,32335,85,5,4
+D1771,Sandip Polytechnic Thane,Maharashtra,Thane,Private,Electronics Engineering,79,CET,73280,72,4,3
+D1772,RCOEM Polytechnic Pune,Maharashtra,Pune,Government,Electronics Engineering,71,CET,31635,73,5,3
+D1773,Government Polytechnic Nagpur,Maharashtra,Nagpur,Government,Electronics Engineering,64,CET,68862,82,3,5
+D1774,RCOEM Polytechnic Mumbai,Maharashtra,Mumbai,Private,Robotics Engineering,94,CET,31454,62,4,3
+D1775,MET Polytechnic Mumbai,Maharashtra,Mumbai,Private,Robotics Engineering,58,CET,57912,73,3,3
+D1776,KK Wagh Polytechnic Solapur,Maharashtra,Solapur,Private,Civil Engineering,62,CET,79043,85,3,3
+D1777,KK Wagh Polytechnic Navi Mumbai,Maharashtra,Navi Mumbai,Private,Information Technology,74,CET,31732,65,3,3
+D1778,KK Wagh Polytechnic Kolhapur,Maharashtra,Kolhapur,Private,Mechanical Engineering,87,CET,85890,85,4,4
+D1779,Sinhgad Polytechnic Mumbai,Maharashtra,Mumbai,Government,Mechatronics Engineering,68,CET,39436,76,4,3
+D1780,Sandip Polytechnic Sangli,Maharashtra,Sangli,Government,Computer Engineering,68,CET,33913,70,4,4
+D1781,Sandip Polytechnic Thane,Maharashtra,Thane,Private,Mechatronics Engineering,53,CET,30847,81,5,5
+D1782,MET Polytechnic Thane,Maharashtra,Thane,Private,Civil Engineering,76,CET,90386,79,3,3
+D1783,AISSMS Polytechnic Nagpur,Maharashtra,Nagpur,Private,Electronics Engineering,84,CET,76716,70,4,4
+D1784,AISSMS Polytechnic Satara,Maharashtra,Satara,Private,Electronics Engineering,51,CET,67220,71,5,5
+D1785,RCOEM Polytechnic Latur,Maharashtra,Latur,Government,Robotics Engineering,91,CET,91851,57,3,4
+D1786,YCCE Polytechnic Pune,Maharashtra,Pune,Private,Automobile Engineering,79,CET,60311,56,5,5
+D1787,MIT Polytechnic Latur,Maharashtra,Latur,Private,Mechatronics Engineering,60,CET,85560,67,3,3
+D1788,MIT Polytechnic Nashik,Maharashtra,Nashik,Government,Civil Engineering,91,CET,67087,75,5,4
+D1789,Government Polytechnic Nashik,Maharashtra,Nashik,Private,AI & Data Science,72,CET,52434,60,3,4
+D1790,Sandip Polytechnic Kolhapur,Maharashtra,Kolhapur,Private,Robotics Engineering,58,CET,84513,81,4,5
+D1791,KK Wagh Polytechnic Nagpur,Maharashtra,Nagpur,Government,Civil Engineering,75,CET,36803,69,4,5
+D1792,MIT Polytechnic Latur,Maharashtra,Latur,Private,AI & Data Science,94,CET,33973,76,3,5
+D1793,AISSMS Polytechnic Amravati,Maharashtra,Amravati,Government,Mechatronics Engineering,95,CET,70368,63,3,3
+D1794,Terna Polytechnic Thane,Maharashtra,Thane,Government,Civil Engineering,65,CET,79765,66,5,3
+D1795,MIT Polytechnic Nagpur,Maharashtra,Nagpur,Government,Information Technology,78,CET,44459,74,5,3
+D1796,MET Polytechnic Satara,Maharashtra,Satara,Government,Civil Engineering,83,CET,46172,85,5,5
+D1797,YCCE Polytechnic Jalgaon,Maharashtra,Jalgaon,Private,Automobile Engineering,50,CET,78912,83,3,3
+D1798,AISSMS Polytechnic Satara,Maharashtra,Satara,Private,AI & Data Science,89,CET,41656,82,5,5
+D1799,Sandip Polytechnic Pune,Maharashtra,Pune,Government,Information Technology,69,CET,55406,65,5,4
