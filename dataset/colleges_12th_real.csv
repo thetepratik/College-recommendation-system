@@ -1,1009 +1,175 @@
 college_id,college_name,state,city,college_type,branch,stream,entrance_exam,fees,placement_percentage,infrastructure_score,nirf_rank,category_general,category_obc,category_sc,category_st,lab_score,faculty_score
-C1001,D Y Patil College of Engineering Akurdi,Maharashtra,Pune,Private,Computer Engineering,Engineering,CET,147099,75,3,122,3319,6003,14341,20937,3,4
-C1002,Sandip Institute of Engineering and Management,Maharashtra,Nashik,Private,Information Technology,Engineering,CET,73948,82,3,73,3086,4200,13927,20589,4,5
-C1003,KK Wagh Institute of Engineering,Maharashtra,Nashik,Government,Data Science,Engineering,CET,144757,79,3,85,7810,10466,14506,24794,3,3
-C1004,D Y Patil College of Engineering Akurdi,Maharashtra,Mumbai,Government,Mechanical Engineering,Engineering,CET,74029,76,3,122,6676,8050,14373,21962,5,4
-C1005,KJ Somaiya College of Engineering,Maharashtra,Nashik,Government,Robotics Engineering,Engineering,CET,151162,82,3,60,6606,8220,13513,22144,5,3
-C1006,D Y Patil College of Engineering Akurdi,Maharashtra,Nashik,Private,Civil Engineering,Engineering,CET,91634,74,5,140,7010,9169,16633,21989,4,5
-C1007,MIT Academy of Engineering,Maharashtra,Mumbai,Private,Robotics Engineering,Engineering,CET,111382,92,4,142,19399,21753,30467,36921,5,3
-C1008,Sandip Institute of Engineering and Management,Maharashtra,Mumbai,Government,Electronics & Telecommunication,Engineering,CET,146961,85,4,85,6924,8074,14099,19587,3,5
-C1009,VIT Pune,Maharashtra,Mumbai,Private,Information Technology,Engineering,CET,85623,72,3,120,8391,11335,14461,21679,3,3
-C1010,COEP Technological University,Maharashtra,Nashik,Private,Mechanical Engineering,Engineering,CET,137056,95,4,160,9689,11998,20718,25833,5,5
-C1011,MIT Academy of Engineering,Maharashtra,Nashik,Government,Electrical Engineering,Engineering,CET,155865,78,5,72,16627,18176,27325,32626,3,5
-C1012,Guru Gobind Singh College of Engineering Nashik,Maharashtra,Pune,Private,Information Technology,Engineering,CET,84377,87,3,70,3542,5788,15138,20400,5,3
-C1013,KJ Somaiya College of Engineering,Maharashtra,Mumbai,Government,Electrical Engineering,Engineering,CET,153511,85,5,165,6369,8676,13718,19929,3,5
-C1014,Thakur College of Engineering,Maharashtra,Pune,Government,Cyber Security,Engineering,CET,119276,84,4,104,7650,10448,17834,25202,3,3
-C1015,GCOE Nashik,Maharashtra,Pune,Private,AI & Data Science,Engineering,CET,155720,80,4,156,12514,14984,23759,26455,4,3
-C1016,VIT Pune,Maharashtra,Nashik,Government,Data Science,Engineering,CET,125539,77,4,162,3485,5641,9624,19471,4,4
-C1017,MIT Academy of Engineering,Maharashtra,Pune,Government,Civil Engineering,Engineering,CET,128797,95,5,121,17540,19577,27475,31960,5,3
-C1018,MIT Academy of Engineering,Maharashtra,Mumbai,Government,Data Science,Engineering,CET,145403,85,3,110,9670,12276,19277,25292,4,5
-C1019,Modern College of Engineering,Maharashtra,Nashik,Government,Computer Engineering,Engineering,CET,118973,72,5,117,13560,15144,21074,27762,3,3
-C1020,Sinhgad Institute of Technology,Maharashtra,Nashik,Government,Robotics Engineering,Engineering,CET,126444,80,5,157,16920,19214,28275,33422,5,3
-C1021,KK Wagh Institute of Engineering,Maharashtra,Pune,Government,Information Technology,Engineering,CET,93832,71,4,102,4234,5792,10575,19427,4,3
-C1022,Fr Agnel Bandra,Maharashtra,Pune,Government,Robotics Engineering,Engineering,CET,98546,76,5,61,18102,20620,29126,32169,3,3
-C1023,VJTI Mumbai,Maharashtra,Nashik,Government,Mechanical Engineering,Engineering,CET,114516,71,5,104,5272,7146,11862,17719,3,5
-C1024,Pimpri Chinchwad College of Engineering,Maharashtra,Pune,Government,Information Technology,Engineering,CET,149450,88,4,134,5447,6621,13370,21362,5,4
-C1025,Modern College of Engineering,Maharashtra,Pune,Private,Robotics Engineering,Engineering,CET,122477,78,4,125,9519,10777,17682,21952,4,3
-C1026,MIT Academy of Engineering,Maharashtra,Mumbai,Government,AI & Data Science,Engineering,CET,89114,95,5,118,6799,8941,18416,20882,5,4
-C1027,Sinhgad Institute of Technology,Maharashtra,Pune,Private,AI & Data Science,Engineering,CET,150508,89,4,81,17836,18956,29354,35015,4,5
-C1028,Sinhgad Institute of Technology,Maharashtra,Mumbai,Government,Data Science,Engineering,CET,78069,82,5,152,13516,15636,21071,26453,3,3
-C1029,Datta Meghe College of Engineering,Maharashtra,Nashik,Private,Civil Engineering,Engineering,CET,112554,90,3,154,6938,8494,15449,20495,3,5
-C1030,GCOE Nashik,Maharashtra,Nashik,Private,Data Science,Engineering,CET,74771,83,5,72,15239,17955,24372,32419,5,4
-C1031,Fr CRCE Bandra,Maharashtra,Nashik,Government,Civil Engineering,Engineering,CET,155361,70,4,71,13904,16714,22455,27342,5,5
-C1032,Indira College of Engineering,Maharashtra,Nashik,Government,AI & Data Science,Engineering,CET,78216,76,3,85,19418,20535,27274,34986,5,4
-C1033,Fr Agnel Bandra,Maharashtra,Nashik,Government,Civil Engineering,Engineering,CET,128732,88,4,154,3079,5791,9317,18357,4,5
-C1034,MIT Academy of Engineering,Maharashtra,Pune,Government,Electrical Engineering,Engineering,CET,144764,73,5,92,6549,9106,15040,23206,3,3
-C1035,KK Wagh Institute of Engineering,Maharashtra,Nashik,Private,Robotics Engineering,Engineering,CET,148639,74,3,162,3271,5909,14131,17143,3,4
-C1036,Sandip Institute of Engineering and Management,Maharashtra,Nashik,Private,Data Science,Engineering,CET,108341,71,3,146,10114,11725,18376,22629,5,3
-C1037,AISSMS College of Engineering,Maharashtra,Mumbai,Private,Robotics Engineering,Engineering,CET,131820,90,5,124,14227,15711,23692,26592,4,4
-C1038,Datta Meghe College of Engineering,Maharashtra,Nashik,Government,Data Science,Engineering,CET,120018,78,4,131,11167,13923,18588,26498,4,4
-C1039,Sandip Institute of Engineering and Management,Maharashtra,Pune,Government,Electronics & Telecommunication,Engineering,CET,83188,76,4,116,5792,7323,16359,21101,3,3
-C1040,Terna Engineering College,Maharashtra,Mumbai,Private,Data Science,Engineering,CET,136619,93,3,136,7353,8598,16233,24460,4,3
-C1041,Pimpri Chinchwad College of Engineering,Maharashtra,Nashik,Government,Cyber Security,Engineering,CET,63644,83,3,135,4051,5649,13813,20573,4,3
-C1042,Datta Meghe College of Engineering,Maharashtra,Nashik,Private,Cyber Security,Engineering,CET,157741,88,3,116,18346,20395,25484,35107,3,5
-C1043,VJTI Mumbai,Maharashtra,Pune,Government,Civil Engineering,Engineering,CET,145446,89,4,139,12052,13247,20207,25867,4,3
-C1044,KK Wagh Institute of Engineering,Maharashtra,Pune,Government,Mechanical Engineering,Engineering,CET,168549,83,4,172,14268,16879,22780,29314,4,3
-C1045,D Y Patil College of Engineering Akurdi,Maharashtra,Pune,Government,Computer Engineering,Engineering,CET,72483,93,3,157,6211,8642,17019,23157,3,4
-C1046,Indira College of Engineering,Maharashtra,Mumbai,Government,Information Technology,Engineering,CET,63529,90,5,142,19727,20878,28239,37650,4,4
-C1047,Datta Meghe College of Engineering,Maharashtra,Mumbai,Private,Robotics Engineering,Engineering,CET,60236,86,3,109,17870,18955,28388,31251,4,5
-C1048,Terna Engineering College,Maharashtra,Pune,Private,Robotics Engineering,Engineering,CET,165000,89,4,159,6943,8785,15698,20223,5,4
-C1049,GCOE Nashik,Maharashtra,Nashik,Private,Electrical Engineering,Engineering,CET,102701,80,4,105,13845,15707,19923,31298,5,5
-C1050,COEP Technological University,Maharashtra,Pune,Government,Civil Engineering,Engineering,CET,68686,72,4,104,15232,17575,22002,31400,5,3
-C1051,Datta Meghe College of Engineering,Maharashtra,Pune,Government,Cyber Security,Engineering,CET,168860,78,5,78,3039,5284,10621,17420,4,3
-C1052,Datta Meghe College of Engineering,Maharashtra,Mumbai,Private,Civil Engineering,Engineering,CET,169306,74,4,118,6974,9227,18850,23708,4,3
-C1053,VIT Pune,Maharashtra,Mumbai,Government,Information Technology,Engineering,CET,166850,74,4,111,12877,14157,20812,29043,5,4
-C1054,Guru Gobind Singh College of Engineering Nashik,Maharashtra,Pune,Private,Mechanical Engineering,Engineering,CET,91075,75,5,171,4404,7224,15814,21400,3,5
-C1055,GCOE Nashik,Maharashtra,Pune,Private,Civil Engineering,Engineering,CET,105911,81,4,109,8802,10905,15969,22113,4,5
-C1056,MIT Academy of Engineering,Maharashtra,Pune,Private,Electrical Engineering,Engineering,CET,130135,75,4,161,17873,20276,25331,30422,4,4
-C1057,Datta Meghe College of Engineering,Maharashtra,Mumbai,Government,Information Technology,Engineering,CET,154162,85,4,91,7127,8982,18911,21243,4,5
-C1058,SIES Graduate School of Technology,Maharashtra,Nashik,Government,Computer Engineering,Engineering,CET,86056,76,5,93,19176,20731,25669,32556,5,5
-C1059,KK Wagh Institute of Engineering,Maharashtra,Pune,Private,Electronics & Telecommunication,Engineering,CET,69107,85,5,142,4616,6578,14212,22219,5,4
-C1060,Fr CRCE Bandra,Maharashtra,Mumbai,Government,Cyber Security,Engineering,CET,110176,75,5,151,17090,19645,26189,29275,3,5
-C1061,KJ Somaiya College of Engineering,Maharashtra,Mumbai,Government,Mechanical Engineering,Engineering,CET,127750,84,4,101,8440,11317,16640,26291,4,5
-C1062,Fr CRCE Bandra,Maharashtra,Mumbai,Government,AI & Data Science,Engineering,CET,120859,91,3,170,8211,9513,20205,24760,5,3
-C1063,Indira College of Engineering,Maharashtra,Nashik,Private,Computer Engineering,Engineering,CET,70782,72,4,126,14852,16295,22799,28502,4,4
-C1064,VIT Pune,Maharashtra,Pune,Private,Data Science,Engineering,CET,161193,91,3,106,16641,19237,26602,28725,4,5
-C1065,MIT Academy of Engineering,Maharashtra,Pune,Government,Computer Engineering,Engineering,CET,82463,88,4,103,10420,11845,17000,24534,5,5
-C1066,Indira College of Engineering,Maharashtra,Pune,Government,Information Technology,Engineering,CET,150658,88,5,81,16666,17807,23191,29754,4,3
-C1067,Datta Meghe College of Engineering,Maharashtra,Pune,Government,Electrical Engineering,Engineering,CET,106938,71,5,94,9484,12171,15849,25637,3,3
-C1068,KK Wagh Institute of Engineering,Maharashtra,Pune,Private,Data Science,Engineering,CET,169158,95,4,150,6308,8644,17517,23215,5,4
-C1069,PICT Pune,Maharashtra,Pune,Government,AI & Data Science,Engineering,CET,168244,76,4,119,8846,10631,16657,21593,4,5
-C1070,Terna Engineering College,Maharashtra,Mumbai,Government,Information Technology,Engineering,CET,169418,86,3,147,4571,7496,14569,16805,3,4
-C1071,KJ Somaiya College of Engineering,Maharashtra,Nashik,Government,Data Science,Engineering,CET,97756,80,3,128,7564,9511,14808,20995,4,3
-C1072,VJTI Mumbai,Maharashtra,Pune,Government,AI & Data Science,Engineering,CET,146838,90,3,102,5542,7438,15795,22921,5,3
-C1073,Datta Meghe College of Engineering,Maharashtra,Mumbai,Private,Mechanical Engineering,Engineering,CET,124632,77,5,107,18443,21055,26760,30972,5,4
-C1074,MIT Academy of Engineering,Maharashtra,Pune,Private,Robotics Engineering,Engineering,CET,142750,88,4,77,3061,5900,13401,19654,4,3
-C1075,GCOE Nashik,Maharashtra,Mumbai,Private,AI & Data Science,Engineering,CET,167116,95,4,163,7216,8680,17457,20747,5,3
-C1076,Guru Gobind Singh College of Engineering Nashik,Maharashtra,Mumbai,Government,Robotics Engineering,Engineering,CET,60416,86,3,67,16065,18728,23151,31992,5,5
-C1077,MIT Academy of Engineering,Maharashtra,Mumbai,Private,Mechanical Engineering,Engineering,CET,132184,83,5,160,6786,8312,17250,21457,3,4
-C1078,VIT Pune,Maharashtra,Pune,Government,Mechanical Engineering,Engineering,CET,164178,87,5,75,8629,9683,16003,24939,4,3
-C1079,Sandip Institute of Engineering and Management,Maharashtra,Pune,Private,Computer Engineering,Engineering,CET,84081,81,3,170,17715,18806,27627,34052,5,3
-C1080,Fr Agnel Bandra,Maharashtra,Pune,Government,Cyber Security,Engineering,CET,63191,81,3,168,4715,6217,15155,19090,3,3
-C1081,Modern College of Engineering,Maharashtra,Pune,Private,Electronics & Telecommunication,Engineering,CET,131254,76,4,89,9523,11410,19978,24296,4,4
-C1082,Pimpri Chinchwad College of Engineering,Maharashtra,Pune,Government,Civil Engineering,Engineering,CET,64664,83,5,66,13332,15593,23889,29759,4,3
-C1083,D Y Patil College of Engineering Akurdi,Maharashtra,Nashik,Government,Cyber Security,Engineering,CET,64703,90,4,128,16593,19280,22773,30851,4,5
-C1084,Terna Engineering College,Maharashtra,Pune,Private,Cyber Security,Engineering,CET,126216,90,5,120,4207,6459,16054,17816,4,4
-C1085,KK Wagh Institute of Engineering,Maharashtra,Mumbai,Government,Robotics Engineering,Engineering,CET,129883,78,5,173,12856,14145,21525,29003,3,3
-C1086,VJTI Mumbai,Maharashtra,Nashik,Private,Electronics & Telecommunication,Engineering,CET,106099,75,5,143,7476,8937,14402,22791,3,3
-C1087,Modern College of Engineering,Maharashtra,Nashik,Government,Robotics Engineering,Engineering,CET,97861,94,3,142,3332,5988,12999,18291,4,5
-C1088,K K Wagh ,Maharashtra,Nashik,Private,Electronics & Telecommunication,Engineering,CET,149898,80,3,138,15282,18246,24297,29759,3,5
-C1089,K K Wagh,Maharashtra,Nashik,Government,AI & Data Science,Engineering,CET,93916,84,5,158,6243,7841,13916,20199,5,4
-C1090,K K Wagh,Maharashtra,Nashik,Private,Cyber Security,Engineering,CET,148287,72,3,128,16460,19061,27043,31050,3,4
-C1091,K K Wagh,Maharashtra,Nashik,Government,Robotics Engineering,Engineering,CET,120195,80,4,155,4752,6007,15501,17417,3,3
-C2000,MET Bhujbal Knowledge city,Maharashtra,Nashik,Private,Information Technology,Engineering,CET,149898,80,3,138,15282,18246,24297,29759,3,5
-C2001,MET Bhujbal Knowledge city,Nashik,Government,AI & Data Science,Engineering,CET,93916,84,5,158,6243,7841,13916,20199,5,4
-C2002,MET Bhujbal Knowledge city,Maharashtra,Nashik,Private,Cyber Security,Engineering,CET,148287,72,3,128,16460,19061,27043,31050,3,4
-C2003,MET Bhujbal Knowledge city,Maharashtra,Nashik,Government,Robotics Engineering,Engineering,CET,120195,80,4,155,4752,6007,15501,17417,3,3
-C2000,MET Bhujbal Knowledge city,Maharashtra,Nashik,Private,Computer Engineering ,Engineering,CET,149898,80,3,138,15282,18246,24297,29759,3,5
-C2001,MET Bhujbal Knowledge city,Nashik,Government,AI & Data Science,Engineering,CET,93916,84,5,158,6243,7841,13916,20199,5,4
-C2002,MET Bhujbal Knowledge city,Maharashtra,Nashik,Private,Cyber Security,Engineering,CET,148287,72,3,128,16460,19061,27043,31050,3,4
-C2003,MET Bhujbal Knowledge city,Maharashtra,Nashik,Government,Robotics Engineering,Engineering,CET,120195,80,4,155,4752,6007,15501,17417,3,3
-C1092,Indira College of Engineering,Maharashtra,Nashik,Private,Electrical Engineering,Engineering,CET,104400,92,5,78,12776,13896,21909,26418,3,3
-C1093,Modern College of Engineering,Maharashtra,Nashik,Government,Cyber Security,Engineering,CET,86637,70,5,135,3448,5526,12928,18074,5,5
-C1094,Datta Meghe College of Engineering,Maharashtra,Pune,Government,Cyber Security,Engineering,CET,167698,72,5,160,11614,14557,21921,27262,3,4
-C1095,D Y Patil College of Engineering Akurdi,Maharashtra,Pune,Government,Information Technology,Engineering,CET,131958,95,5,168,5920,7904,14335,18902,4,3
-C1096,Modern College of Engineering,Maharashtra,Mumbai,Private,Civil Engineering,Engineering,CET,65425,85,3,142,19396,22004,28671,33597,4,4
-C1097,Indira College of Engineering,Maharashtra,Pune,Government,Civil Engineering,Engineering,CET,109564,72,5,103,10460,12389,22036,25520,4,5
-C1098,VIT Pune,Maharashtra,Pune,Private,Mechanical Engineering,Engineering,CET,89368,71,5,176,18625,20927,29518,32828,4,4
-C1099,Datta Meghe College of Engineering,Maharashtra,Pune,Government,AI & Data Science,Engineering,CET,147621,93,4,147,5939,8813,12119,19237,5,3
-C1100,KK Wagh Institute of Engineering,Maharashtra,Mumbai,Government,Information Technology,Engineering,CET,95781,77,3,172,3227,5503,11390,16984,5,4
-C1101,Fr CRCE Bandra,Maharashtra,Nashik,Government,Computer Engineering,Engineering,CET,146328,75,5,171,3162,5117,11722,18618,5,3
-C1102,Indira College of Engineering,Maharashtra,Mumbai,Government,Cyber Security,Engineering,CET,128369,83,4,137,7761,9977,13993,21611,3,3
-C1103,Sinhgad Institute of Technology,Maharashtra,Mumbai,Government,Computer Engineering,Engineering,CET,128822,72,5,73,15363,17940,26355,32245,3,3
-C1104,Thakur College of Engineering,Maharashtra,Mumbai,Private,Computer Engineering,Engineering,CET,83689,81,3,71,17145,19325,26115,31612,3,4
-C1105,Thakur College of Engineering,Maharashtra,Pune,Private,Computer Engineering,Engineering,CET,112143,78,4,61,14265,15762,24934,27452,4,5
-C1106,KJ Somaiya College of Engineering,Maharashtra,Mumbai,Government,Electrical Engineering,Engineering,CET,71940,95,5,134,10337,12088,18076,22949,4,5
-C1107,VJTI Mumbai,Maharashtra,Nashik,Private,Mechanical Engineering,Engineering,CET,141680,94,4,130,4323,6516,15421,22183,5,3
-C1108,GCOE Nashik,Maharashtra,Mumbai,Private,Civil Engineering,Engineering,CET,90266,80,3,154,11883,14031,17975,27060,3,3
-C1109,KJ Somaiya College of Engineering,Maharashtra,Nashik,Government,Electrical Engineering,Engineering,CET,139009,83,5,122,5665,7619,12950,18613,3,4
-C1110,Terna Engineering College,Maharashtra,Nashik,Government,Civil Engineering,Engineering,CET,90952,93,5,140,8779,11743,16070,25950,3,4
-C1111,Guru Gobind Singh College of Engineering Nashik,Maharashtra,Mumbai,Private,AI & Data Science,Engineering,CET,166046,87,3,117,15392,16656,24593,27975,5,3
-C1112,Sinhgad Institute of Technology,Maharashtra,Pune,Private,Cyber Security,Engineering,CET,127118,93,4,63,9595,12077,20616,25550,4,4
-C1113,Pimpri Chinchwad College of Engineering,Maharashtra,Mumbai,Government,Data Science,Engineering,CET,66017,91,5,154,7712,9891,15034,21305,3,3
-C1114,Fr CRCE Bandra,Maharashtra,Pune,Private,Computer Engineering,Engineering,CET,70543,94,4,62,11332,12900,22873,25907,5,3
-C1115,GCOE Nashik,Maharashtra,Mumbai,Government,Electronics & Telecommunication,Engineering,CET,119591,82,5,112,14858,17090,21960,32187,5,4
-C1116,Modern College of Engineering,Maharashtra,Pune,Government,Mechanical Engineering,Engineering,CET,96925,80,5,71,15507,17685,27413,27976,5,4
-C1117,PICT Pune,Maharashtra,Mumbai,Government,Computer Engineering,Engineering,CET,69819,81,3,146,7559,8796,16824,25258,5,4
-C1118,Fr Agnel Bandra,Maharashtra,Mumbai,Government,Electronics & Telecommunication,Engineering,CET,131188,76,5,62,10527,11569,21656,26271,4,4
-C1119,Pimpri Chinchwad College of Engineering,Maharashtra,Mumbai,Private,Mechanical Engineering,Engineering,CET,70771,72,3,68,3910,5414,12609,20838,5,5
-C1120,GCOE Nashik,Maharashtra,Nashik,Private,Robotics Engineering,Engineering,CET,107609,80,4,104,17545,19301,24676,31100,5,3
-C1121,Datta Meghe College of Engineering,Maharashtra,Nashik,Government,Electronics & Telecommunication,Engineering,CET,156164,95,3,84,13539,15788,24155,27037,5,3
-C1122,AISSMS College of Engineering,Maharashtra,Mumbai,Private,Computer Engineering,Engineering,CET,168994,87,4,90,8272,11233,15189,21079,5,4
-C1123,Fr Agnel Bandra,Maharashtra,Nashik,Private,Mechanical Engineering,Engineering,CET,139053,77,5,178,7283,10174,18206,20017,4,5
-C1124,SIES Graduate School of Technology,Maharashtra,Nashik,Private,Computer Engineering,Engineering,CET,107500,91,3,151,6135,8054,17267,22991,5,4
-C1125,Fr CRCE Bandra,Maharashtra,Mumbai,Government,Cyber Security,Engineering,CET,80771,81,4,179,7976,9139,18889,23816,4,5
-C1126,PICT Pune,Maharashtra,Pune,Private,Computer Engineering,Engineering,CET,101111,82,4,169,12412,14676,21031,24996,3,5
-C1127,COEP Technological University,Maharashtra,Mumbai,Private,Computer Engineering,Engineering,CET,153274,93,5,81,18124,20839,29248,31994,5,5
-C1128,Fr Agnel Bandra,Maharashtra,Pune,Private,Robotics Engineering,Engineering,CET,90890,92,5,153,7975,9128,18388,23693,3,3
-C1129,COEP Technological University,Maharashtra,Mumbai,Government,Data Science,Engineering,CET,102130,70,5,107,17512,19679,23612,29715,4,4
-C1130,Fr Agnel Bandra,Maharashtra,Mumbai,Government,Data Science,Engineering,CET,149765,70,4,173,16529,17588,25814,30305,4,5
-C1131,Thakur College of Engineering,Maharashtra,Mumbai,Government,Civil Engineering,Engineering,CET,155154,85,3,91,11484,13187,22719,25101,3,5
-C1132,KJ Somaiya College of Engineering,Maharashtra,Mumbai,Government,Civil Engineering,Engineering,CET,159006,88,5,110,19792,21422,27348,35673,3,5
-C1133,Indira College of Engineering,Maharashtra,Pune,Government,Data Science,Engineering,CET,140974,95,4,173,15846,16849,25128,30494,4,3
-C1134,Fr CRCE Bandra,Maharashtra,Nashik,Private,AI & Data Science,Engineering,CET,119704,78,4,81,10398,11565,22261,24754,3,4
-C1135,MIT Academy of Engineering,Maharashtra,Mumbai,Government,Information Technology,Engineering,CET,64249,95,5,71,12503,14183,24252,27369,4,3
-C1136,MIT Academy of Engineering,Maharashtra,Mumbai,Private,Electrical Engineering,Engineering,CET,123171,80,5,88,18315,19971,26533,34972,4,3
-C1137,KK Wagh Institute of Engineering,Maharashtra,Pune,Government,AI & Data Science,Engineering,CET,134968,91,5,148,9543,12494,20520,22499,4,5
-C1138,Guru Gobind Singh College of Engineering Nashik,Maharashtra,Pune,Private,Mechanical Engineering,Engineering,CET,113411,83,5,172,14047,15242,25501,29676,4,3
-C1139,Modern College of Engineering,Maharashtra,Pune,Government,Cyber Security,Engineering,CET,108869,70,5,118,5034,7300,14622,22206,3,4
-C1140,Thakur College of Engineering,Maharashtra,Nashik,Private,Cyber Security,Engineering,CET,156053,71,3,155,16325,19167,26065,30371,4,4
-C1141,GCOE Nashik,Maharashtra,Nashik,Private,Information Technology,Engineering,CET,93118,75,3,87,4366,5391,11970,20098,3,5
-C1142,Sinhgad Institute of Technology,Maharashtra,Nashik,Private,Computer Engineering,Engineering,CET,103571,76,5,119,11748,14371,23424,24326,3,3
-C1143,Sinhgad Institute of Technology,Maharashtra,Mumbai,Government,AI & Data Science,Engineering,CET,146255,94,4,86,19329,21682,27830,37243,3,3
-C1144,Terna Engineering College,Maharashtra,Nashik,Private,AI & Data Science,Engineering,CET,158110,78,5,173,10646,13110,16957,27554,3,5
-C1145,Fr Agnel Bandra,Maharashtra,Nashik,Private,Computer Engineering,Engineering,CET,141610,76,4,97,8794,11363,20400,26536,5,4
-C1146,MIT Academy of Engineering,Maharashtra,Mumbai,Private,Robotics Engineering,Engineering,CET,138456,85,5,73,3155,4928,11785,19672,5,5
-C1147,D Y Patil College of Engineering Akurdi,Maharashtra,Pune,Private,Electrical Engineering,Engineering,CET,151208,94,5,137,7911,10162,18987,23513,3,5
-C1148,Thakur College of Engineering,Maharashtra,Mumbai,Private,Electrical Engineering,Engineering,CET,88733,87,4,88,17048,18764,27917,32268,4,3
-C1149,Terna Engineering College,Maharashtra,Nashik,Private,Electrical Engineering,Engineering,CET,72438,73,3,111,12369,14070,23666,28015,5,3
-C1150,Datta Meghe College of Engineering,Maharashtra,Nashik,Government,Electrical Engineering,Engineering,CET,137069,93,5,160,19317,21489,26645,33619,3,5
-C1151,D Y Patil College of Engineering Akurdi,Maharashtra,Pune,Government,Civil Engineering,Engineering,CET,168970,70,5,110,12549,13738,19510,25733,3,3
-C1152,KJ Somaiya College of Engineering,Maharashtra,Mumbai,Private,Data Science,Engineering,CET,161227,82,3,160,18108,21052,25465,32908,3,3
-C1153,Guru Gobind Singh College of Engineering Nashik,Maharashtra,Pune,Government,Cyber Security,Engineering,CET,129504,71,3,77,17097,19630,26458,31623,5,4
-C1154,COEP Technological University,Maharashtra,Pune,Private,Electronics & Telecommunication,Engineering,CET,98163,74,5,146,8765,11714,16182,21200,3,5
-C1155,KK Wagh Institute of Engineering,Maharashtra,Pune,Private,Civil Engineering,Engineering,CET,157364,76,4,106,3123,5483,10422,21027,5,3
-C1156,COEP Technological University,Maharashtra,Nashik,Government,Computer Engineering,Engineering,CET,117501,74,4,149,17441,18997,27492,31599,4,4
-C1157,Guru Gobind Singh College of Engineering Nashik,Maharashtra,Nashik,Private,Mechanical Engineering,Engineering,CET,82212,84,4,175,7813,10361,19232,25467,4,4
-C1158,Datta Meghe College of Engineering,Maharashtra,Pune,Private,Robotics Engineering,Engineering,CET,63072,89,5,174,4931,6205,16190,17184,3,3
-C1159,SIES Graduate School of Technology,Maharashtra,Nashik,Private,AI & Data Science,Engineering,CET,149747,84,3,101,15348,18086,24284,33050,4,3
-C1160,Sinhgad Institute of Technology,Maharashtra,Nashik,Private,Electrical Engineering,Engineering,CET,111178,77,5,136,10277,12094,18698,26053,4,5
-C1161,AISSMS College of Engineering,Maharashtra,Mumbai,Government,AI & Data Science,Engineering,CET,86657,77,4,94,3394,5631,15319,21309,3,4
-C1162,Fr Agnel Bandra,Maharashtra,Nashik,Private,Cyber Security,Engineering,CET,100708,79,5,166,9196,11631,15929,21879,5,4
-C1163,MIT Academy of Engineering,Maharashtra,Mumbai,Government,Electronics & Telecommunication,Engineering,CET,76337,94,4,133,14494,16247,21950,28132,3,3
-C1164,Modern College of Engineering,Maharashtra,Pune,Private,Mechanical Engineering,Engineering,CET,129277,70,4,99,4241,6270,12381,20453,4,5
-C1165,MIT Academy of Engineering,Maharashtra,Pune,Government,Mechanical Engineering,Engineering,CET,160677,72,4,170,19170,20775,25885,33434,5,4
-C1166,GCOE Nashik,Maharashtra,Nashik,Private,AI & Data Science,Engineering,CET,166597,89,3,139,9105,10758,18328,25183,5,5
-C1167,Modern College of Engineering,Maharashtra,Nashik,Private,Robotics Engineering,Engineering,CET,134095,82,3,146,17097,19218,28464,29774,5,3
-C1168,KK Wagh Institute of Engineering,Maharashtra,Pune,Private,Mechanical Engineering,Engineering,CET,74625,94,5,110,3835,5980,13990,19957,4,3
-C1169,Sinhgad Institute of Technology,Maharashtra,Pune,Private,Information Technology,Engineering,CET,106934,79,5,131,6377,8728,18121,24024,5,5
-C1170,KJ Somaiya College of Engineering,Maharashtra,Mumbai,Government,Electronics & Telecommunication,Engineering,CET,60428,83,4,141,8718,10211,15161,24034,4,5
-C1171,VIT Pune,Maharashtra,Nashik,Private,Electronics & Telecommunication,Engineering,CET,93754,76,5,102,4795,6598,15381,16873,4,5
-C1172,VJTI Mumbai,Maharashtra,Mumbai,Private,AI & Data Science,Engineering,CET,137176,92,4,117,19768,21905,31650,35413,3,5
-C1173,Guru Gobind Singh College of Engineering Nashik,Maharashtra,Pune,Private,Information Technology,Engineering,CET,67756,83,3,129,10798,12369,16966,28650,5,5
-C1174,KK Wagh Institute of Engineering,Maharashtra,Nashik,Private,Computer Engineering,Engineering,CET,73351,87,3,73,7294,9670,16850,21749,5,5
-C1175,VIT Pune,Maharashtra,Nashik,Private,Electrical Engineering,Engineering,CET,96888,78,4,77,5845,7421,13612,18379,3,4
-C1176,Modern College of Engineering,Maharashtra,Mumbai,Private,Data Science,Engineering,CET,118065,92,4,109,7492,8603,19190,24375,4,3
-C1177,VIT Pune,Maharashtra,Mumbai,Private,Data Science,Engineering,CET,96344,91,5,151,12478,13677,20018,26674,4,5
-C1178,Datta Meghe College of Engineering,Maharashtra,Mumbai,Government,AI & Data Science,Engineering,CET,155172,89,5,80,8683,11615,20100,21160,3,5
-C1179,VJTI Mumbai,Maharashtra,Nashik,Government,Civil Engineering,Engineering,CET,87434,76,4,66,14020,15251,22586,31465,3,5
-C1180,MIT Academy of Engineering,Maharashtra,Nashik,Private,Robotics Engineering,Engineering,CET,134156,95,4,150,5099,6838,11508,17676,3,4
-C1181,COEP Technological University,Maharashtra,Pune,Government,Mechanical Engineering,Engineering,CET,169166,93,5,105,17281,19476,24402,29911,5,5
-C1182,Sandip Institute of Engineering and Management,Maharashtra,Pune,Government,Data Science,Engineering,CET,83714,75,4,68,6477,7569,14542,19564,4,4
-C1183,Modern College of Engineering,Maharashtra,Nashik,Private,Electrical Engineering,Engineering,CET,158099,91,4,99,12204,13843,21791,24679,4,3
-C1184,Indira College of Engineering,Maharashtra,Mumbai,Private,Data Science,Engineering,CET,139362,91,4,83,5565,8075,17495,20744,5,3
-C1185,Pimpri Chinchwad College of Engineering,Maharashtra,Pune,Government,Cyber Security,Engineering,CET,87665,71,4,140,18231,20134,28174,32255,4,4
-C1186,Sandip Institute of Engineering and Management,Maharashtra,Nashik,Government,AI & Data Science,Engineering,CET,99399,90,4,155,3523,5023,14668,20418,4,3
-C1187,GCOE Nashik,Maharashtra,Pune,Government,Electronics & Telecommunication,Engineering,CET,163464,72,3,132,7491,10487,16797,21169,3,3
-C1188,Pimpri Chinchwad College of Engineering,Maharashtra,Mumbai,Private,Electrical Engineering,Engineering,CET,73348,91,3,115,19092,20931,28665,33045,3,4
-C1189,VIT Pune,Maharashtra,Pune,Government,Civil Engineering,Engineering,CET,165963,83,3,63,14854,17505,21144,29167,4,4
-C1190,Sandip Institute of Engineering and Management,Maharashtra,Pune,Private,Civil Engineering,Engineering,CET,106712,82,3,63,18685,20137,29003,33168,4,3
-C1191,PICT Pune,Maharashtra,Pune,Private,Computer Engineering,Engineering,CET,114278,93,5,124,18963,20538,30403,32701,4,3
-C1192,Sinhgad Institute of Technology,Maharashtra,Pune,Government,Mechanical Engineering,Engineering,CET,156850,92,5,151,19657,22238,27192,33197,5,3
-C1193,VJTI Mumbai,Maharashtra,Pune,Private,Civil Engineering,Engineering,CET,156687,84,5,151,14648,16779,22426,27796,4,3
-C1194,VJTI Mumbai,Maharashtra,Nashik,Private,Computer Engineering,Engineering,CET,157832,90,3,98,3515,5036,13123,20919,3,5
-C1195,VIT Pune,Maharashtra,Nashik,Government,Civil Engineering,Engineering,CET,104612,81,5,103,9892,11966,17774,26624,4,5
-C1196,Indira College of Engineering,Maharashtra,Mumbai,Private,Mechanical Engineering,Engineering,CET,79995,76,5,115,12186,13876,22728,28895,4,3
-C1197,Guru Gobind Singh College of Engineering Nashik,Maharashtra,Nashik,Government,Electrical Engineering,Engineering,CET,163464,89,4,154,11071,12830,19775,26057,3,5
-C1198,KJ Somaiya College of Engineering,Maharashtra,Pune,Private,Mechanical Engineering,Engineering,CET,111429,83,5,165,5471,6728,16346,17579,3,3
-C1199,Fr CRCE Bandra,Maharashtra,Mumbai,Private,Data Science,Engineering,CET,121271,85,5,163,9742,12448,19209,21811,4,3
-C1200,SIES Graduate School of Technology,Maharashtra,Nashik,Government,Cyber Security,Engineering,CET,156758,79,3,69,8216,11199,17662,22224,3,4
-C1201,Datta Meghe College of Engineering,Maharashtra,Pune,Private,Mechanical Engineering,Engineering,CET,146751,95,5,156,5962,7493,13112,19862,4,5
-C1202,KK Wagh Institute of Engineering,Maharashtra,Mumbai,Government,Data Science,Engineering,CET,123006,94,5,91,18905,21512,26293,36570,4,4
-C1203,PICT Pune,Maharashtra,Nashik,Private,Electronics & Telecommunication,Engineering,CET,92752,75,5,109,9636,11366,18695,21806,5,4
-C1204,Pimpri Chinchwad College of Engineering,Maharashtra,Nashik,Government,Electronics & Telecommunication,Engineering,CET,89943,87,4,175,16899,19803,26454,32465,3,5
-C1205,Terna Engineering College,Maharashtra,Mumbai,Government,Computer Engineering,Engineering,CET,164433,88,3,106,13485,15981,22261,30301,4,5
-C1206,KJ Somaiya College of Engineering,Maharashtra,Pune,Private,Robotics Engineering,Engineering,CET,119735,80,3,145,8585,10850,19178,21103,4,4
-C1207,PICT Pune,Maharashtra,Mumbai,Government,Electrical Engineering,Engineering,CET,84294,84,4,178,6883,9868,14981,20060,4,5
-C1208,Thakur College of Engineering,Maharashtra,Nashik,Government,Computer Engineering,Engineering,CET,96215,83,3,98,6677,8293,17629,24506,5,3
-C1209,Modern College of Engineering,Maharashtra,Pune,Private,Information Technology,Engineering,CET,90573,87,4,73,7604,9570,14199,20140,4,4
-C1210,SIES Graduate School of Technology,Maharashtra,Mumbai,Government,Civil Engineering,Engineering,CET,137462,80,5,79,13495,15906,19679,26608,3,5
-C1211,Thakur College of Engineering,Maharashtra,Mumbai,Government,Cyber Security,Engineering,CET,144514,93,5,128,12122,13199,24070,26970,4,3
-C1212,D Y Patil College of Engineering Akurdi,Maharashtra,Pune,Government,Civil Engineering,Engineering,CET,65824,77,4,163,6836,8149,15467,18937,4,5
-C1213,PICT Pune,Maharashtra,Nashik,Government,Mechanical Engineering,Engineering,CET,159912,82,5,71,9273,10928,19287,23929,5,4
-C1214,PICT Pune,Maharashtra,Nashik,Private,Data Science,Engineering,CET,102803,92,3,69,19669,21392,26819,34838,4,5
-C1215,Modern College of Engineering,Maharashtra,Mumbai,Private,Robotics Engineering,Engineering,CET,98841,89,4,161,9778,12731,16208,25929,3,3
-C1216,Indira College of Engineering,Maharashtra,Pune,Private,Electronics & Telecommunication,Engineering,CET,120382,86,3,93,15607,17268,25513,32767,5,5
-C1217,Fr Agnel Bandra,Maharashtra,Mumbai,Government,Computer Engineering,Engineering,CET,156927,85,5,62,10745,12478,19873,24310,4,5
-C1218,VIT Pune,Maharashtra,Nashik,Government,Civil Engineering,Engineering,CET,158005,92,5,120,13932,16251,23259,27398,4,3
-C1219,MIT Academy of Engineering,Maharashtra,Mumbai,Private,Computer Engineering,Engineering,CET,130509,72,3,128,8166,9515,19567,23743,4,3
-C1220,D Y Patil College of Engineering Akurdi,Maharashtra,Nashik,Private,Cyber Security,Engineering,CET,133249,82,5,61,9041,10918,20427,24691,5,4
-C1221,COEP Technological University,Maharashtra,Nashik,Private,Cyber Security,Engineering,CET,141444,90,3,82,9343,12200,16491,25684,3,5
-C1222,MIT Academy of Engineering,Maharashtra,Pune,Government,Robotics Engineering,Engineering,CET,161173,93,5,63,5943,8179,15493,21065,5,5
-C1223,SIES Graduate School of Technology,Maharashtra,Pune,Government,Electronics & Telecommunication,Engineering,CET,168058,70,3,111,6590,8823,14214,22306,5,3
-C1224,Indira College of Engineering,Maharashtra,Pune,Government,Data Science,Engineering,CET,69200,85,4,126,14948,16178,21571,30669,4,5
-C1225,Fr CRCE Bandra,Maharashtra,Nashik,Government,Data Science,Engineering,CET,117366,81,5,156,4704,7078,13377,18283,3,4
-C1226,Guru Gobind Singh College of Engineering Nashik,Maharashtra,Mumbai,Private,Computer Engineering,Engineering,CET,113371,85,4,136,3328,6187,14510,16821,5,4
-C1227,Terna Engineering College,Maharashtra,Nashik,Government,Electronics & Telecommunication,Engineering,CET,153151,71,3,130,12947,15310,19686,30088,4,5
-C1228,SIES Graduate School of Technology,Maharashtra,Pune,Government,Civil Engineering,Engineering,CET,116181,79,3,103,12330,14118,22182,28459,5,3
-C1229,COEP Technological University,Maharashtra,Mumbai,Private,Information Technology,Engineering,CET,161463,84,3,152,13186,14349,20623,30032,4,3
-C1230,KK Wagh Institute of Engineering,Maharashtra,Mumbai,Government,Data Science,Engineering,CET,109612,75,4,113,8280,9774,19108,20788,4,3
-C1231,SIES Graduate School of Technology,Maharashtra,Nashik,Private,Robotics Engineering,Engineering,CET,133514,94,3,95,19123,21698,28266,32330,3,4
-C1232,GCOE Nashik,Maharashtra,Mumbai,Private,Robotics Engineering,Engineering,CET,168808,77,5,113,18059,19277,27668,34294,4,3
-C1233,SIES Graduate School of Technology,Maharashtra,Pune,Private,AI & Data Science,Engineering,CET,110490,89,4,89,6789,8661,13674,19144,5,5
-C1234,PICT Pune,Maharashtra,Mumbai,Private,Data Science,Engineering,CET,77762,85,4,92,17268,19611,26637,33777,5,4
-C1235,SIES Graduate School of Technology,Maharashtra,Pune,Private,Mechanical Engineering,Engineering,CET,135762,86,4,176,8647,10913,15901,22013,5,3
-C1236,Sinhgad Institute of Technology,Maharashtra,Nashik,Private,Computer Engineering,Engineering,CET,137907,91,3,111,18342,19741,27613,30438,5,5
-C1237,Fr CRCE Bandra,Maharashtra,Mumbai,Government,Robotics Engineering,Engineering,CET,65937,94,4,120,18954,20877,30516,36510,3,5
-C1238,PICT Pune,Maharashtra,Pune,Private,Mechanical Engineering,Engineering,CET,83130,81,3,65,14260,16362,25075,29843,4,3
-C1239,SIES Graduate School of Technology,Maharashtra,Nashik,Private,Civil Engineering,Engineering,CET,91905,75,3,105,17859,20687,28192,32898,4,5
-C1240,VJTI Mumbai,Maharashtra,Mumbai,Private,Electrical Engineering,Engineering,CET,133111,75,3,143,16699,17899,22872,29088,5,4
-C1241,Fr Agnel Bandra,Maharashtra,Pune,Government,Computer Engineering,Engineering,CET,154557,83,5,68,13250,14759,25128,28352,5,3
-C1242,AISSMS College of Engineering,Maharashtra,Pune,Private,Mechanical Engineering,Engineering,CET,143334,85,3,70,7286,9470,15998,21971,3,5
-C1243,Modern College of Engineering,Maharashtra,Mumbai,Government,Cyber Security,Engineering,CET,97652,71,4,124,19972,21754,29986,37828,3,4
-C1244,Sandip Institute of Engineering and Management,Maharashtra,Nashik,Government,Civil Engineering,Engineering,CET,91776,88,4,135,6935,8171,17605,23049,3,3
-C1245,Fr Agnel Bandra,Maharashtra,Mumbai,Private,Data Science,Engineering,CET,122738,78,3,121,9900,12507,20106,23489,5,4
-C1246,SIES Graduate School of Technology,Maharashtra,Pune,Government,Mechanical Engineering,Engineering,CET,142513,89,3,115,5747,7093,13783,19721,3,4
-C1247,Modern College of Engineering,Maharashtra,Nashik,Private,Information Technology,Engineering,CET,119777,78,4,169,19124,20555,25778,36928,4,4
-C1248,Fr Agnel Bandra,Maharashtra,Mumbai,Government,Mechanical Engineering,Engineering,CET,95156,80,4,116,11652,13283,20951,24223,4,4
-C1249,VJTI Mumbai,Maharashtra,Nashik,Private,Information Technology,Engineering,CET,125694,88,4,140,5934,8703,17643,19798,3,4
-C1250,Fr CRCE Bandra,Maharashtra,Nashik,Government,Electronics & Telecommunication,Engineering,CET,108517,81,3,167,18514,20808,30401,31391,4,4
-C1251,KJ Somaiya College of Engineering,Maharashtra,Mumbai,Government,AI & Data Science,Engineering,CET,140912,91,5,118,4575,6201,13560,18175,5,4
-C1252,PICT Pune,Maharashtra,Pune,Private,Civil Engineering,Engineering,CET,68900,83,4,112,5976,8595,16139,21722,3,5
-C1253,Fr CRCE Bandra,Maharashtra,Mumbai,Government,Civil Engineering,Engineering,CET,121659,79,4,71,13021,15294,19247,28380,3,3
-C1254,MIT Academy of Engineering,Maharashtra,Nashik,Government,Cyber Security,Engineering,CET,161748,79,3,174,17290,19143,24505,30967,4,5
-C1255,Terna Engineering College,Maharashtra,Pune,Private,Electronics & Telecommunication,Engineering,CET,62993,85,4,136,4231,6416,12029,16801,4,3
-C1256,Sinhgad Institute of Technology,Maharashtra,Nashik,Government,Mechanical Engineering,Engineering,CET,90889,81,4,164,5102,7523,13269,21508,3,4
-C1257,MIT Academy of Engineering,Maharashtra,Nashik,Private,Information Technology,Engineering,CET,163632,71,5,97,4851,7425,16002,22615,3,4
-C1258,Fr Agnel Bandra,Maharashtra,Nashik,Private,Civil Engineering,Engineering,CET,118578,90,4,82,13122,15373,21131,28612,4,5
-C1259,D Y Patil College of Engineering Akurdi,Maharashtra,Mumbai,Government,Civil Engineering,Engineering,CET,135528,92,3,112,13323,14327,23202,25644,5,3
-C1260,PICT Pune,Maharashtra,Mumbai,Government,Cyber Security,Engineering,CET,149758,88,4,178,16636,18383,27974,30974,4,5
-C1261,COEP Technological University,Maharashtra,Pune,Private,Civil Engineering,Engineering,CET,159417,94,5,119,9457,10477,20796,25420,3,5
-C1262,Sandip Institute of Engineering and Management,Maharashtra,Nashik,Private,AI & Data Science,Engineering,CET,77512,87,3,100,10520,11693,17427,25711,4,4
-C1263,Terna Engineering College,Maharashtra,Nashik,Government,Mechanical Engineering,Engineering,CET,77583,74,3,144,16794,18127,26929,30199,5,4
-C1264,VJTI Mumbai,Maharashtra,Pune,Government,Cyber Security,Engineering,CET,71804,95,4,112,18617,20929,28929,32873,4,4
-C1265,Datta Meghe College of Engineering,Maharashtra,Pune,Private,Mechanical Engineering,Engineering,CET,122827,93,3,149,8678,11197,16209,24026,5,5
-C1266,Terna Engineering College,Maharashtra,Nashik,Private,Civil Engineering,Engineering,CET,144419,75,3,122,10032,11798,20146,26618,5,4
-C1267,VIT Pune,Maharashtra,Mumbai,Government,Data Science,Engineering,CET,139138,90,3,156,12425,14510,23049,26009,5,4
-C1268,Fr CRCE Bandra,Maharashtra,Nashik,Government,Cyber Security,Engineering,CET,86078,94,3,106,6274,8754,15145,22525,3,3
-C1269,SIES Graduate School of Technology,Maharashtra,Mumbai,Private,Data Science,Engineering,CET,144385,88,4,102,8845,10068,18854,21336,3,4
-C1270,Fr CRCE Bandra,Maharashtra,Pune,Private,Cyber Security,Engineering,CET,139543,78,5,170,5644,6980,17094,23168,5,3
-C1271,MIT Academy of Engineering,Maharashtra,Pune,Government,Mechanical Engineering,Engineering,CET,67769,79,3,96,16351,18914,24663,33932,5,5
-C1272,Sinhgad Institute of Technology,Maharashtra,Nashik,Government,AI & Data Science,Engineering,CET,130684,88,3,141,11560,14431,19412,29185,3,4
-C1273,D Y Patil College of Engineering Akurdi,Maharashtra,Nashik,Government,Computer Engineering,Engineering,CET,82074,90,4,70,9077,10623,19843,24546,5,3
-C1274,GCOE Nashik,Maharashtra,Pune,Private,Information Technology,Engineering,CET,153147,86,5,173,12299,14233,19931,26674,5,4
-C1275,KK Wagh Institute of Engineering,Maharashtra,Nashik,Government,Data Science,Engineering,CET,158552,90,4,106,5687,7663,16323,18415,5,3
-C1276,Pimpri Chinchwad College of Engineering,Maharashtra,Pune,Private,Robotics Engineering,Engineering,CET,71147,81,5,60,18563,21076,28458,35520,4,4
-C1277,KK Wagh Institute of Engineering,Maharashtra,Nashik,Government,Mechanical Engineering,Engineering,CET,160927,94,4,89,7741,10472,16525,25553,5,4
-C1278,Pimpri Chinchwad College of Engineering,Maharashtra,Nashik,Private,AI & Data Science,Engineering,CET,145366,95,4,106,9196,11251,18336,25233,3,3
-C1279,Sinhgad Institute of Technology,Maharashtra,Mumbai,Private,Robotics Engineering,Engineering,CET,99728,78,3,96,13047,14200,20759,30371,4,4
-C1280,Indira College of Engineering,Maharashtra,Mumbai,Government,Cyber Security,Engineering,CET,140602,89,3,173,14468,16602,25226,30187,4,3
-C1281,D Y Patil College of Engineering Akurdi,Maharashtra,Mumbai,Government,Mechanical Engineering,Engineering,CET,98100,74,3,115,3328,5610,11860,19894,5,3
-C1282,GCOE Nashik,Maharashtra,Nashik,Private,Electronics & Telecommunication,Engineering,CET,76366,73,4,62,14350,16375,20664,26430,5,3
-C1283,KJ Somaiya College of Engineering,Maharashtra,Mumbai,Private,Cyber Security,Engineering,CET,98575,90,4,87,10409,13304,19188,27565,3,5
-C1284,Indira College of Engineering,Maharashtra,Mumbai,Government,Civil Engineering,Engineering,CET,105583,73,3,68,12057,14679,21562,26525,5,3
-C1285,COEP Technological University,Maharashtra,Pune,Government,Robotics Engineering,Engineering,CET,99388,81,4,169,3321,5574,15139,19728,3,4
-C1286,SIES Graduate School of Technology,Maharashtra,Pune,Private,Electrical Engineering,Engineering,CET,116115,88,5,72,3755,6092,12607,19664,3,5
-C1287,Pimpri Chinchwad College of Engineering,Maharashtra,Mumbai,Private,Robotics Engineering,Engineering,CET,69716,83,5,132,17562,19608,27511,33295,4,3
-C1288,PICT Pune,Maharashtra,Nashik,Private,AI & Data Science,Engineering,CET,65707,90,5,165,16277,18052,23802,34197,5,4
-C1289,Datta Meghe College of Engineering,Maharashtra,Pune,Government,Data Science,Engineering,CET,86710,78,3,86,8671,9981,15858,21470,5,4
-C1290,VIT Pune,Maharashtra,Mumbai,Government,Electrical Engineering,Engineering,CET,67738,90,4,113,16776,19664,26818,31728,4,5
-C1291,Sinhgad Institute of Technology,Maharashtra,Pune,Private,Computer Engineering,Engineering,CET,101154,84,3,77,14991,16396,23103,27387,4,4
-C1292,Fr Agnel Bandra,Maharashtra,Pune,Government,Information Technology,Engineering,CET,129703,82,4,106,16123,19102,24624,31494,4,5
-C1293,AISSMS College of Engineering,Maharashtra,Nashik,Government,Electrical Engineering,Engineering,CET,135886,89,4,124,5738,8238,13324,19785,3,3
-C1294,VJTI Mumbai,Maharashtra,Nashik,Private,Electrical Engineering,Engineering,CET,121596,79,3,113,6086,7463,13032,19107,5,4
-C1295,GCOE Nashik,Maharashtra,Nashik,Private,Civil Engineering,Engineering,CET,121752,81,4,131,5020,7195,11757,20804,4,3
-C1296,Modern College of Engineering,Maharashtra,Mumbai,Government,Electronics & Telecommunication,Engineering,CET,61655,78,3,91,10941,13392,18712,28117,3,4
-C1297,KK Wagh Institute of Engineering,Maharashtra,Nashik,Private,Civil Engineering,Engineering,CET,91462,91,3,108,8504,10190,17934,22208,3,3
-C1298,Thakur College of Engineering,Maharashtra,Nashik,Government,Robotics Engineering,Engineering,CET,120032,90,3,101,14177,16025,23751,29115,4,4
-C1299,Fr Agnel Bandra,Maharashtra,Pune,Private,Cyber Security,Engineering,CET,85325,95,5,79,15606,18102,23766,29513,3,4
-C1300,AISSMS College of Engineering,Maharashtra,Nashik,Government,Computer Engineering,Engineering,CET,64188,85,4,107,11494,12689,20704,26285,4,5
-C1301,Terna Engineering College,Maharashtra,Nashik,Government,Civil Engineering,Engineering,CET,105158,81,3,140,16310,18615,22477,29609,4,4
-C1302,KJ Somaiya College of Engineering,Maharashtra,Pune,Private,Electronics & Telecommunication,Engineering,CET,121829,93,3,62,11362,12561,21257,29147,3,3
-C1303,KJ Somaiya College of Engineering,Maharashtra,Mumbai,Government,Data Science,Engineering,CET,118787,70,4,147,7767,8886,15521,19835,3,5
-C1304,Pimpri Chinchwad College of Engineering,Maharashtra,Mumbai,Private,Data Science,Engineering,CET,103667,95,4,133,19082,20865,27570,34661,3,3
-C1305,Sinhgad Institute of Technology,Maharashtra,Pune,Private,Data Science,Engineering,CET,89580,88,4,64,6032,8090,17843,21483,4,4
-C1306,Indira College of Engineering,Maharashtra,Nashik,Government,Computer Engineering,Engineering,CET,107331,85,4,112,19870,21677,29959,36088,5,3
-C1307,AISSMS College of Engineering,Maharashtra,Nashik,Government,Mechanical Engineering,Engineering,CET,147713,79,5,120,17275,18645,28404,33288,5,4
-C1308,Indira College of Engineering,Maharashtra,Mumbai,Government,Electrical Engineering,Engineering,CET,154585,83,4,165,7836,8935,15989,25128,4,4
-C1309,Fr CRCE Bandra,Maharashtra,Pune,Government,Cyber Security,Engineering,CET,116072,70,3,111,3747,5110,15168,16258,4,5
-C1310,Sandip Institute of Engineering and Management,Maharashtra,Mumbai,Government,Civil Engineering,Engineering,CET,108552,87,3,178,5779,7685,15935,22843,3,4
-C1311,Modern College of Engineering,Maharashtra,Mumbai,Government,Data Science,Engineering,CET,105040,73,4,154,8343,10436,17907,25983,5,4
-C1312,COEP Technological University,Maharashtra,Nashik,Private,Electronics & Telecommunication,Engineering,CET,141515,91,4,115,14864,16634,24470,29340,5,4
-C1313,Fr Agnel Bandra,Maharashtra,Pune,Private,Data Science,Engineering,CET,136745,91,4,85,7819,9729,18584,22319,3,4
-C1314,MIT Academy of Engineering,Maharashtra,Nashik,Private,Information Technology,Engineering,CET,151286,93,5,132,15103,16488,26647,29891,5,5
-C1315,COEP Technological University,Maharashtra,Mumbai,Private,Electrical Engineering,Engineering,CET,120589,92,3,133,3277,6052,10728,20226,5,5
-C1316,AISSMS College of Engineering,Maharashtra,Mumbai,Government,Electronics & Telecommunication,Engineering,CET,88666,73,5,140,3974,5173,13661,18676,4,3
-C1317,Pimpri Chinchwad College of Engineering,Maharashtra,Pune,Private,Computer Engineering,Engineering,CET,120212,81,4,145,12031,13926,19404,26531,5,3
-C1318,GCOE Nashik,Maharashtra,Pune,Private,Cyber Security,Engineering,CET,153062,81,3,168,16850,17971,27698,28984,3,4
-C1319,PICT Pune,Maharashtra,Nashik,Government,Civil Engineering,Engineering,CET,78461,72,4,67,4117,6532,12670,20905,5,5
-C1320,Guru Gobind Singh College of Engineering Nashik,Maharashtra,Pune,Government,Civil Engineering,Engineering,CET,86635,71,3,179,15312,18275,21836,30305,3,4
-C1321,Terna Engineering College,Maharashtra,Pune,Private,Data Science,Engineering,CET,146759,90,3,121,19233,20276,27932,35499,4,5
-C1322,GCOE Nashik,Maharashtra,Nashik,Government,Mechanical Engineering,Engineering,CET,88702,90,5,151,14184,17029,26066,26676,3,4
-C1323,MIT Academy of Engineering,Maharashtra,Mumbai,Private,Mechanical Engineering,Engineering,CET,65178,70,3,114,4712,6880,13838,19564,3,4
-C1324,KJ Somaiya College of Engineering,Maharashtra,Pune,Private,Robotics Engineering,Engineering,CET,84702,90,4,157,14727,16348,25887,31903,5,5
-C1325,Terna Engineering College,Maharashtra,Pune,Government,Civil Engineering,Engineering,CET,83451,71,3,74,16016,17828,27359,33419,3,4
-C1326,VIT Pune,Maharashtra,Pune,Private,Cyber Security,Engineering,CET,83922,87,5,145,12908,15151,21054,29516,4,4
-C1327,Sandip Institute of Engineering and Management,Maharashtra,Mumbai,Private,Electronics & Telecommunication,Engineering,CET,116911,78,4,174,12013,13842,20487,27924,3,4
-C1328,AISSMS College of Engineering,Maharashtra,Mumbai,Private,Robotics Engineering,Engineering,CET,167931,92,5,109,5440,8410,12443,23251,3,4
-C1329,Thakur College of Engineering,Maharashtra,Mumbai,Government,Mechanical Engineering,Engineering,CET,119010,93,3,86,13362,15572,23554,29370,5,5
-C1330,Sandip Institute of Engineering and Management,Maharashtra,Nashik,Private,Electrical Engineering,Engineering,CET,158635,74,5,77,19515,22299,27677,33740,4,4
-C1331,Thakur College of Engineering,Maharashtra,Pune,Government,Mechanical Engineering,Engineering,CET,125856,85,3,141,15998,17180,27646,30824,3,4
-C1332,Datta Meghe College of Engineering,Maharashtra,Pune,Private,Computer Engineering,Engineering,CET,136215,85,3,117,14591,17294,26421,32282,5,3
-C1333,PICT Pune,Maharashtra,Mumbai,Private,Cyber Security,Engineering,CET,132053,87,4,165,16533,18342,25932,29443,3,5
-C1334,Fr Agnel Bandra,Maharashtra,Mumbai,Private,Electronics & Telecommunication,Engineering,CET,152925,73,5,154,11482,13087,19701,24452,3,3
-C1335,SIES Graduate School of Technology,Maharashtra,Mumbai,Private,Electrical Engineering,Engineering,CET,84340,91,4,84,19226,20300,27461,31929,4,5
-C1336,Datta Meghe College of Engineering,Maharashtra,Mumbai,Government,Information Technology,Engineering,CET,138122,92,5,124,17446,19693,24689,32042,3,5
-C1337,Sinhgad Institute of Technology,Maharashtra,Mumbai,Government,Electrical Engineering,Engineering,CET,126917,95,5,170,13421,15500,22033,27485,4,5
-C1338,VJTI Mumbai,Maharashtra,Pune,Private,Data Science,Engineering,CET,114163,78,3,156,19828,20844,28104,36177,3,4
-C1339,Sinhgad Institute of Technology,Maharashtra,Mumbai,Government,AI & Data Science,Engineering,CET,139089,91,5,89,16146,17837,23668,28466,4,3
-C1340,GCOE Nashik,Maharashtra,Mumbai,Government,Computer Engineering,Engineering,CET,72780,73,5,177,7412,10383,15116,19458,4,4
-C1341,Fr CRCE Bandra,Maharashtra,Mumbai,Private,Civil Engineering,Engineering,CET,67966,86,5,156,10564,12642,18800,24515,4,3
-C1342,Sinhgad Institute of Technology,Maharashtra,Pune,Government,Computer Engineering,Engineering,CET,164189,95,3,102,8285,11149,18764,21493,5,4
-C1343,KJ Somaiya College of Engineering,Maharashtra,Pune,Government,Robotics Engineering,Engineering,CET,132586,83,5,106,16351,19120,26055,31652,4,4
-C1344,COEP Technological University,Maharashtra,Nashik,Government,Mechanical Engineering,Engineering,CET,142134,94,5,80,13361,15629,21061,29856,5,4
-C1345,Sandip Institute of Engineering and Management,Maharashtra,Nashik,Private,Electrical Engineering,Engineering,CET,167000,73,3,118,13732,16128,19902,31434,4,5
-C1346,VJTI Mumbai,Maharashtra,Nashik,Government,Electronics & Telecommunication,Engineering,CET,149964,74,4,145,10936,13903,17470,23183,5,4
-C1347,Thakur College of Engineering,Maharashtra,Pune,Government,Information Technology,Engineering,CET,61169,89,4,133,11793,13071,22462,24203,5,3
-C1348,Sandip Institute of Engineering and Management,Maharashtra,Pune,Private,Electrical Engineering,Engineering,CET,168551,81,4,151,10550,11665,19190,24354,3,3
-C1349,SIES Graduate School of Technology,Maharashtra,Pune,Private,Civil Engineering,Engineering,CET,160367,79,5,131,10625,11765,17298,24741,5,5
-C1350,GCOE Nashik,Maharashtra,Mumbai,Private,Computer Engineering,Engineering,CET,131366,92,4,154,5198,7870,13101,22405,3,4
-C1351,KK Wagh Institute of Engineering,Maharashtra,Mumbai,Private,Information Technology,Engineering,CET,84264,95,3,70,15334,17953,22865,29751,4,4
-C1352,AISSMS College of Engineering,Maharashtra,Pune,Private,Electrical Engineering,Engineering,CET,116767,81,4,174,16329,18531,22720,29228,5,3
-C1353,Modern College of Engineering,Maharashtra,Mumbai,Government,Data Science,Engineering,CET,139552,76,4,74,6957,9613,13975,24170,4,5
-C1354,VJTI Mumbai,Maharashtra,Pune,Government,Data Science,Engineering,CET,105125,71,5,131,14561,16592,20882,31400,5,4
-C1355,Terna Engineering College,Maharashtra,Nashik,Private,Civil Engineering,Engineering,CET,149154,84,5,109,19792,21269,29108,35395,3,3
-C1356,SIES Graduate School of Technology,Maharashtra,Pune,Government,Information Technology,Engineering,CET,90052,91,3,141,3005,5441,13988,15473,3,5
-C1357,Modern College of Engineering,Maharashtra,Mumbai,Government,Civil Engineering,Engineering,CET,142605,95,5,62,3579,5084,13629,20646,4,5
-C1358,Datta Meghe College of Engineering,Maharashtra,Mumbai,Government,Data Science,Engineering,CET,88907,94,5,142,3477,4774,14611,18316,4,4
-C1359,GCOE Nashik,Maharashtra,Nashik,Private,Cyber Security,Engineering,CET,122494,94,4,93,16569,19061,25245,32493,3,5
-C1360,MIT Academy of Engineering,Maharashtra,Pune,Government,Data Science,Engineering,CET,62078,76,4,90,16630,19459,24214,31319,4,4
-C1361,VJTI Mumbai,Maharashtra,Mumbai,Government,Robotics Engineering,Engineering,CET,144612,77,4,136,14516,17391,25171,31593,5,3
-C1362,VIT Pune,Maharashtra,Pune,Government,Mechanical Engineering,Engineering,CET,76344,73,3,103,4931,7122,12541,20415,3,4
-C1363,Pimpri Chinchwad College of Engineering,Maharashtra,Pune,Government,Civil Engineering,Engineering,CET,111835,87,3,152,8237,10762,19897,20585,4,5
-C1364,Fr Agnel Bandra,Maharashtra,Pune,Private,Electronics & Telecommunication,Engineering,CET,89068,73,3,66,4010,6816,11611,18077,3,3
-C1365,Pimpri Chinchwad College of Engineering,Maharashtra,Pune,Government,Cyber Security,Engineering,CET,119090,76,3,162,17303,20169,28915,31255,3,4
-C1366,VJTI Mumbai,Maharashtra,Nashik,Government,Cyber Security,Engineering,CET,154287,79,5,96,14184,16328,24122,27406,4,3
-C1367,VJTI Mumbai,Maharashtra,Mumbai,Government,Computer Engineering,Engineering,CET,102631,82,4,169,17308,19219,24595,33784,3,5
-C1368,MIT Academy of Engineering,Maharashtra,Mumbai,Private,Mechanical Engineering,Engineering,CET,154822,72,3,144,6712,8562,16611,20105,3,4
-C1369,Modern College of Engineering,Maharashtra,Mumbai,Private,Electrical Engineering,Engineering,CET,113516,76,3,121,15007,17490,21554,30802,3,3
-C1370,Guru Gobind Singh College of Engineering Nashik,Maharashtra,Pune,Private,Information Technology,Engineering,CET,69307,78,4,175,13637,15145,22216,26840,4,3
-C1371,D Y Patil College of Engineering Akurdi,Maharashtra,Pune,Private,Robotics Engineering,Engineering,CET,140262,70,3,78,4252,6024,11407,19268,4,4
-C1372,Sinhgad Institute of Technology,Maharashtra,Mumbai,Government,Cyber Security,Engineering,CET,109118,95,5,174,12464,14934,18557,25167,5,3
-C1373,COEP Technological University,Maharashtra,Nashik,Private,AI & Data Science,Engineering,CET,133650,77,5,166,15387,17471,26631,32613,4,5
-C1374,Terna Engineering College,Maharashtra,Pune,Private,Data Science,Engineering,CET,84302,85,3,162,18750,19817,27996,36335,3,4
-C1375,Datta Meghe College of Engineering,Maharashtra,Nashik,Government,Computer Engineering,Engineering,CET,95177,95,3,175,13518,16110,20574,28640,5,3
-C1376,AISSMS College of Engineering,Maharashtra,Mumbai,Government,AI & Data Science,Engineering,CET,141415,75,3,69,10918,11920,18423,27272,4,3
-C1377,VIT Pune,Maharashtra,Mumbai,Private,AI & Data Science,Engineering,CET,73595,79,4,62,8238,10680,17336,24165,5,3
-C1378,GCOE Nashik,Maharashtra,Mumbai,Government,Civil Engineering,Engineering,CET,165519,78,3,145,18852,20320,24852,32023,3,4
-C1379,Modern College of Engineering,Maharashtra,Pune,Government,Computer Engineering,Engineering,CET,113265,84,5,63,19449,21064,30339,33049,4,4
-C1380,Sandip Institute of Engineering and Management,Maharashtra,Nashik,Private,Data Science,Engineering,CET,97673,88,3,175,10977,11995,17308,28541,4,3
-C1381,Fr Agnel Bandra,Maharashtra,Mumbai,Private,Robotics Engineering,Engineering,CET,151829,90,4,132,8520,11495,16011,23860,5,3
-C1382,VIT Pune,Maharashtra,Mumbai,Private,Mechanical Engineering,Engineering,CET,73531,83,3,98,3010,4980,14532,17904,4,4
-C1383,Fr Agnel Bandra,Maharashtra,Mumbai,Government,Electrical Engineering,Engineering,CET,99588,92,5,165,8581,10831,15506,24244,4,5
-C1384,VIT Pune,Maharashtra,Nashik,Government,Cyber Security,Engineering,CET,67285,95,5,119,5826,7099,12467,18934,5,5
-C1385,Terna Engineering College,Maharashtra,Nashik,Government,Electronics & Telecommunication,Engineering,CET,98739,74,4,91,3057,4956,9588,16103,3,4
-C1386,Sinhgad Institute of Technology,Maharashtra,Pune,Government,Mechanical Engineering,Engineering,CET,133711,93,4,100,6275,8271,13717,18300,4,3
-C1387,Terna Engineering College,Maharashtra,Nashik,Private,AI & Data Science,Engineering,CET,148181,77,3,72,6851,9760,14784,23442,3,4
-C1388,Pimpri Chinchwad College of Engineering,Maharashtra,Nashik,Private,AI & Data Science,Engineering,CET,106720,78,3,130,17700,19853,25819,31246,4,5
-C1389,Datta Meghe College of Engineering,Maharashtra,Mumbai,Government,Robotics Engineering,Engineering,CET,98084,81,4,172,19589,21466,30779,34650,5,3
-C1390,VJTI Mumbai,Maharashtra,Pune,Government,Information Technology,Engineering,CET,159823,80,5,151,9823,11197,20514,27414,3,3
-C1391,VIT Pune,Maharashtra,Pune,Government,Information Technology,Engineering,CET,88631,88,4,138,6395,7489,14656,23359,4,3
-C1392,Datta Meghe College of Engineering,Maharashtra,Pune,Government,AI & Data Science,Engineering,CET,93925,87,3,64,6947,8543,16178,20887,3,5
-C1393,VIT Pune,Maharashtra,Mumbai,Government,Robotics Engineering,Engineering,CET,163497,76,5,134,18138,19493,27596,35026,4,3
-C1394,Datta Meghe College of Engineering,Maharashtra,Mumbai,Government,Computer Engineering,Engineering,CET,88439,86,5,122,15043,17692,21623,28929,3,5
-C1395,PICT Pune,Maharashtra,Nashik,Private,Data Science,Engineering,CET,146193,91,4,174,3390,5523,10646,15562,3,4
-C1396,KK Wagh Institute of Engineering,Maharashtra,Pune,Private,Electronics & Telecommunication,Engineering,CET,134381,89,3,179,15859,17074,26056,29416,3,5
-C1397,VIT Pune,Maharashtra,Nashik,Private,Computer Engineering,Engineering,CET,89515,79,5,82,3025,5648,10101,21025,5,5
-C1398,Pimpri Chinchwad College of Engineering,Maharashtra,Pune,Government,Robotics Engineering,Engineering,CET,146674,81,5,78,13650,16231,22081,26400,4,5
-C1399,Modern College of Engineering,Maharashtra,Pune,Private,Cyber Security,Engineering,CET,74797,90,3,103,6188,7907,15733,20135,4,3
-C1400,Indira College of Engineering,Maharashtra,Pune,Government,Information Technology,Engineering,CET,88066,87,5,121,12439,15048,19378,29266,4,4
-C1401,Pimpri Chinchwad College of Engineering,Maharashtra,Nashik,Private,Electronics & Telecommunication,Engineering,CET,77687,79,5,133,7122,8859,13525,19531,5,3
-C1402,MIT Academy of Engineering,Maharashtra,Nashik,Government,Mechanical Engineering,Engineering,CET,69187,74,4,172,14592,16007,23176,29436,4,3
-C1403,Pimpri Chinchwad College of Engineering,Maharashtra,Pune,Government,Electrical Engineering,Engineering,CET,131483,74,3,111,16631,17661,28035,31343,5,5
-C1404,Modern College of Engineering,Maharashtra,Nashik,Private,Civil Engineering,Engineering,CET,83819,74,5,168,13129,15184,24979,26505,5,5
-C1405,KJ Somaiya College of Engineering,Maharashtra,Pune,Private,Electronics & Telecommunication,Engineering,CET,138074,91,4,70,14664,17231,21179,31164,3,5
-C1406,Terna Engineering College,Maharashtra,Mumbai,Private,Electronics & Telecommunication,Engineering,CET,146227,85,5,91,13090,14655,24125,28137,4,5
-C1407,VJTI Mumbai,Maharashtra,Pune,Government,Computer Engineering,Engineering,CET,106725,90,5,98,11027,13620,20127,27845,3,3
-C1408,MIT Academy of Engineering,Maharashtra,Pune,Private,Robotics Engineering,Engineering,CET,106611,85,3,165,16823,18893,25041,30432,4,4
-C1409,Pimpri Chinchwad College of Engineering,Maharashtra,Pune,Government,Mechanical Engineering,Engineering,CET,62360,72,4,132,10451,11899,20452,27755,4,4
-C1410,Terna Engineering College,Maharashtra,Pune,Private,Information Technology,Engineering,CET,147250,72,4,178,10741,12043,21975,25632,5,3
-C1411,Sinhgad Institute of Technology,Maharashtra,Nashik,Government,Information Technology,Engineering,CET,135912,93,4,97,8510,10233,17031,23983,3,4
-C1412,COEP Technological University,Maharashtra,Mumbai,Government,AI & Data Science,Engineering,CET,75288,95,4,164,10815,11846,17189,28038,3,3
-C1413,KJ Somaiya College of Engineering,Maharashtra,Nashik,Private,Information Technology,Engineering,CET,166896,92,5,69,9626,11643,17218,22795,5,3
-C1414,Sinhgad Institute of Technology,Maharashtra,Nashik,Government,Mechanical Engineering,Engineering,CET,83528,79,5,144,17043,19774,23794,31537,4,3
-C1415,Pimpri Chinchwad College of Engineering,Maharashtra,Pune,Government,AI & Data Science,Engineering,CET,164570,95,5,130,4352,7346,11801,20392,3,4
-C1416,VIT Pune,Maharashtra,Pune,Private,Cyber Security,Engineering,CET,123886,94,5,138,7543,8848,14664,20604,4,4
-C1417,MIT Academy of Engineering,Maharashtra,Nashik,Private,Electronics & Telecommunication,Engineering,CET,167407,95,4,80,18860,21408,25841,31866,4,3
-C1418,D Y Patil College of Engineering Akurdi,Maharashtra,Pune,Government,Cyber Security,Engineering,CET,74513,91,4,60,15915,18810,25037,33619,3,5
-C1419,Guru Gobind Singh College of Engineering Nashik,Maharashtra,Mumbai,Government,Civil Engineering,Engineering,CET,88304,82,3,80,6942,8380,16265,22029,3,3
-C1420,Sinhgad Institute of Technology,Maharashtra,Pune,Government,Information Technology,Engineering,CET,138177,74,5,124,4348,5631,15774,17212,4,4
-C1421,Terna Engineering College,Maharashtra,Mumbai,Private,Data Science,Engineering,CET,128774,76,5,115,3176,5859,9679,21036,5,4
-C1422,Sandip Institute of Engineering and Management,Maharashtra,Mumbai,Private,Information Technology,Engineering,CET,82192,79,4,173,13349,15453,24611,27095,4,4
-C1423,KK Wagh Institute of Engineering,Maharashtra,Pune,Government,Electrical Engineering,Engineering,CET,166910,89,5,175,19370,21672,30926,35114,5,3
-C1424,Thakur College of Engineering,Maharashtra,Nashik,Government,Information Technology,Engineering,CET,146754,78,3,170,9010,10619,18776,25951,3,5
-C1425,Guru Gobind Singh College of Engineering Nashik,Maharashtra,Nashik,Government,Electrical Engineering,Engineering,CET,165985,70,4,117,16240,18172,27950,29522,4,4
-C1426,Terna Engineering College,Maharashtra,Pune,Private,Electronics & Telecommunication,Engineering,CET,71947,88,3,122,17374,18422,26378,34309,4,5
-C1427,Sinhgad Institute of Technology,Maharashtra,Pune,Private,Information Technology,Engineering,CET,161374,74,4,123,6839,8727,14563,19290,5,5
-C1428,GCOE Nashik,Maharashtra,Nashik,Private,Information Technology,Engineering,CET,66612,84,4,163,14387,16151,20711,29681,4,3
-C1429,Modern College of Engineering,Maharashtra,Pune,Government,Computer Engineering,Engineering,CET,74732,91,4,73,18884,21614,27466,32934,4,5
-C1430,VJTI Mumbai,Maharashtra,Pune,Government,Computer Engineering,Engineering,CET,164060,95,4,121,14013,15436,24484,30615,3,3
-C1431,MIT Academy of Engineering,Maharashtra,Nashik,Private,Mechanical Engineering,Engineering,CET,96860,72,5,60,14460,16226,24894,28832,3,5
-C1432,Sandip Institute of Engineering and Management,Maharashtra,Pune,Private,Robotics Engineering,Engineering,CET,167777,87,4,80,4109,5616,10363,17620,5,5
-C1433,Indira College of Engineering,Maharashtra,Nashik,Government,Civil Engineering,Engineering,CET,99047,73,3,124,4777,7525,14124,17632,4,4
-C1434,Terna Engineering College,Maharashtra,Nashik,Government,Computer Engineering,Engineering,CET,87460,88,3,124,4366,6132,14960,17917,3,5
-C1435,Sinhgad Institute of Technology,Maharashtra,Pune,Government,Robotics Engineering,Engineering,CET,108851,88,3,97,14669,16290,24390,32268,5,3
-C1436,PICT Pune,Maharashtra,Pune,Government,Electronics & Telecommunication,Engineering,CET,75305,72,3,153,17303,19177,25034,31799,3,3
-C1437,Thakur College of Engineering,Maharashtra,Nashik,Government,Civil Engineering,Engineering,CET,62078,85,5,165,4033,5584,15728,17023,3,4
-C1438,PICT Pune,Maharashtra,Pune,Government,AI & Data Science,Engineering,CET,89530,75,3,159,13971,15665,21174,30180,5,5
-C1439,Modern College of Engineering,Maharashtra,Pune,Private,Computer Engineering,Engineering,CET,92198,77,4,91,18734,20366,27200,34972,4,4
-C1440,AISSMS College of Engineering,Maharashtra,Pune,Government,Mechanical Engineering,Engineering,CET,69261,95,3,74,12927,15900,20286,28665,3,4
-C1441,Modern College of Engineering,Maharashtra,Nashik,Government,Robotics Engineering,Engineering,CET,142750,93,4,149,19094,21046,26578,32889,3,5
-C1442,Thakur College of Engineering,Maharashtra,Nashik,Private,Cyber Security,Engineering,CET,102083,71,3,67,3787,6588,11859,19478,5,3
-C1443,Sandip Institute of Engineering and Management,Maharashtra,Pune,Government,Data Science,Engineering,CET,129581,87,5,102,3162,6153,13713,16400,4,5
-C1444,Sandip Institute of Engineering and Management,Maharashtra,Mumbai,Government,AI & Data Science,Engineering,CET,60280,89,5,170,9376,12318,20709,23808,3,5
-C1445,Guru Gobind Singh College of Engineering Nashik,Maharashtra,Pune,Government,Cyber Security,Engineering,CET,95803,83,4,82,11610,13251,21672,24530,4,4
-C1446,KJ Somaiya College of Engineering,Maharashtra,Nashik,Government,Electrical Engineering,Engineering,CET,119028,75,4,111,14928,17182,23024,30938,5,5
-C1447,VJTI Mumbai,Maharashtra,Mumbai,Private,Electrical Engineering,Engineering,CET,167664,84,4,97,4326,6832,13609,18464,5,5
-C1448,Sandip Institute of Engineering and Management,Maharashtra,Mumbai,Private,Computer Engineering,Engineering,CET,162387,78,5,162,17692,19890,27849,35013,4,5
-C1449,GCOE Nashik,Maharashtra,Mumbai,Private,Computer Engineering,Engineering,CET,124811,81,3,154,4462,6226,14702,19461,4,5
-C1450,KJ Somaiya College of Engineering,Maharashtra,Pune,Government,Robotics Engineering,Engineering,CET,106434,90,3,95,7011,9926,14270,21661,5,3
-C1451,SIES Graduate School of Technology,Maharashtra,Mumbai,Government,AI & Data Science,Engineering,CET,83716,87,5,88,8572,10283,20280,25848,4,5
-C1452,COEP Technological University,Maharashtra,Pune,Government,Information Technology,Engineering,CET,154905,94,4,136,15064,17279,23512,31311,4,4
-C1453,Sinhgad Institute of Technology,Maharashtra,Mumbai,Government,Electronics & Telecommunication,Engineering,CET,138070,85,4,78,19300,21306,30902,36519,3,5
-C1454,Modern College of Engineering,Maharashtra,Nashik,Government,Robotics Engineering,Engineering,CET,100475,95,5,176,10625,12958,20510,23659,4,4
-C1455,Modern College of Engineering,Maharashtra,Pune,Government,AI & Data Science,Engineering,CET,103450,83,5,128,17208,19314,26960,32680,5,3
-C1456,Datta Meghe College of Engineering,Maharashtra,Mumbai,Private,Data Science,Engineering,CET,99466,86,3,98,4844,7460,13863,19650,5,4
-C1457,AISSMS College of Engineering,Maharashtra,Pune,Private,AI & Data Science,Engineering,CET,139333,86,4,135,6141,7576,17834,19092,4,3
-C1458,VJTI Mumbai,Maharashtra,Nashik,Government,Cyber Security,Engineering,CET,101853,92,4,137,19627,20666,29657,37289,5,5
-C1459,VJTI Mumbai,Maharashtra,Mumbai,Private,Information Technology,Engineering,CET,105591,73,4,153,11616,14581,23598,28963,3,4
-C1460,VIT Pune,Maharashtra,Mumbai,Government,Information Technology,Engineering,CET,114020,72,5,163,19940,22575,28556,34041,5,3
-C1461,KJ Somaiya College of Engineering,Maharashtra,Nashik,Private,Data Science,Engineering,CET,167792,84,5,124,11171,13699,18391,28004,4,4
-C1462,Guru Gobind Singh College of Engineering Nashik,Maharashtra,Nashik,Private,Data Science,Engineering,CET,167185,78,4,78,18857,20360,29917,30891,5,3
-C1463,KJ Somaiya College of Engineering,Maharashtra,Pune,Government,Electronics & Telecommunication,Engineering,CET,85652,90,5,136,9415,10874,18701,26542,3,3
-C1464,VJTI Mumbai,Maharashtra,Nashik,Government,Cyber Security,Engineering,CET,64056,94,5,135,4800,6976,11884,19368,4,4
-C1465,D Y Patil College of Engineering Akurdi,Maharashtra,Pune,Private,Mechanical Engineering,Engineering,CET,142297,80,3,96,5109,6171,15267,18516,5,4
-C1466,Guru Gobind Singh College of Engineering Nashik,Maharashtra,Nashik,Private,Cyber Security,Engineering,CET,77858,79,4,137,3431,6396,14733,20047,5,5
-C1467,Terna Engineering College,Maharashtra,Pune,Government,Mechanical Engineering,Engineering,CET,104387,87,5,122,5482,7682,13756,17864,3,4
-C1468,Thakur College of Engineering,Maharashtra,Nashik,Private,Civil Engineering,Engineering,CET,112689,70,4,89,8249,10156,19014,23703,5,4
-C1469,COEP Technological University,Maharashtra,Nashik,Government,Robotics Engineering,Engineering,CET,161618,91,4,159,16838,19045,24423,31359,5,3
-C1470,Indira College of Engineering,Maharashtra,Nashik,Private,Information Technology,Engineering,CET,133636,72,5,139,17374,18650,24493,33448,5,4
-C1471,VIT Pune,Maharashtra,Nashik,Government,Computer Engineering,Engineering,CET,165343,73,5,115,8330,10310,19945,22266,3,5
-C1472,Sandip Institute of Engineering and Management,Maharashtra,Pune,Private,Civil Engineering,Engineering,CET,148920,92,3,162,18731,20901,28597,36121,5,4
-C1473,Sandip Institute of Engineering and Management,Maharashtra,Pune,Private,Information Technology,Engineering,CET,80674,90,3,171,17274,19636,24638,31839,3,4
-C1474,Guru Gobind Singh College of Engineering Nashik,Maharashtra,Nashik,Private,Computer Engineering,Engineering,CET,161544,71,3,137,5451,7780,17164,22577,3,3
-C1475,Modern College of Engineering,Maharashtra,Mumbai,Government,Computer Engineering,Engineering,CET,162527,87,5,131,4719,6030,15213,18369,4,5
-C1476,Guru Gobind Singh College of Engineering Nashik,Maharashtra,Nashik,Private,Mechanical Engineering,Engineering,CET,100405,89,4,89,7645,9711,16561,24714,4,3
-C1477,MIT Academy of Engineering,Maharashtra,Mumbai,Government,Electronics & Telecommunication,Engineering,CET,164929,90,4,90,9481,10640,20797,21883,3,5
-C1478,Fr Agnel Bandra,Maharashtra,Pune,Private,Computer Engineering,Engineering,CET,107843,89,3,158,10833,13338,20763,23631,3,3
-C1479,Fr Agnel Bandra,Maharashtra,Mumbai,Private,Computer Engineering,Engineering,CET,63487,75,4,78,6383,8513,12954,22694,3,3
-C1480,Pimpri Chinchwad College of Engineering,Maharashtra,Nashik,Private,Data Science,Engineering,CET,124808,79,3,160,11167,13543,17978,26525,4,4
-C1481,SIES Graduate School of Technology,Maharashtra,Pune,Private,Civil Engineering,Engineering,CET,133177,91,5,96,10247,13182,16491,23394,4,3
-C1482,D Y Patil College of Engineering Akurdi,Maharashtra,Mumbai,Government,Cyber Security,Engineering,CET,107588,77,5,75,18308,20954,26194,31260,5,3
-C1483,VJTI Mumbai,Maharashtra,Mumbai,Government,AI & Data Science,Engineering,CET,152391,70,5,68,11762,14514,20667,27439,3,5
-C1484,D Y Patil College of Engineering Akurdi,Maharashtra,Mumbai,Government,Electronics & Telecommunication,Engineering,CET,101492,78,3,164,6047,7283,12813,19498,5,3
-C1485,VIT Pune,Maharashtra,Pune,Private,Mechanical Engineering,Engineering,CET,93672,73,5,170,5945,8542,14818,23453,4,3
-C1486,Thakur College of Engineering,Maharashtra,Mumbai,Government,Robotics Engineering,Engineering,CET,162960,90,4,90,18022,20253,27936,31305,4,5
-C1487,AISSMS College of Engineering,Maharashtra,Pune,Government,Data Science,Engineering,CET,127009,70,3,121,19812,20886,30464,34737,5,5
-C1488,KK Wagh Institute of Engineering,Maharashtra,Mumbai,Private,Mechanical Engineering,Engineering,CET,131308,81,5,174,4866,6071,14769,19931,4,5
-C1489,VIT Pune,Maharashtra,Pune,Government,Robotics Engineering,Engineering,CET,158671,78,4,125,15892,17819,26583,28490,4,5
-C1490,Guru Gobind Singh College of Engineering Nashik,Maharashtra,Mumbai,Private,Mechanical Engineering,Engineering,CET,73607,73,3,155,16007,18369,23799,28106,4,5
-C1491,Thakur College of Engineering,Maharashtra,Pune,Government,Computer Engineering,Engineering,CET,104658,78,3,172,9598,11010,20401,25555,4,5
-C1492,KK Wagh Institute of Engineering,Maharashtra,Nashik,Government,AI & Data Science,Engineering,CET,96529,74,4,72,6231,8268,12323,21185,5,5
-C1493,KJ Somaiya College of Engineering,Maharashtra,Mumbai,Private,Mechanical Engineering,Engineering,CET,163261,85,4,156,14542,16727,21473,32427,5,4
-C1494,Datta Meghe College of Engineering,Maharashtra,Pune,Government,Civil Engineering,Engineering,CET,83932,87,4,102,13117,15601,24882,30547,5,4
-C1495,COEP Technological University,Maharashtra,Nashik,Government,AI & Data Science,Engineering,CET,154228,77,5,156,9925,12190,16156,24538,4,4
-C1496,VJTI Mumbai,Maharashtra,Nashik,Private,Mechanical Engineering,Engineering,CET,128503,89,5,124,12659,14293,21251,26857,5,4
-C1497,Sinhgad Institute of Technology,Maharashtra,Pune,Government,Computer Engineering,Engineering,CET,135740,87,3,153,12256,13921,20544,29813,4,5
-C1498,D Y Patil College of Engineering Akurdi,Maharashtra,Nashik,Government,Computer Engineering,Engineering,CET,79073,92,3,173,5703,7279,15544,20009,4,5
-C1499,VJTI Mumbai,Maharashtra,Pune,Government,Electronics & Telecommunication,Engineering,CET,68197,76,5,147,15069,17043,22994,28880,4,5
-C1500,Fr Agnel Bandra,Maharashtra,Pune,Government,Civil Engineering,Engineering,CET,100737,80,5,148,10635,13580,19373,28461,3,3
-C1501,MIT Academy of Engineering,Maharashtra,Nashik,Government,Mechanical Engineering,Engineering,CET,64578,85,4,166,8627,10085,20624,23513,4,5
-C1502,KK Wagh Institute of Engineering,Maharashtra,Nashik,Private,Mechanical Engineering,Engineering,CET,162645,95,4,120,17989,18990,27419,30618,5,3
-C1503,Fr Agnel Bandra,Maharashtra,Nashik,Government,Computer Engineering,Engineering,CET,118414,76,5,170,18757,19800,29172,35190,3,3
-C1504,Sinhgad Institute of Technology,Maharashtra,Nashik,Private,Data Science,Engineering,CET,163757,73,4,175,11609,12615,23601,28292,5,3
-C1505,PICT Pune,Maharashtra,Mumbai,Government,Electrical Engineering,Engineering,CET,158415,90,4,86,7944,9162,15013,21378,5,4
-C1506,VJTI Mumbai,Maharashtra,Pune,Private,Electronics & Telecommunication,Engineering,CET,80160,93,3,107,17149,18842,26777,33566,5,4
-C1507,Fr CRCE Bandra,Maharashtra,Nashik,Private,Data Science,Engineering,CET,160017,70,4,103,9510,12333,19385,25389,4,5
-C1508,SIES Graduate School of Technology,Maharashtra,Mumbai,Government,AI & Data Science,Engineering,CET,158098,70,3,100,16454,19338,28128,32166,4,5
-C1509,Indira College of Engineering,Maharashtra,Pune,Government,Civil Engineering,Engineering,CET,97842,95,3,116,16849,18238,24148,30360,3,3
-C1510,VIT Pune,Maharashtra,Nashik,Private,Cyber Security,Engineering,CET,119756,79,4,134,6772,8661,16196,19904,4,3
-C1511,VIT Pune,Maharashtra,Pune,Private,Computer Engineering,Engineering,CET,123232,90,5,144,16044,17351,22222,31142,3,5
-C1512,MIT Academy of Engineering,Maharashtra,Pune,Government,Computer Engineering,Engineering,CET,86382,95,3,87,3622,4927,15310,18775,4,5
-C1513,Guru Gobind Singh College of Engineering Nashik,Maharashtra,Nashik,Government,Electronics & Telecommunication,Engineering,CET,132759,79,3,130,18456,20200,25425,33174,4,3
-C1514,D Y Patil College of Engineering Akurdi,Maharashtra,Mumbai,Private,Electronics & Telecommunication,Engineering,CET,117188,74,3,172,16446,19417,22653,28533,3,5
-C1515,Sandip Institute of Engineering and Management,Maharashtra,Nashik,Private,Data Science,Engineering,CET,68005,78,4,173,16231,19188,26092,30834,3,5
-C1516,KJ Somaiya College of Engineering,Maharashtra,Nashik,Private,Cyber Security,Engineering,CET,131374,89,3,65,6369,8441,18002,24344,4,5
-C1517,KJ Somaiya College of Engineering,Maharashtra,Pune,Government,Civil Engineering,Engineering,CET,119077,83,3,84,14488,17188,21750,32485,3,3
-C1518,D Y Patil College of Engineering Akurdi,Maharashtra,Nashik,Private,Mechanical Engineering,Engineering,CET,113273,77,5,159,3437,6060,10229,19282,3,5
-C1519,VIT Pune,Maharashtra,Pune,Private,Mechanical Engineering,Engineering,CET,63206,71,4,77,11932,14729,23402,28109,3,5
-C1520,MIT Academy of Engineering,Maharashtra,Pune,Private,Mechanical Engineering,Engineering,CET,151155,94,4,100,5349,8105,14781,18839,5,3
-C1521,Datta Meghe College of Engineering,Maharashtra,Pune,Government,Electrical Engineering,Engineering,CET,66429,81,3,168,6946,8512,15134,22491,3,4
-C1522,Guru Gobind Singh College of Engineering Nashik,Maharashtra,Nashik,Government,Robotics Engineering,Engineering,CET,147866,89,4,74,13503,15425,24951,29017,4,5
-C1523,VIT Pune,Maharashtra,Nashik,Private,Information Technology,Engineering,CET,159791,74,5,153,18368,19524,28961,35291,4,4
-C1524,D Y Patil College of Engineering Akurdi,Maharashtra,Nashik,Private,Civil Engineering,Engineering,CET,124249,76,5,161,4272,7048,12905,17009,4,3
-C1525,COEP Technological University,Maharashtra,Nashik,Government,Civil Engineering,Engineering,CET,125834,75,4,164,16863,18150,26110,31228,5,4
-C1526,KK Wagh Institute of Engineering,Maharashtra,Mumbai,Private,Electrical Engineering,Engineering,CET,118922,84,5,155,15294,18106,23579,28498,5,5
-C1527,Guru Gobind Singh College of Engineering Nashik,Maharashtra,Pune,Government,Data Science,Engineering,CET,107362,75,3,134,7809,9442,19241,21434,3,5
-C1528,KK Wagh Institute of Engineering,Maharashtra,Mumbai,Government,Information Technology,Engineering,CET,70671,73,4,83,11786,14738,18919,25130,3,3
-C1529,KJ Somaiya College of Engineering,Maharashtra,Mumbai,Private,Data Science,Engineering,CET,134385,79,4,91,6290,8270,15502,24128,4,3
-C1530,VJTI Mumbai,Maharashtra,Mumbai,Government,AI & Data Science,Engineering,CET,156183,79,5,118,12429,15264,24318,26126,5,5
-C1531,Datta Meghe College of Engineering,Maharashtra,Nashik,Government,Information Technology,Engineering,CET,92103,79,5,153,11562,13205,22347,24542,4,3
-C1532,Terna Engineering College,Maharashtra,Pune,Private,Civil Engineering,Engineering,CET,158286,89,4,86,5046,6284,16067,22040,5,5
-C1533,GCOE Nashik,Maharashtra,Pune,Government,Robotics Engineering,Engineering,CET,147969,93,3,85,5297,7466,12015,20015,3,4
-C1534,Fr CRCE Bandra,Maharashtra,Pune,Private,Mechanical Engineering,Engineering,CET,66533,86,4,114,14402,15444,24446,26733,4,5
-C1535,VJTI Mumbai,Maharashtra,Mumbai,Private,Mechanical Engineering,Engineering,CET,117078,73,3,122,3714,6180,13885,15930,3,3
-C1536,MIT Academy of Engineering,Maharashtra,Pune,Government,Robotics Engineering,Engineering,CET,163558,86,5,116,3115,5134,9683,16969,4,3
-C1537,AISSMS College of Engineering,Maharashtra,Nashik,Government,Computer Engineering,Engineering,CET,166834,80,3,87,6001,8858,17964,22018,3,4
-C1538,COEP Technological University,Maharashtra,Pune,Private,Civil Engineering,Engineering,CET,91316,91,4,65,15083,16872,22123,32255,4,5
-C1539,SIES Graduate School of Technology,Maharashtra,Nashik,Government,Information Technology,Engineering,CET,153151,77,3,75,3074,5580,10449,15528,4,4
-C1540,Fr CRCE Bandra,Maharashtra,Nashik,Government,AI & Data Science,Engineering,CET,126368,77,4,131,7231,9975,18694,23801,4,3
-C1541,D Y Patil College of Engineering Akurdi,Maharashtra,Mumbai,Private,Mechanical Engineering,Engineering,CET,78641,88,4,131,14070,16911,25521,27273,3,3
-C1542,MIT Academy of Engineering,Maharashtra,Pune,Private,Robotics Engineering,Engineering,CET,66911,72,5,163,16591,18577,24170,32132,5,3
-C1543,Datta Meghe College of Engineering,Maharashtra,Nashik,Private,Mechanical Engineering,Engineering,CET,70930,77,4,148,14926,17726,23773,31108,4,5
-C1544,Sinhgad Institute of Technology,Maharashtra,Nashik,Government,Data Science,Engineering,CET,78489,76,3,130,5292,6663,16741,17670,4,4
-C1545,SIES Graduate School of Technology,Maharashtra,Nashik,Private,Information Technology,Engineering,CET,120160,82,5,170,12881,14831,21696,28902,5,5
-C1546,Fr CRCE Bandra,Maharashtra,Nashik,Private,Information Technology,Engineering,CET,115044,76,3,61,8926,11466,18011,22856,3,3
-C1547,Sinhgad Institute of Technology,Maharashtra,Pune,Government,Robotics Engineering,Engineering,CET,80010,74,4,145,5811,7897,15985,22462,3,4
-C1548,Fr Agnel Bandra,Maharashtra,Mumbai,Government,AI & Data Science,Engineering,CET,132003,76,5,147,15174,18070,25253,30467,4,3
-C1549,Modern College of Engineering,Maharashtra,Mumbai,Government,Electrical Engineering,Engineering,CET,94500,87,3,120,4119,6106,12434,19687,3,3
-C1550,KK Wagh Institute of Engineering,Maharashtra,Nashik,Private,Civil Engineering,Engineering,CET,78281,87,4,92,3033,5368,14567,20841,3,3
-C1551,Sinhgad Institute of Technology,Maharashtra,Nashik,Government,Cyber Security,Engineering,CET,101930,90,5,130,4941,7399,12359,21972,4,4
-C1552,Terna Engineering College,Maharashtra,Mumbai,Government,AI & Data Science,Engineering,CET,99333,90,3,154,15110,17557,21791,29686,3,3
-C1553,KJ Somaiya College of Engineering,Maharashtra,Mumbai,Private,Mechanical Engineering,Engineering,CET,77451,92,5,66,6282,7644,14670,23026,4,4
-C1554,VIT Pune,Maharashtra,Nashik,Government,Civil Engineering,Engineering,CET,93104,88,5,180,10791,13744,22021,26747,4,5
-C1555,VJTI Mumbai,Maharashtra,Pune,Government,Cyber Security,Engineering,CET,137163,70,3,118,4322,5970,16133,19368,4,4
-C1556,MIT Academy of Engineering,Maharashtra,Mumbai,Private,Robotics Engineering,Engineering,CET,151704,70,4,60,5049,7455,16831,17794,5,4
-C1557,Terna Engineering College,Maharashtra,Mumbai,Private,Data Science,Engineering,CET,119282,85,3,141,3239,5505,9294,18683,3,3
-C1558,Modern College of Engineering,Maharashtra,Mumbai,Government,Information Technology,Engineering,CET,164958,90,5,84,5200,6216,16803,22820,3,4
-C1559,Terna Engineering College,Maharashtra,Nashik,Private,Information Technology,Engineering,CET,93222,95,3,82,5681,7469,14357,19442,5,5
-C1560,Sandip Institute of Engineering and Management,Maharashtra,Pune,Private,Robotics Engineering,Engineering,CET,163391,88,5,171,16815,18412,27042,33244,4,3
-C1561,COEP Technological University,Maharashtra,Nashik,Government,Mechanical Engineering,Engineering,CET,165852,76,5,112,11040,12299,19501,24953,5,5
-C1562,Pimpri Chinchwad College of Engineering,Maharashtra,Pune,Government,Mechanical Engineering,Engineering,CET,164813,73,5,131,8933,10645,20000,24135,4,3
-C1563,Fr CRCE Bandra,Maharashtra,Pune,Private,Cyber Security,Engineering,CET,99613,90,5,126,16430,19060,28379,29381,3,3
-C1564,GCOE Nashik,Maharashtra,Nashik,Government,Information Technology,Engineering,CET,139428,75,3,113,19863,21671,30178,35319,3,4
-C1565,Sandip Institute of Engineering and Management,Maharashtra,Pune,Government,Cyber Security,Engineering,CET,118669,95,3,133,6960,9912,17824,21194,3,4
-C1566,MIT Academy of Engineering,Maharashtra,Mumbai,Government,Information Technology,Engineering,CET,138459,80,4,158,16082,18480,27219,31636,4,4
-C1567,VIT Pune,Maharashtra,Mumbai,Private,Computer Engineering,Engineering,CET,140324,75,4,103,5384,7371,14136,19086,3,3
-C1568,Fr Agnel Bandra,Maharashtra,Nashik,Private,Civil Engineering,Engineering,CET,150856,81,3,156,10273,12430,20784,24318,3,3
-C1569,Modern College of Engineering,Maharashtra,Nashik,Private,Information Technology,Engineering,CET,98653,92,5,70,17977,19062,26448,32590,3,5
-C1570,PICT Pune,Maharashtra,Mumbai,Government,Electrical Engineering,Engineering,CET,137045,87,5,147,11909,14846,21777,28035,4,5
-C1571,MIT Academy of Engineering,Maharashtra,Nashik,Government,Electrical Engineering,Engineering,CET,136467,78,4,78,9596,11121,16131,27500,3,4
-C1572,Fr Agnel Bandra,Maharashtra,Nashik,Private,Mechanical Engineering,Engineering,CET,116412,74,3,174,9541,11644,20872,22386,3,3
-C1573,Pimpri Chinchwad College of Engineering,Maharashtra,Mumbai,Government,Cyber Security,Engineering,CET,80209,70,4,163,6723,9360,13592,20578,4,3
-C1574,MIT Academy of Engineering,Maharashtra,Mumbai,Private,AI & Data Science,Engineering,CET,83666,94,4,92,18807,21129,26484,33046,5,3
-C1575,AISSMS College of Engineering,Maharashtra,Mumbai,Private,Data Science,Engineering,CET,148473,95,5,104,11482,13225,18091,28100,5,5
-C1576,MIT Academy of Engineering,Maharashtra,Pune,Private,Robotics Engineering,Engineering,CET,162744,78,3,142,16029,18455,25852,31017,3,4
-C1577,Sinhgad Institute of Technology,Maharashtra,Mumbai,Private,Electronics & Telecommunication,Engineering,CET,85429,74,5,144,10554,12535,18388,25500,3,5
-C1578,Thakur College of Engineering,Maharashtra,Mumbai,Private,Civil Engineering,Engineering,CET,142011,84,5,60,12783,15150,19444,27986,5,4
-C1579,SIES Graduate School of Technology,Maharashtra,Mumbai,Private,Robotics Engineering,Engineering,CET,82527,78,4,125,7172,8489,13689,21369,4,5
-C1580,D Y Patil College of Engineering Akurdi,Maharashtra,Nashik,Government,Cyber Security,Engineering,CET,155981,71,3,137,14865,17844,24517,28908,3,3
-C1581,Fr CRCE Bandra,Maharashtra,Pune,Private,Electronics & Telecommunication,Engineering,CET,169131,89,4,165,10253,13035,21137,22257,4,5
-C1582,KK Wagh Institute of Engineering,Maharashtra,Pune,Private,Electrical Engineering,Engineering,CET,117133,70,3,62,11022,13971,18570,23293,3,5
-C1583,Fr CRCE Bandra,Maharashtra,Pune,Private,Computer Engineering,Engineering,CET,120508,95,5,170,16229,18884,24624,29587,5,4
-C1584,KJ Somaiya College of Engineering,Maharashtra,Mumbai,Private,Cyber Security,Engineering,CET,112111,80,3,62,10567,12742,18404,25540,3,3
-C1585,Pimpri Chinchwad College of Engineering,Maharashtra,Mumbai,Private,AI & Data Science,Engineering,CET,157841,84,5,65,6546,8770,17091,20110,3,4
-C1586,Modern College of Engineering,Maharashtra,Pune,Private,Electronics & Telecommunication,Engineering,CET,91008,74,5,150,17550,20062,25904,33788,3,4
-C1587,Datta Meghe College of Engineering,Maharashtra,Pune,Government,Computer Engineering,Engineering,CET,160335,74,5,95,15544,18425,27214,28348,4,3
-C1588,Indira College of Engineering,Maharashtra,Nashik,Government,AI & Data Science,Engineering,CET,100696,86,5,79,5972,7533,17934,20653,5,4
-C1589,Terna Engineering College,Maharashtra,Pune,Private,Robotics Engineering,Engineering,CET,125602,75,4,74,11770,14598,18115,28613,5,4
-C1590,SIES Graduate School of Technology,Maharashtra,Pune,Private,Cyber Security,Engineering,CET,98232,82,5,80,4569,6170,14934,19837,3,5
-C1591,COEP Technological University,Maharashtra,Pune,Government,AI & Data Science,Engineering,CET,156165,74,4,126,4672,7174,16382,22061,3,5
-C1592,Datta Meghe College of Engineering,Maharashtra,Mumbai,Private,Civil Engineering,Engineering,CET,107667,76,5,87,7302,9206,16339,19748,4,4
-C1593,MIT Academy of Engineering,Maharashtra,Nashik,Private,Information Technology,Engineering,CET,67456,76,3,138,19706,20850,31304,34580,5,5
-C1594,AISSMS College of Engineering,Maharashtra,Nashik,Government,AI & Data Science,Engineering,CET,165989,88,4,155,10214,13171,17906,26305,4,3
-C1595,D Y Patil College of Engineering Akurdi,Maharashtra,Mumbai,Government,Information Technology,Engineering,CET,91965,90,4,98,15384,18169,25402,31459,3,4
-C1596,VIT Pune,Maharashtra,Nashik,Government,AI & Data Science,Engineering,CET,166291,75,3,93,10338,12130,18904,23691,4,3
-C1597,Terna Engineering College,Maharashtra,Mumbai,Private,Electronics & Telecommunication,Engineering,CET,96469,79,5,119,4859,6217,11718,17292,4,4
-C1598,Indira College of Engineering,Maharashtra,Nashik,Private,Civil Engineering,Engineering,CET,69473,83,5,119,14763,16717,26321,27870,5,5
-C1599,Fr CRCE Bandra,Maharashtra,Pune,Private,Electrical Engineering,Engineering,CET,74947,82,5,153,7314,10294,14900,25002,4,4
-C1600,VIT Pune,Maharashtra,Mumbai,Private,Information Technology,Engineering,CET,125270,89,5,140,19065,21788,25837,35829,5,3
-C1601,Indira College of Engineering,Maharashtra,Nashik,Government,Electronics & Telecommunication,Engineering,CET,139829,72,5,64,3303,4556,12706,16738,4,4
-C1602,VJTI Mumbai,Maharashtra,Mumbai,Government,Data Science,Engineering,CET,85946,81,5,147,13738,16318,25382,30586,4,4
-C1603,GCOE Nashik,Maharashtra,Nashik,Government,Civil Engineering,Engineering,CET,135729,77,5,122,8916,10725,17431,25401,5,4
-C1604,D Y Patil College of Engineering Akurdi,Maharashtra,Mumbai,Private,Cyber Security,Engineering,CET,119944,82,5,81,10001,11619,19132,23100,3,4
-C1605,KJ Somaiya College of Engineering,Maharashtra,Nashik,Private,Data Science,Engineering,CET,83557,91,4,85,17223,18891,27957,32072,4,3
-C1606,Modern College of Engineering,Maharashtra,Mumbai,Government,Computer Engineering,Engineering,CET,157033,82,5,66,18716,20801,25324,35989,3,5
-C1607,AISSMS College of Engineering,Maharashtra,Nashik,Private,Information Technology,Engineering,CET,91494,76,5,166,5910,8848,12573,19128,3,5
-C1608,Pimpri Chinchwad College of Engineering,Maharashtra,Nashik,Private,Civil Engineering,Engineering,CET,145763,72,5,64,10494,12941,19840,25672,5,5
-C1609,VIT Pune,Maharashtra,Nashik,Private,AI & Data Science,Engineering,CET,99515,89,3,131,9118,10812,19501,24902,3,4
-C1610,Sandip Institute of Engineering and Management,Maharashtra,Pune,Private,Robotics Engineering,Engineering,CET,147220,85,3,100,10487,12803,21344,27989,4,4
-C1611,Terna Engineering College,Maharashtra,Mumbai,Government,Robotics Engineering,Engineering,CET,85302,79,5,74,9915,12634,19054,25973,4,4
-C1612,Terna Engineering College,Maharashtra,Mumbai,Private,Cyber Security,Engineering,CET,69689,75,3,151,12774,14518,19027,26837,5,5
-C1613,Modern College of Engineering,Maharashtra,Pune,Government,Electronics & Telecommunication,Engineering,CET,98912,83,4,134,8631,11016,20352,26265,5,4
-C1614,SIES Graduate School of Technology,Maharashtra,Pune,Government,Computer Engineering,Engineering,CET,165109,89,5,112,18525,20792,25488,35387,3,4
-C1615,COEP Technological University,Maharashtra,Nashik,Government,Mechanical Engineering,Engineering,CET,152822,85,4,131,15386,17164,27154,32396,5,4
-C1616,VJTI Mumbai,Maharashtra,Mumbai,Private,Electrical Engineering,Engineering,CET,106892,87,3,101,10840,13573,20375,23539,4,4
-C1617,COEP Technological University,Maharashtra,Pune,Government,Data Science,Engineering,CET,62722,76,4,81,5382,8346,12908,22602,5,4
-C1618,Modern College of Engineering,Maharashtra,Mumbai,Government,Electrical Engineering,Engineering,CET,134690,76,5,151,18365,19925,28420,34696,5,3
-C1619,VIT Pune,Maharashtra,Nashik,Government,Mechanical Engineering,Engineering,CET,152657,93,4,164,5445,8429,13296,17671,3,5
-C1620,Datta Meghe College of Engineering,Maharashtra,Mumbai,Private,Cyber Security,Engineering,CET,111751,89,5,111,10606,12920,19527,24780,5,3
-C1621,Thakur College of Engineering,Maharashtra,Nashik,Private,Cyber Security,Engineering,CET,167995,85,5,180,4190,6644,12192,17139,5,3
-C1622,Indira College of Engineering,Maharashtra,Pune,Government,Electronics & Telecommunication,Engineering,CET,64890,83,5,100,10483,12440,22079,27536,3,4
-C1623,Pimpri Chinchwad College of Engineering,Maharashtra,Pune,Private,Mechanical Engineering,Engineering,CET,61239,95,4,128,14087,15483,22678,27850,5,4
-C1624,Modern College of Engineering,Maharashtra,Nashik,Private,Electrical Engineering,Engineering,CET,112975,88,5,166,17419,20351,27158,34295,4,3
-C1625,VIT Pune,Maharashtra,Pune,Private,Civil Engineering,Engineering,CET,125603,74,3,90,14085,16097,20638,31180,5,4
-C1626,VIT Pune,Maharashtra,Nashik,Private,Electrical Engineering,Engineering,CET,79842,84,5,142,6960,9186,14984,19120,5,3
-C1627,VIT Pune,Maharashtra,Mumbai,Private,Cyber Security,Engineering,CET,80589,86,5,95,6111,8265,14765,22650,4,4
-C1628,Datta Meghe College of Engineering,Maharashtra,Mumbai,Private,Data Science,Engineering,CET,147417,89,4,180,18074,20878,25126,32548,4,4
-C1629,Fr Agnel Bandra,Maharashtra,Pune,Private,AI & Data Science,Engineering,CET,92939,88,3,129,6782,8859,15993,24774,4,5
-C1630,Datta Meghe College of Engineering,Maharashtra,Pune,Government,Robotics Engineering,Engineering,CET,61796,77,4,157,5560,7863,13862,20299,3,3
-C1631,Fr Agnel Bandra,Maharashtra,Nashik,Private,Electrical Engineering,Engineering,CET,87744,91,4,79,12580,15522,22594,29947,4,3
-C1632,D Y Patil College of Engineering Akurdi,Maharashtra,Mumbai,Government,AI & Data Science,Engineering,CET,139111,79,3,82,18416,20735,28602,33281,5,3
-C1633,D Y Patil College of Engineering Akurdi,Maharashtra,Pune,Government,Information Technology,Engineering,CET,88604,74,5,150,10174,12874,21046,27366,4,3
-C1634,Thakur College of Engineering,Maharashtra,Nashik,Private,Civil Engineering,Engineering,CET,85011,80,5,71,8806,11085,20762,22936,3,4
-C1635,Fr CRCE Bandra,Maharashtra,Mumbai,Private,Information Technology,Engineering,CET,81578,90,4,131,3059,5671,14501,18210,4,5
-C1636,Guru Gobind Singh College of Engineering Nashik,Maharashtra,Nashik,Private,Computer Engineering,Engineering,CET,146542,89,4,132,18368,20248,24741,36173,5,5
-C1637,PICT Pune,Maharashtra,Pune,Private,Data Science,Engineering,CET,151349,75,4,90,17250,18316,24943,31105,3,3
-C1638,SIES Graduate School of Technology,Maharashtra,Mumbai,Private,Mechanical Engineering,Engineering,CET,149270,71,5,170,3058,6041,12152,15814,4,3
-C1639,COEP Technological University,Maharashtra,Nashik,Private,Information Technology,Engineering,CET,104553,80,3,66,16959,18095,25508,33866,3,5
-C1640,VJTI Mumbai,Maharashtra,Nashik,Government,Mechanical Engineering,Engineering,CET,71112,86,3,180,19228,21089,29701,34813,3,3
-C1641,COEP Technological University,Maharashtra,Pune,Government,Data Science,Engineering,CET,153583,89,4,98,13832,14951,23426,27449,3,4
-C1642,Fr Agnel Bandra,Maharashtra,Nashik,Private,Data Science,Engineering,CET,69036,70,5,92,11850,14740,18293,24687,4,4
-C1643,AISSMS College of Engineering,Maharashtra,Mumbai,Private,Information Technology,Engineering,CET,132093,74,3,114,16404,19251,24143,29413,5,3
-C1644,Sinhgad Institute of Technology,Maharashtra,Mumbai,Government,Electrical Engineering,Engineering,CET,112174,85,4,96,16028,18910,26068,32512,4,3
-C1645,MIT Academy of Engineering,Maharashtra,Nashik,Government,Mechanical Engineering,Engineering,CET,135281,83,5,78,5699,6868,14011,18428,3,4
-C1646,Sinhgad Institute of Technology,Maharashtra,Nashik,Private,Data Science,Engineering,CET,148383,85,3,93,18306,19937,25828,30798,5,3
-C1647,MIT Academy of Engineering,Maharashtra,Pune,Private,Civil Engineering,Engineering,CET,73589,92,4,62,3873,6596,13117,17521,4,4
-C1648,GCOE Nashik,Maharashtra,Mumbai,Government,Information Technology,Engineering,CET,115159,83,4,153,8719,10288,17117,26543,3,5
-C1649,AISSMS College of Engineering,Maharashtra,Nashik,Government,Electronics & Telecommunication,Engineering,CET,136744,81,3,145,15523,17944,22449,31853,5,4
-C1650,Datta Meghe College of Engineering,Maharashtra,Pune,Private,Mechanical Engineering,Engineering,CET,146926,74,5,97,10789,13396,22382,25774,5,4
-C1651,MIT Academy of Engineering,Maharashtra,Mumbai,Government,Civil Engineering,Engineering,CET,163212,89,4,107,14767,16722,26667,32411,4,4
-C1652,Terna Engineering College,Maharashtra,Mumbai,Private,AI & Data Science,Engineering,CET,79076,81,5,60,6426,9423,13596,19110,4,4
-C1653,VIT Pune,Maharashtra,Nashik,Private,Mechanical Engineering,Engineering,CET,98899,75,3,88,4095,5841,12014,21693,3,4
-C1654,GCOE Nashik,Maharashtra,Pune,Government,Electronics & Telecommunication,Engineering,CET,112603,94,5,70,9357,11525,16707,23802,4,5
-C1655,COEP Technological University,Maharashtra,Mumbai,Government,Robotics Engineering,Engineering,CET,65980,95,3,141,17522,20418,27437,30728,3,5
-C1656,KJ Somaiya College of Engineering,Maharashtra,Pune,Government,Civil Engineering,Engineering,CET,110605,82,3,138,6162,8653,13417,20178,3,3
-C1657,MIT Academy of Engineering,Maharashtra,Pune,Private,Robotics Engineering,Engineering,CET,131232,71,4,120,19790,22375,27481,35406,3,4
-C1658,KJ Somaiya College of Engineering,Maharashtra,Pune,Government,AI & Data Science,Engineering,CET,104764,75,3,107,12088,14444,20002,28124,4,3
-C1659,Datta Meghe College of Engineering,Maharashtra,Pune,Government,Electronics & Telecommunication,Engineering,CET,128902,81,5,67,5561,8421,13316,22537,4,3
-C1660,Modern College of Engineering,Maharashtra,Pune,Government,Data Science,Engineering,CET,69302,81,5,112,16485,17569,24257,33067,4,5
-C1661,Fr Agnel Bandra,Maharashtra,Mumbai,Government,Data Science,Engineering,CET,127015,91,4,159,18924,21240,29055,36211,4,3
-C1662,SIES Graduate School of Technology,Maharashtra,Mumbai,Government,Computer Engineering,Engineering,CET,63939,90,5,168,14842,17076,21511,27703,3,3
-C1663,Terna Engineering College,Maharashtra,Pune,Government,Civil Engineering,Engineering,CET,130443,73,5,78,14587,17497,24634,27893,4,3
-C1664,KK Wagh Institute of Engineering,Maharashtra,Pune,Government,Electronics & Telecommunication,Engineering,CET,148545,91,5,145,18908,20699,30008,33013,4,4
-C1665,Datta Meghe College of Engineering,Maharashtra,Mumbai,Private,Cyber Security,Engineering,CET,128191,73,5,132,3683,5685,11822,18660,4,3
-C1666,Sinhgad Institute of Technology,Maharashtra,Mumbai,Government,Robotics Engineering,Engineering,CET,142136,90,5,72,12829,15339,19797,26605,3,5
-C1667,AISSMS College of Engineering,Maharashtra,Pune,Private,Civil Engineering,Engineering,CET,72228,80,4,79,10554,13193,20032,25158,5,4
-C1668,AISSMS College of Engineering,Maharashtra,Mumbai,Government,Robotics Engineering,Engineering,CET,138289,71,4,88,5484,7538,13816,20788,4,5
-C1669,KJ Somaiya College of Engineering,Maharashtra,Nashik,Government,AI & Data Science,Engineering,CET,78230,73,5,148,14374,15699,20723,31354,5,4
-C1670,KJ Somaiya College of Engineering,Maharashtra,Nashik,Private,Information Technology,Engineering,CET,113106,94,5,86,13008,14099,20443,29185,4,3
-C1671,Sinhgad Institute of Technology,Maharashtra,Nashik,Government,Electrical Engineering,Engineering,CET,112880,84,5,98,19971,22637,31585,32914,4,5
-C1672,AISSMS College of Engineering,Maharashtra,Nashik,Private,Cyber Security,Engineering,CET,95835,79,3,97,11371,12629,22972,29110,3,5
-C1673,Fr Agnel Bandra,Maharashtra,Nashik,Private,Civil Engineering,Engineering,CET,62068,94,4,144,19637,21934,27240,36054,3,3
-C1674,KK Wagh Institute of Engineering,Maharashtra,Nashik,Government,Civil Engineering,Engineering,CET,62137,77,5,150,11044,13611,19914,26231,3,4
-C1675,PICT Pune,Maharashtra,Nashik,Private,Computer Engineering,Engineering,CET,72907,79,5,75,15646,18612,22815,28953,4,4
-C1676,PICT Pune,Maharashtra,Pune,Private,Electrical Engineering,Engineering,CET,62400,81,4,73,4402,5603,15401,19448,3,3
-C1677,VJTI Mumbai,Maharashtra,Nashik,Government,Robotics Engineering,Engineering,CET,112129,92,5,152,8517,10475,16010,20668,3,4
-C1678,GCOE Nashik,Maharashtra,Nashik,Government,Information Technology,Engineering,CET,66145,90,5,170,18302,19412,25687,32499,5,3
-C1679,Guru Gobind Singh College of Engineering Nashik,Maharashtra,Pune,Government,Robotics Engineering,Engineering,CET,128247,94,4,84,16469,18340,27887,31151,3,5
-C1680,COEP Technological University,Maharashtra,Mumbai,Government,AI & Data Science,Engineering,CET,118202,92,4,122,5148,6288,16517,18324,4,3
-C1681,PICT Pune,Maharashtra,Nashik,Private,Computer Engineering,Engineering,CET,164551,90,5,173,11247,12589,20247,23880,3,3
-C1682,KK Wagh Institute of Engineering,Maharashtra,Pune,Government,Mechanical Engineering,Engineering,CET,79850,92,4,106,19392,20451,25994,36885,5,3
-C1683,Fr CRCE Bandra,Maharashtra,Nashik,Private,Data Science,Engineering,CET,168552,90,5,77,8409,10460,17104,24219,4,4
-C1684,AISSMS College of Engineering,Maharashtra,Mumbai,Government,Electrical Engineering,Engineering,CET,81520,78,4,143,12670,13837,18980,29813,5,3
-C1685,KJ Somaiya College of Engineering,Maharashtra,Nashik,Private,Electronics & Telecommunication,Engineering,CET,120664,77,3,100,3884,6817,10888,16810,5,3
-C1686,Datta Meghe College of Engineering,Maharashtra,Mumbai,Government,Electronics & Telecommunication,Engineering,CET,161698,91,5,71,17579,19639,25968,33881,3,5
-C1687,VIT Pune,Maharashtra,Pune,Government,Information Technology,Engineering,CET,76127,87,4,121,18598,21467,29803,34816,5,5
-C1688,Modern College of Engineering,Maharashtra,Pune,Private,Cyber Security,Engineering,CET,116599,93,4,170,7632,10096,13965,19648,5,5
-C1689,COEP Technological University,Maharashtra,Mumbai,Government,Robotics Engineering,Engineering,CET,132512,82,3,174,11271,13530,22143,26726,3,5
-C1690,COEP Technological University,Maharashtra,Mumbai,Private,Data Science,Engineering,CET,62848,70,3,171,12330,15237,23217,26902,3,3
-C1691,Fr Agnel Bandra,Maharashtra,Pune,Government,Data Science,Engineering,CET,137527,80,5,116,12748,14506,19393,26478,5,3
-C1692,PICT Pune,Maharashtra,Pune,Private,Electronics & Telecommunication,Engineering,CET,157697,78,3,89,10071,12111,17769,23444,3,5
-C1693,Sinhgad Institute of Technology,Maharashtra,Nashik,Private,Data Science,Engineering,CET,136783,79,5,155,11524,12986,21210,24686,3,3
-C1694,KK Wagh Institute of Engineering,Maharashtra,Nashik,Private,Robotics Engineering,Engineering,CET,120599,88,3,171,5954,8209,14731,22081,5,3
-C1695,D Y Patil College of Engineering Akurdi,Maharashtra,Pune,Private,Electrical Engineering,Engineering,CET,110215,82,4,146,19868,22603,31829,37407,5,3
-C1696,VIT Pune,Maharashtra,Nashik,Government,Information Technology,Engineering,CET,136545,76,5,69,5209,6840,16541,19777,4,4
-C1697,AISSMS College of Engineering,Maharashtra,Nashik,Government,AI & Data Science,Engineering,CET,106688,94,3,148,10084,12802,20039,23919,3,5
-C1698,Indira College of Engineering,Maharashtra,Mumbai,Private,Computer Engineering,Engineering,CET,144672,95,5,83,10525,12312,19207,26047,3,5
-C1699,VIT Pune,Maharashtra,Pune,Private,Mechanical Engineering,Engineering,CET,168377,86,3,158,6302,8042,18136,18494,5,3
-C1700,Indira College of Engineering,Maharashtra,Pune,Private,Robotics Engineering,Engineering,CET,61492,92,4,155,17769,18839,26704,33892,3,5
-C1701,COEP Technological University,Maharashtra,Nashik,Government,Electrical Engineering,Engineering,CET,113578,71,3,137,8006,10439,16917,21089,4,4
-C1702,Guru Gobind Singh College of Engineering Nashik,Maharashtra,Pune,Government,Robotics Engineering,Engineering,CET,67490,76,4,131,8400,10388,16679,22063,4,3
-C1703,D Y Patil College of Engineering Akurdi,Maharashtra,Nashik,Government,Robotics Engineering,Engineering,CET,131375,87,4,84,10486,11591,16681,28209,5,5
-C1704,VIT Pune,Maharashtra,Nashik,Private,Computer Engineering,Engineering,CET,89694,85,4,122,7386,10322,15973,22930,5,3
-C1705,Fr Agnel Bandra,Maharashtra,Mumbai,Government,Electronics & Telecommunication,Engineering,CET,62051,87,3,105,15432,18318,22695,29332,5,4
-C1706,MIT Academy of Engineering,Maharashtra,Mumbai,Private,Mechanical Engineering,Engineering,CET,146913,74,4,119,18329,21049,28183,35866,3,3
-C1707,KJ Somaiya College of Engineering,Maharashtra,Mumbai,Government,Cyber Security,Engineering,CET,132070,88,5,134,16963,18616,25203,33534,4,4
-C1708,Fr CRCE Bandra,Maharashtra,Mumbai,Government,AI & Data Science,Engineering,CET,140315,95,3,112,10719,12925,20939,27317,4,5
-C1709,Guru Gobind Singh College of Engineering Nashik,Maharashtra,Nashik,Government,Computer Engineering,Engineering,CET,96920,91,3,145,14900,16698,25277,31655,3,4
-C1710,KJ Somaiya College of Engineering,Maharashtra,Mumbai,Government,Information Technology,Engineering,CET,100641,75,5,129,15197,17617,26466,29202,3,3
-C1711,Indira College of Engineering,Maharashtra,Nashik,Private,Mechanical Engineering,Engineering,CET,154430,82,4,104,16644,17825,22952,32662,4,3
-C1712,VIT Pune,Maharashtra,Nashik,Government,Civil Engineering,Engineering,CET,73932,72,3,126,7084,8916,15488,19976,5,5
-C1713,Sinhgad Institute of Technology,Maharashtra,Pune,Government,Electrical Engineering,Engineering,CET,97471,86,3,99,14804,17464,23552,30255,5,5
-C1714,Datta Meghe College of Engineering,Maharashtra,Mumbai,Government,Electrical Engineering,Engineering,CET,100004,91,5,63,10909,13535,19118,26670,4,3
-C1715,Terna Engineering College,Maharashtra,Mumbai,Government,Cyber Security,Engineering,CET,143821,88,4,76,11980,13170,19380,28089,3,3
-C1716,Guru Gobind Singh College of Engineering Nashik,Maharashtra,Nashik,Government,Robotics Engineering,Engineering,CET,165087,95,5,149,13820,15258,22727,28354,4,3
-C1717,Datta Meghe College of Engineering,Maharashtra,Nashik,Government,Cyber Security,Engineering,CET,125066,75,4,119,16323,19275,25187,33242,5,4
-C1718,VJTI Mumbai,Maharashtra,Nashik,Government,Electrical Engineering,Engineering,CET,127576,84,3,98,11596,13014,22403,28002,4,4
-C1719,COEP Technological University,Maharashtra,Nashik,Government,Computer Engineering,Engineering,CET,166381,70,3,79,9108,11388,16297,26392,5,3
-C1720,Datta Meghe College of Engineering,Maharashtra,Mumbai,Government,Computer Engineering,Engineering,CET,158618,70,5,156,4222,5487,10789,19911,5,4
-C1721,Sinhgad Institute of Technology,Maharashtra,Nashik,Private,Information Technology,Engineering,CET,144586,72,5,97,11497,13464,17965,24801,3,3
-C1722,COEP Technological University,Maharashtra,Mumbai,Private,AI & Data Science,Engineering,CET,69444,77,5,135,5432,7494,13701,22403,5,3
-C1723,VJTI Mumbai,Maharashtra,Mumbai,Government,Information Technology,Engineering,CET,66617,88,5,73,13168,14952,23717,27633,3,3
-C1724,KK Wagh Institute of Engineering,Maharashtra,Mumbai,Government,Electronics & Telecommunication,Engineering,CET,156496,94,4,167,12329,14403,20086,29663,5,5
-C1725,Modern College of Engineering,Maharashtra,Nashik,Government,Computer Engineering,Engineering,CET,101820,86,4,172,12676,14785,24202,30183,3,3
-C1726,KJ Somaiya College of Engineering,Maharashtra,Pune,Private,AI & Data Science,Engineering,CET,141484,72,4,158,3617,6153,13353,20743,4,5
-C1727,Sandip Institute of Engineering and Management,Maharashtra,Nashik,Government,Cyber Security,Engineering,CET,125729,70,5,117,10039,11222,19585,24682,5,3
-C1728,MIT Academy of Engineering,Maharashtra,Pune,Private,Data Science,Engineering,CET,111234,93,5,113,9761,11649,19433,21925,4,5
-C1729,VJTI Mumbai,Maharashtra,Mumbai,Private,Cyber Security,Engineering,CET,142545,85,3,149,10068,12226,21399,22782,4,5
-C1730,KJ Somaiya College of Engineering,Maharashtra,Mumbai,Private,Mechanical Engineering,Engineering,CET,131387,74,3,164,17887,19521,25752,29930,4,5
-C1731,Terna Engineering College,Maharashtra,Mumbai,Government,Cyber Security,Engineering,CET,100538,70,5,83,9044,11054,18441,21068,4,3
-C1732,Terna Engineering College,Maharashtra,Nashik,Private,AI & Data Science,Engineering,CET,94238,80,4,97,15919,17517,24048,31621,3,5
-C1733,KJ Somaiya College of Engineering,Maharashtra,Pune,Private,Electronics & Telecommunication,Engineering,CET,100011,82,4,173,12868,15280,24258,27771,5,3
-C1734,AISSMS College of Engineering,Maharashtra,Pune,Private,Civil Engineering,Engineering,CET,72162,71,3,161,18377,20471,26388,31880,4,3
-C1735,D Y Patil College of Engineering Akurdi,Maharashtra,Pune,Government,Electrical Engineering,Engineering,CET,107402,74,3,122,17035,19421,27709,33574,3,3
-C1736,Sinhgad Institute of Technology,Maharashtra,Mumbai,Government,Cyber Security,Engineering,CET,162808,76,3,170,11985,13228,22448,25396,5,4
-C1737,PICT Pune,Maharashtra,Mumbai,Government,Mechanical Engineering,Engineering,CET,164990,70,5,132,12711,14902,21508,26923,4,3
-C1738,PICT Pune,Maharashtra,Pune,Government,Computer Engineering,Engineering,CET,150810,75,4,116,12038,14552,23028,28529,4,5
-C1739,COEP Technological University,Maharashtra,Nashik,Private,Electronics & Telecommunication,Engineering,CET,68201,94,4,81,19470,21166,27907,32053,5,3
-C1740,Sinhgad Institute of Technology,Maharashtra,Nashik,Government,Data Science,Engineering,CET,126550,86,5,111,7196,8611,15408,21267,5,4
-C1741,GCOE Nashik,Maharashtra,Pune,Private,Information Technology,Engineering,CET,67411,80,3,97,12799,14004,23187,26479,5,3
-C1742,Fr Agnel Bandra,Maharashtra,Mumbai,Private,Computer Engineering,Engineering,CET,166427,91,5,102,18860,21181,30633,34513,4,5
-C1743,Terna Engineering College,Maharashtra,Mumbai,Government,Information Technology,Engineering,CET,65523,72,5,80,10445,12766,21797,28160,5,4
-C1744,D Y Patil College of Engineering Akurdi,Maharashtra,Mumbai,Private,Electrical Engineering,Engineering,CET,128333,75,3,125,17571,19603,27887,33070,4,5
-C1745,Terna Engineering College,Maharashtra,Pune,Government,AI & Data Science,Engineering,CET,128407,90,3,99,9995,11488,19012,24172,3,5
-C1746,Sinhgad Institute of Technology,Maharashtra,Nashik,Private,Data Science,Engineering,CET,115284,90,4,115,16557,17792,24981,31388,5,4
-C1747,VJTI Mumbai,Maharashtra,Mumbai,Private,Civil Engineering,Engineering,CET,125013,95,5,165,6388,7572,17692,22546,5,3
-C1748,Fr CRCE Bandra,Maharashtra,Pune,Government,AI & Data Science,Engineering,CET,69938,80,4,176,15984,18761,23040,28012,4,5
-C1749,AISSMS College of Engineering,Maharashtra,Mumbai,Private,Mechanical Engineering,Engineering,CET,143979,85,4,71,15169,16727,23676,29850,5,3
-C1750,PICT Pune,Maharashtra,Pune,Private,Computer Engineering,Engineering,CET,83280,90,3,90,8640,10234,18237,25218,4,5
-C1751,Guru Gobind Singh College of Engineering Nashik,Maharashtra,Pune,Private,Information Technology,Engineering,CET,140007,93,4,159,9746,10864,19865,25523,4,4
-C1752,Pimpri Chinchwad College of Engineering,Maharashtra,Pune,Government,Robotics Engineering,Engineering,CET,87781,76,4,147,17303,18562,25327,30312,5,3
-C1753,VJTI Mumbai,Maharashtra,Pune,Government,Cyber Security,Engineering,CET,130397,94,4,80,6451,8215,13313,22111,4,5
-C1754,Indira College of Engineering,Maharashtra,Mumbai,Private,Robotics Engineering,Engineering,CET,144865,88,3,64,16681,19539,24976,30194,5,4
-C1755,SIES Graduate School of Technology,Maharashtra,Mumbai,Private,Data Science,Engineering,CET,97934,81,5,147,13323,15989,25044,29346,4,4
-C1756,MIT Academy of Engineering,Maharashtra,Mumbai,Private,Cyber Security,Engineering,CET,102490,90,4,145,18941,20332,28426,36131,3,5
-C1757,Indira College of Engineering,Maharashtra,Pune,Government,Robotics Engineering,Engineering,CET,131010,82,4,124,19263,21532,28634,36059,3,5
-C1758,GCOE Nashik,Maharashtra,Nashik,Government,Cyber Security,Engineering,CET,108139,78,3,65,8346,9573,17003,25579,3,5
-C1759,VJTI Mumbai,Maharashtra,Pune,Government,Electrical Engineering,Engineering,CET,135826,77,3,78,5013,6205,11825,17176,3,5
-C1760,MIT Academy of Engineering,Maharashtra,Pune,Private,Cyber Security,Engineering,CET,150602,77,5,62,10151,12819,21057,24583,3,4
-C1761,Datta Meghe College of Engineering,Maharashtra,Mumbai,Private,Electronics & Telecommunication,Engineering,CET,67153,89,4,63,12014,13475,21489,29377,4,5
-C1762,Thakur College of Engineering,Maharashtra,Nashik,Private,Mechanical Engineering,Engineering,CET,120428,78,3,60,4372,5372,10688,18669,5,4
-C1763,GCOE Nashik,Maharashtra,Pune,Government,Information Technology,Engineering,CET,75038,71,4,160,3298,4574,9750,18861,4,3
-C1764,Pimpri Chinchwad College of Engineering,Maharashtra,Nashik,Government,AI & Data Science,Engineering,CET,166584,85,5,105,11434,12978,22003,27629,4,5
-C1765,Datta Meghe College of Engineering,Maharashtra,Mumbai,Government,Computer Engineering,Engineering,CET,121189,72,4,81,17374,18910,23999,31905,5,4
-C1766,Terna Engineering College,Maharashtra,Pune,Private,Data Science,Engineering,CET,123142,91,3,91,10202,11241,19229,23525,5,3
-C1767,Indira College of Engineering,Maharashtra,Nashik,Private,Cyber Security,Engineering,CET,100899,88,5,135,11742,13947,20331,25247,4,4
-C1768,Sandip Institute of Engineering and Management,Maharashtra,Pune,Government,Computer Engineering,Engineering,CET,165319,89,5,102,6632,8214,15347,21421,4,5
-C1769,GCOE Nashik,Maharashtra,Mumbai,Government,Electrical Engineering,Engineering,CET,128651,88,4,169,13158,15963,19160,29460,5,5
-C1770,Indira College of Engineering,Maharashtra,Pune,Government,Mechanical Engineering,Engineering,CET,128554,87,4,164,17262,18845,24392,35008,3,5
-C1771,VIT Pune,Maharashtra,Mumbai,Government,Data Science,Engineering,CET,133956,75,3,68,5763,8223,14772,22290,3,3
-C1772,VIT Pune,Maharashtra,Mumbai,Private,Cyber Security,Engineering,CET,166126,72,3,167,7768,10019,14610,22670,3,3
-C1773,Terna Engineering College,Maharashtra,Pune,Government,AI & Data Science,Engineering,CET,100713,80,3,136,10201,13035,20912,27214,4,5
-C1774,SIES Graduate School of Technology,Maharashtra,Mumbai,Government,Civil Engineering,Engineering,CET,74891,90,3,160,6146,8138,13292,18886,4,4
-C1775,Indira College of Engineering,Maharashtra,Nashik,Government,Civil Engineering,Engineering,CET,83027,72,5,72,13573,15066,24360,28717,5,3
-C1776,VJTI Mumbai,Maharashtra,Pune,Government,Robotics Engineering,Engineering,CET,100166,79,5,118,3673,6412,13880,18607,4,4
-C1777,Indira College of Engineering,Maharashtra,Pune,Private,Data Science,Engineering,CET,70024,83,4,82,14093,16485,20522,30411,5,3
-C1778,Thakur College of Engineering,Maharashtra,Pune,Government,Robotics Engineering,Engineering,CET,101421,90,5,122,3985,6158,14929,20793,4,4
-C1779,Datta Meghe College of Engineering,Maharashtra,Nashik,Private,Computer Engineering,Engineering,CET,89416,78,3,167,5299,8035,13354,18982,4,3
-C1780,Sandip Institute of Engineering and Management,Maharashtra,Mumbai,Government,Civil Engineering,Engineering,CET,66709,82,4,158,8521,10247,18845,24100,5,3
-C1781,Sinhgad Institute of Technology,Maharashtra,Mumbai,Government,Data Science,Engineering,CET,162616,77,5,100,6449,9258,14244,20787,5,5
-C1782,SIES Graduate School of Technology,Maharashtra,Mumbai,Government,Electrical Engineering,Engineering,CET,137111,72,5,158,10764,13382,16885,28495,3,5
-C1783,PICT Pune,Maharashtra,Nashik,Government,Electronics & Telecommunication,Engineering,CET,126816,91,5,152,17319,19167,25779,30553,5,5
-C1784,Pimpri Chinchwad College of Engineering,Maharashtra,Mumbai,Government,Civil Engineering,Engineering,CET,150324,86,3,141,13052,14913,22939,28206,5,3
-C1785,Fr CRCE Bandra,Maharashtra,Pune,Government,AI & Data Science,Engineering,CET,92941,77,3,97,8911,9971,16694,22831,3,3
-C1786,Sinhgad Institute of Technology,Maharashtra,Mumbai,Private,Electrical Engineering,Engineering,CET,156209,77,5,125,3076,4794,9341,15432,3,4
-C1787,MIT Academy of Engineering,Maharashtra,Pune,Private,Information Technology,Engineering,CET,121004,74,3,166,14475,16959,26101,26722,4,3
-C1788,AISSMS College of Engineering,Maharashtra,Nashik,Private,Computer Engineering,Engineering,CET,130135,73,5,70,18354,19417,26425,31342,3,3
-C1789,GCOE Nashik,Maharashtra,Mumbai,Private,Cyber Security,Engineering,CET,84969,94,3,106,19213,22133,28394,35186,5,3
-C1790,GCOE Nashik,Maharashtra,Mumbai,Government,Computer Engineering,Engineering,CET,101029,94,3,120,8351,10466,19618,22712,3,3
-C1791,PICT Pune,Maharashtra,Mumbai,Government,Data Science,Engineering,CET,104638,87,3,150,19114,21663,26045,33364,4,5
-C1792,Terna Engineering College,Maharashtra,Nashik,Private,Data Science,Engineering,CET,117343,90,5,176,7309,10241,15679,24771,3,5
-C1793,MIT Academy of Engineering,Maharashtra,Nashik,Government,Civil Engineering,Engineering,CET,91328,88,3,82,6896,8297,14196,20106,3,3
-C1794,Modern College of Engineering,Maharashtra,Mumbai,Government,Computer Engineering,Engineering,CET,118892,73,5,76,18822,20184,24973,35511,4,3
-C1795,VJTI Mumbai,Maharashtra,Pune,Government,AI & Data Science,Engineering,CET,140410,76,4,104,4545,6023,14800,18891,3,5
-C1796,Guru Gobind Singh College of Engineering Nashik,Maharashtra,Pune,Private,Computer Engineering,Engineering,CET,164919,92,5,168,11064,13188,18748,24545,4,3
-C1797,KJ Somaiya College of Engineering,Maharashtra,Mumbai,Government,Data Science,Engineering,CET,99652,71,5,81,10876,13585,21336,28355,5,3
-C1798,COEP Technological University,Maharashtra,Pune,Private,Data Science,Engineering,CET,135627,71,3,150,5986,7004,12009,23584,3,5
-C1799,Terna Engineering College,Maharashtra,Pune,Private,Data Science,Engineering,CET,107939,91,3,91,5221,7826,13038,18641,5,3
-C1800,D Y Patil College of Engineering Akurdi,Maharashtra,Pune,Private,Electrical Engineering,Engineering,CET,130585,82,4,157,14483,17157,20770,29213,3,3
-C1801,Sinhgad Institute of Technology,Maharashtra,Pune,Government,Cyber Security,Engineering,CET,142183,81,4,139,8172,10809,19334,25124,5,4
-C1802,MIT Academy of Engineering,Maharashtra,Nashik,Government,Electrical Engineering,Engineering,CET,114797,72,4,118,18602,19846,29067,34639,3,5
-C1803,PICT Pune,Maharashtra,Pune,Private,Information Technology,Engineering,CET,68042,86,5,60,10012,12129,19806,24924,5,4
-C1804,Fr Agnel Bandra,Maharashtra,Nashik,Private,Data Science,Engineering,CET,61582,86,5,155,18271,20676,28095,34757,3,3
-C1805,Indira College of Engineering,Maharashtra,Pune,Private,Robotics Engineering,Engineering,CET,97623,74,4,62,18692,21290,27810,33836,4,5
-C1806,VIT Pune,Maharashtra,Pune,Government,Robotics Engineering,Engineering,CET,130262,82,3,66,19992,22155,29960,35327,5,4
-C1807,COEP Technological University,Maharashtra,Mumbai,Private,Cyber Security,Engineering,CET,146566,73,5,132,5360,7967,14764,21003,4,5
-C1808,VIT Pune,Maharashtra,Mumbai,Private,AI & Data Science,Engineering,CET,130267,83,3,80,8855,10001,20258,23164,3,4
-C1809,GCOE Nashik,Maharashtra,Mumbai,Government,Information Technology,Engineering,CET,142319,86,3,173,13012,14439,23673,28751,4,4
-C1810,Indira College of Engineering,Maharashtra,Nashik,Government,Electronics & Telecommunication,Engineering,CET,160362,94,5,154,6039,7996,15510,23403,5,5
-C1811,AISSMS College of Engineering,Maharashtra,Nashik,Private,AI & Data Science,Engineering,CET,156671,88,3,164,9601,12497,19776,25662,5,3
-C1812,GCOE Nashik,Maharashtra,Mumbai,Government,Electrical Engineering,Engineering,CET,65631,87,5,96,7639,9460,15927,21289,3,5
-C1813,COEP Technological University,Maharashtra,Mumbai,Government,Information Technology,Engineering,CET,162634,75,4,180,8973,10685,18919,26850,4,4
-C1814,VJTI Mumbai,Maharashtra,Mumbai,Government,Mechanical Engineering,Engineering,CET,166001,84,5,66,19327,22178,30371,35481,4,3
-C1815,Fr CRCE Bandra,Maharashtra,Pune,Private,Computer Engineering,Engineering,CET,120686,79,3,116,9452,11775,21035,26099,4,5
-C1816,PICT Pune,Maharashtra,Mumbai,Government,AI & Data Science,Engineering,CET,153216,76,3,110,5539,7530,14845,21702,3,5
-C1817,VJTI Mumbai,Maharashtra,Pune,Private,Electrical Engineering,Engineering,CET,99131,85,3,76,12900,15433,20222,27841,4,5
-C1818,COEP Technological University,Maharashtra,Pune,Government,AI & Data Science,Engineering,CET,144613,79,3,84,3807,6315,11109,18780,3,5
-C1819,Thakur College of Engineering,Maharashtra,Pune,Private,Robotics Engineering,Engineering,CET,141657,81,5,122,10729,11969,16797,23081,5,5
-C1820,Datta Meghe College of Engineering,Maharashtra,Nashik,Private,Information Technology,Engineering,CET,73354,93,3,137,6779,8784,15142,19393,4,4
-C1821,PICT Pune,Maharashtra,Pune,Government,Computer Engineering,Engineering,CET,166399,93,4,142,4943,6352,12048,17221,3,4
-C1822,SIES Graduate School of Technology,Maharashtra,Pune,Government,Electronics & Telecommunication,Engineering,CET,147511,77,5,115,4607,6726,14737,19530,5,4
-C1823,Terna Engineering College,Maharashtra,Pune,Private,Robotics Engineering,Engineering,CET,162984,93,5,79,10917,13167,22614,25941,3,5
-C1824,Indira College of Engineering,Maharashtra,Pune,Government,Electronics & Telecommunication,Engineering,CET,124347,78,4,96,5369,8288,13131,19198,5,4
-C1825,MIT Academy of Engineering,Maharashtra,Pune,Private,Electrical Engineering,Engineering,CET,128448,86,3,156,10823,13725,19093,26097,5,3
-C1826,SIES Graduate School of Technology,Maharashtra,Nashik,Government,Robotics Engineering,Engineering,CET,66897,81,4,99,16450,18379,23813,33302,4,4
-C1827,Sinhgad Institute of Technology,Maharashtra,Mumbai,Government,Civil Engineering,Engineering,CET,151143,94,3,114,16134,17277,24860,28991,4,3
-C1828,Guru Gobind Singh College of Engineering Nashik,Maharashtra,Pune,Government,AI & Data Science,Engineering,CET,75377,87,4,74,11590,14201,19082,24242,4,5
-C1829,Sandip Institute of Engineering and Management,Maharashtra,Mumbai,Government,Civil Engineering,Engineering,CET,76348,70,4,171,6141,8511,18095,21397,3,4
-C1830,Datta Meghe College of Engineering,Maharashtra,Nashik,Private,AI & Data Science,Engineering,CET,61363,95,5,129,14715,17365,21193,30488,3,5
-C1831,PICT Pune,Maharashtra,Nashik,Private,Cyber Security,Engineering,CET,125356,80,3,114,12929,15407,22531,29391,5,3
-C1832,Datta Meghe College of Engineering,Maharashtra,Pune,Private,Data Science,Engineering,CET,95695,75,4,101,8582,11412,20407,25281,4,3
-C1833,Sandip Institute of Engineering and Management,Maharashtra,Pune,Private,Computer Engineering,Engineering,CET,78622,80,4,89,16604,17824,28126,34108,4,4
-C1834,SIES Graduate School of Technology,Maharashtra,Pune,Private,Civil Engineering,Engineering,CET,81852,86,4,116,13719,14743,21128,29135,5,3
-C1835,Fr Agnel Bandra,Maharashtra,Nashik,Private,Robotics Engineering,Engineering,CET,164077,79,5,74,4125,5242,14204,16174,3,3
-C1836,SIES Graduate School of Technology,Maharashtra,Nashik,Government,Mechanical Engineering,Engineering,CET,158516,88,5,167,17582,19711,25877,31436,4,3
-C1837,VJTI Mumbai,Maharashtra,Nashik,Government,Civil Engineering,Engineering,CET,156864,72,4,127,4860,7266,15397,21533,4,5
-C1838,Modern College of Engineering,Maharashtra,Nashik,Private,Information Technology,Engineering,CET,112678,80,5,78,8780,10808,17695,23347,3,4
-C1839,Datta Meghe College of Engineering,Maharashtra,Nashik,Government,Information Technology,Engineering,CET,98648,70,3,155,19642,22421,27620,36884,4,3
-C1840,AISSMS College of Engineering,Maharashtra,Pune,Private,Information Technology,Engineering,CET,77527,89,3,61,11913,14475,21734,29784,4,4
-C1841,VIT Pune,Maharashtra,Pune,Government,Robotics Engineering,Engineering,CET,60004,72,5,119,4909,6853,11750,20737,3,5
-C1842,Guru Gobind Singh College of Engineering Nashik,Maharashtra,Nashik,Government,Robotics Engineering,Engineering,CET,131227,81,5,163,3013,4124,12246,15732,3,4
-C1843,Fr CRCE Bandra,Maharashtra,Mumbai,Private,Computer Engineering,Engineering,CET,166008,83,4,127,12528,15448,20209,26457,4,3
-C1844,VIT Pune,Maharashtra,Nashik,Private,Civil Engineering,Engineering,CET,117662,95,5,131,18538,21531,28595,35541,3,5
-C1845,D Y Patil College of Engineering Akurdi,Maharashtra,Pune,Private,Electronics & Telecommunication,Engineering,CET,73500,70,5,169,13197,14985,24064,29096,5,5
-C1846,COEP Technological University,Maharashtra,Nashik,Private,Electronics & Telecommunication,Engineering,CET,102586,81,3,169,15650,18568,26906,28486,3,3
-C1847,D Y Patil College of Engineering Akurdi,Maharashtra,Pune,Private,AI & Data Science,Engineering,CET,167980,81,5,88,7303,9912,14055,22642,4,3
-C1848,Thakur College of Engineering,Maharashtra,Nashik,Government,Civil Engineering,Engineering,CET,138138,87,4,116,18536,20735,28844,32279,3,5
-C1849,Thakur College of Engineering,Maharashtra,Nashik,Government,Computer Engineering,Engineering,CET,167667,72,4,151,4269,6155,10845,19196,3,5
-C1850,Thakur College of Engineering,Maharashtra,Nashik,Government,Cyber Security,Engineering,CET,97768,70,5,136,11885,13568,21987,25432,3,5
-C1851,KK Wagh Institute of Engineering,Maharashtra,Mumbai,Private,Cyber Security,Engineering,CET,134732,79,4,117,11285,12869,21318,27004,4,4
-C1852,D Y Patil College of Engineering Akurdi,Maharashtra,Nashik,Private,Cyber Security,Engineering,CET,159453,77,5,164,6501,7860,15339,21307,5,5
-C1853,Indira College of Engineering,Maharashtra,Pune,Government,Computer Engineering,Engineering,CET,160107,91,5,77,16028,17934,25978,29040,4,5
-C1854,Thakur College of Engineering,Maharashtra,Nashik,Government,Mechanical Engineering,Engineering,CET,75767,88,5,134,10616,11893,17967,28304,3,3
-C1855,Fr CRCE Bandra,Maharashtra,Mumbai,Government,Electrical Engineering,Engineering,CET,87335,82,5,112,8309,10060,15878,24704,5,4
-C1856,MIT Academy of Engineering,Maharashtra,Mumbai,Government,Mechanical Engineering,Engineering,CET,165207,87,4,134,8312,9490,19172,23889,4,5
-C1857,D Y Patil College of Engineering Akurdi,Maharashtra,Pune,Government,Electronics & Telecommunication,Engineering,CET,164681,89,4,125,19471,21880,27000,31967,4,5
-C1858,Pimpri Chinchwad College of Engineering,Maharashtra,Nashik,Government,Robotics Engineering,Engineering,CET,107917,81,4,166,14490,17249,22923,29525,3,3
-C1859,VJTI Mumbai,Maharashtra,Mumbai,Government,Mechanical Engineering,Engineering,CET,109500,78,5,92,15417,17750,25673,33104,5,4
-C1860,KK Wagh Institute of Engineering,Maharashtra,Pune,Government,Mechanical Engineering,Engineering,CET,81837,71,4,94,4017,5323,11215,19093,3,3
-C1861,KK Wagh Institute of Engineering,Maharashtra,Mumbai,Government,Electrical Engineering,Engineering,CET,164990,79,5,96,7392,8487,15593,24333,5,3
-C1862,VJTI Mumbai,Maharashtra,Pune,Government,Electrical Engineering,Engineering,CET,118176,81,3,174,17209,19204,27009,29306,5,4
-C1863,PICT Pune,Maharashtra,Pune,Government,Cyber Security,Engineering,CET,77199,83,5,88,3521,5646,15458,15639,5,3
-C1864,Datta Meghe College of Engineering,Maharashtra,Mumbai,Government,Civil Engineering,Engineering,CET,85055,77,4,154,7190,9825,14518,20901,3,3
-C1865,Sinhgad Institute of Technology,Maharashtra,Nashik,Private,AI & Data Science,Engineering,CET,164093,80,5,176,7355,9904,18708,21541,3,3
-C1866,VIT Pune,Maharashtra,Mumbai,Government,Electronics & Telecommunication,Engineering,CET,129691,83,4,145,16506,18354,24307,33876,5,5
-C1867,AISSMS College of Engineering,Maharashtra,Nashik,Government,Cyber Security,Engineering,CET,127853,81,5,60,7184,9843,13373,20413,3,3
-C1868,PICT Pune,Maharashtra,Pune,Private,Information Technology,Engineering,CET,138365,76,3,169,7707,10316,16151,23003,4,3
-C1869,VIT Pune,Maharashtra,Mumbai,Government,Information Technology,Engineering,CET,69412,94,3,80,4735,7559,15472,17709,3,5
-C1870,Pimpri Chinchwad College of Engineering,Maharashtra,Nashik,Private,Electrical Engineering,Engineering,CET,107407,77,4,118,10860,12198,22408,23301,3,5
-C1871,Modern College of Engineering,Maharashtra,Nashik,Government,AI & Data Science,Engineering,CET,61996,71,5,110,7700,10674,15619,24199,3,4
-C1872,Pimpri Chinchwad College of Engineering,Maharashtra,Mumbai,Government,Cyber Security,Engineering,CET,154939,84,5,99,7826,10217,17441,20116,5,3
-C1873,KK Wagh Institute of Engineering,Maharashtra,Pune,Private,Civil Engineering,Engineering,CET,93265,74,4,60,16570,19437,26912,28938,4,3
-C1874,VIT Pune,Maharashtra,Pune,Private,Mechanical Engineering,Engineering,CET,109502,71,5,83,17164,18803,28486,33374,4,4
-C1875,Indira College of Engineering,Maharashtra,Nashik,Private,Computer Engineering,Engineering,CET,142849,74,3,159,6830,9288,15356,20400,5,5
-C1876,Datta Meghe College of Engineering,Maharashtra,Pune,Government,Cyber Security,Engineering,CET,90033,86,3,111,14524,16825,25175,31153,3,3
-C1877,SIES Graduate School of Technology,Maharashtra,Nashik,Government,AI & Data Science,Engineering,CET,168595,78,4,168,16102,18774,24982,29822,3,4
-C1878,Modern College of Engineering,Maharashtra,Nashik,Government,Mechanical Engineering,Engineering,CET,92938,72,4,97,9735,12365,20151,25904,3,5
-C1879,GCOE Nashik,Maharashtra,Nashik,Private,AI & Data Science,Engineering,CET,167489,79,5,98,18727,20663,26310,34464,5,3
-C1880,Fr Agnel Bandra,Maharashtra,Mumbai,Government,Data Science,Engineering,CET,127696,79,4,94,10433,11898,19541,24469,4,3
-C1881,Sandip Institute of Engineering and Management,Maharashtra,Pune,Government,Electronics & Telecommunication,Engineering,CET,77187,75,5,83,17844,20377,26810,35482,4,5
-C1882,Fr CRCE Bandra,Maharashtra,Pune,Private,Civil Engineering,Engineering,CET,146586,82,5,108,14376,16562,22443,30529,4,5
-C1883,Terna Engineering College,Maharashtra,Mumbai,Private,Data Science,Engineering,CET,162113,73,4,80,13948,15222,25805,30634,5,4
-C1884,Indira College of Engineering,Maharashtra,Mumbai,Private,Computer Engineering,Engineering,CET,100721,93,4,106,18104,19449,25596,30145,5,4
-C1885,Fr Agnel Bandra,Maharashtra,Pune,Private,AI & Data Science,Engineering,CET,106978,83,5,87,14130,16954,21961,31676,5,5
-C1886,AISSMS College of Engineering,Maharashtra,Nashik,Government,Data Science,Engineering,CET,87938,71,3,64,10000,12016,21438,25068,4,4
-C1887,Sandip Institute of Engineering and Management,Maharashtra,Mumbai,Private,Electronics & Telecommunication,Engineering,CET,122685,74,5,102,11605,14063,20616,27663,5,5
-C1888,KK Wagh Institute of Engineering,Maharashtra,Nashik,Government,AI & Data Science,Engineering,CET,88334,82,4,108,4746,7015,15012,18107,4,3
-C1889,VJTI Mumbai,Maharashtra,Mumbai,Government,Electrical Engineering,Engineering,CET,118587,80,3,165,4157,5263,12847,18125,3,3
-C1890,GCOE Nashik,Maharashtra,Pune,Government,Data Science,Engineering,CET,67543,90,3,91,11909,13862,23456,25963,4,4
-C1891,SIES Graduate School of Technology,Maharashtra,Mumbai,Government,Computer Engineering,Engineering,CET,66985,73,4,123,9348,10677,16376,22206,3,3
-C1892,GCOE Nashik,Maharashtra,Pune,Government,Mechanical Engineering,Engineering,CET,98319,78,5,88,17175,19886,28484,34371,3,4
-C1893,COEP Technological University,Maharashtra,Mumbai,Government,Computer Engineering,Engineering,CET,105777,72,4,146,15925,18381,23158,31375,5,4
-C1894,PICT Pune,Maharashtra,Nashik,Private,Civil Engineering,Engineering,CET,89202,87,3,118,16230,18204,22243,32242,5,4
-C1895,GCOE Nashik,Maharashtra,Pune,Private,Cyber Security,Engineering,CET,62855,89,5,80,13750,14944,21490,30901,4,4
-C1896,Terna Engineering College,Maharashtra,Nashik,Government,Robotics Engineering,Engineering,CET,152741,92,4,129,10449,12861,19359,23591,5,4
-C1897,KK Wagh Institute of Engineering,Maharashtra,Mumbai,Government,Electronics & Telecommunication,Engineering,CET,69418,93,3,150,15472,16565,22495,29121,5,3
-C1898,Indira College of Engineering,Maharashtra,Nashik,Government,Robotics Engineering,Engineering,CET,144398,71,5,66,16241,17683,26132,30541,3,5
-C1899,COEP Technological University,Maharashtra,Nashik,Private,AI & Data Science,Engineering,CET,157076,90,3,176,9187,10975,17284,24719,4,3
-C1900,Modern College of Engineering,Maharashtra,Pune,Government,Robotics Engineering,Engineering,CET,154474,80,3,138,7276,9259,16419,23599,4,4
-C1901,Fr CRCE Bandra,Maharashtra,Pune,Private,AI & Data Science,Engineering,CET,111324,78,5,109,15168,17731,25864,30845,3,5
-C1902,AISSMS College of Engineering,Maharashtra,Mumbai,Private,Computer Engineering,Engineering,CET,100059,79,4,153,3867,6650,10911,20434,5,5
-C1903,Sinhgad Institute of Technology,Maharashtra,Mumbai,Private,Electronics & Telecommunication,Engineering,CET,105635,85,3,134,19974,22519,26610,36546,3,5
-C1904,Thakur College of Engineering,Maharashtra,Nashik,Government,Electronics & Telecommunication,Engineering,CET,139441,87,4,131,17457,19887,25500,31182,4,4
-C1905,VJTI Mumbai,Maharashtra,Nashik,Government,Robotics Engineering,Engineering,CET,152353,71,4,158,9614,10786,17662,24549,5,4
-C1906,VJTI Mumbai,Maharashtra,Nashik,Private,Cyber Security,Engineering,CET,71822,87,4,124,14143,16223,24960,27974,3,4
-C1907,Sinhgad Institute of Technology,Maharashtra,Nashik,Private,Information Technology,Engineering,CET,68107,83,4,153,11485,12946,22018,24060,3,3
-C1908,Fr Agnel Bandra,Maharashtra,Nashik,Private,Electronics & Telecommunication,Engineering,CET,155075,85,5,98,16705,19409,28465,29392,5,3
-C1909,MIT Academy of Engineering,Maharashtra,Mumbai,Private,Data Science,Engineering,CET,103269,81,4,103,5097,6247,13647,17736,3,3
-C1910,Fr Agnel Bandra,Maharashtra,Pune,Government,Robotics Engineering,Engineering,CET,61464,79,3,74,6901,9578,16664,23931,3,3
-C1911,KK Wagh Institute of Engineering,Maharashtra,Mumbai,Government,Civil Engineering,Engineering,CET,129742,72,5,100,15905,17374,22067,29550,5,4
-C1912,Fr CRCE Bandra,Maharashtra,Mumbai,Government,Computer Engineering,Engineering,CET,152464,91,5,113,12206,13466,23816,30061,5,3
-C1913,KK Wagh Institute of Engineering,Maharashtra,Mumbai,Government,Civil Engineering,Engineering,CET,127053,76,4,78,3168,4273,12592,17696,3,5
-C1914,Sinhgad Institute of Technology,Maharashtra,Mumbai,Private,Data Science,Engineering,CET,159239,94,4,127,8828,9905,15195,22753,3,3
-C1915,SIES Graduate School of Technology,Maharashtra,Nashik,Government,Data Science,Engineering,CET,154045,73,5,96,6895,8985,14243,24468,5,5
-C1916,PICT Pune,Maharashtra,Pune,Government,Electronics & Telecommunication,Engineering,CET,72379,79,5,171,3731,5271,12144,18944,3,5
-C1917,Indira College of Engineering,Maharashtra,Pune,Government,Civil Engineering,Engineering,CET,76789,85,4,101,19110,20356,25681,34813,3,5
-C1918,GCOE Nashik,Maharashtra,Nashik,Government,Robotics Engineering,Engineering,CET,116148,95,3,138,16616,18634,26935,29163,5,3
-C1919,VJTI Mumbai,Maharashtra,Nashik,Government,Computer Engineering,Engineering,CET,146107,87,4,163,10832,13175,22374,27209,3,4
-C1920,AISSMS College of Engineering,Maharashtra,Nashik,Private,Data Science,Engineering,CET,145315,86,4,173,19394,22160,27869,36419,4,4
-C1921,PICT Pune,Maharashtra,Mumbai,Private,Computer Engineering,Engineering,CET,128782,72,5,177,4035,5707,12784,21202,4,4
-C1922,VIT Pune,Maharashtra,Mumbai,Government,Electrical Engineering,Engineering,CET,69980,91,3,144,13145,16098,24460,27346,5,5
-C1923,Modern College of Engineering,Maharashtra,Pune,Private,Information Technology,Engineering,CET,99474,89,5,174,8250,10544,14301,25963,3,5
-C1924,PICT Pune,Maharashtra,Pune,Government,Robotics Engineering,Engineering,CET,133735,93,3,60,5203,7859,15897,18350,5,3
-C1925,Fr Agnel Bandra,Maharashtra,Mumbai,Private,Information Technology,Engineering,CET,98963,77,5,168,13013,15428,20431,25968,5,3
-C1926,PICT Pune,Maharashtra,Pune,Private,AI & Data Science,Engineering,CET,124178,76,5,60,6664,8940,16678,19706,4,3
-C1927,Guru Gobind Singh College of Engineering Nashik,Maharashtra,Mumbai,Government,Robotics Engineering,Engineering,CET,158080,79,3,118,16488,18999,25179,28747,4,4
-C1928,Indira College of Engineering,Maharashtra,Pune,Government,Electronics & Telecommunication,Engineering,CET,155111,85,3,133,16613,18435,26077,32598,3,3
-C1929,PICT Pune,Maharashtra,Nashik,Private,Electrical Engineering,Engineering,CET,115632,71,5,70,18983,20660,27799,35285,3,4
-C1930,Pimpri Chinchwad College of Engineering,Maharashtra,Mumbai,Government,Computer Engineering,Engineering,CET,150332,82,5,67,7747,9489,17840,21853,3,5
-C1931,Modern College of Engineering,Maharashtra,Mumbai,Government,Data Science,Engineering,CET,123727,94,5,99,7699,9868,18871,23974,4,5
-C1932,Datta Meghe College of Engineering,Maharashtra,Nashik,Private,Electronics & Telecommunication,Engineering,CET,99335,87,3,86,10812,13804,18114,27449,4,3
-C1933,Fr CRCE Bandra,Maharashtra,Nashik,Private,Electrical Engineering,Engineering,CET,148214,88,4,126,6279,9261,17998,21860,4,4
-C1934,D Y Patil College of Engineering Akurdi,Maharashtra,Nashik,Government,Computer Engineering,Engineering,CET,65650,94,4,136,15027,17158,25891,29300,4,5
-C1935,KJ Somaiya College of Engineering,Maharashtra,Nashik,Private,Robotics Engineering,Engineering,CET,76246,78,4,80,10989,12868,17371,24138,3,4
-C1936,Datta Meghe College of Engineering,Maharashtra,Pune,Private,Information Technology,Engineering,CET,83689,88,3,133,17074,18134,27382,32090,3,5
-C1937,KK Wagh Institute of Engineering,Maharashtra,Nashik,Private,Robotics Engineering,Engineering,CET,64872,72,5,124,15420,16639,25766,32742,4,4
-C1938,VIT Pune,Maharashtra,Nashik,Private,Electronics & Telecommunication,Engineering,CET,83534,95,5,109,6838,9431,16023,24196,4,5
-C1939,KJ Somaiya College of Engineering,Maharashtra,Nashik,Government,Mechanical Engineering,Engineering,CET,135697,78,4,129,19572,20672,25892,34739,4,4
-C1940,KK Wagh Institute of Engineering,Maharashtra,Nashik,Private,Civil Engineering,Engineering,CET,165971,81,4,96,16381,17617,25009,29804,4,3
-C1941,Fr Agnel Bandra,Maharashtra,Mumbai,Private,Electronics & Telecommunication,Engineering,CET,134261,86,4,153,19507,21138,30963,31847,5,3
-C1942,SIES Graduate School of Technology,Maharashtra,Pune,Private,Robotics Engineering,Engineering,CET,158044,83,5,174,13259,14805,21403,30771,3,3
-C1943,VJTI Mumbai,Maharashtra,Pune,Government,AI & Data Science,Engineering,CET,98070,82,5,136,3923,6447,10977,17651,4,3
-C1944,Datta Meghe College of Engineering,Maharashtra,Nashik,Private,Data Science,Engineering,CET,104627,88,3,116,13760,15303,20555,29842,5,5
-C1945,D Y Patil College of Engineering Akurdi,Maharashtra,Pune,Private,Robotics Engineering,Engineering,CET,145956,88,4,114,5619,8252,12165,19198,3,5
-C1946,Indira College of Engineering,Maharashtra,Pune,Private,Electronics & Telecommunication,Engineering,CET,158119,92,5,120,4699,7113,13147,21566,5,4
-C1947,PICT Pune,Maharashtra,Mumbai,Government,Cyber Security,Engineering,CET,144334,89,5,98,13445,16320,21311,29454,3,5
-C1948,Indira College of Engineering,Maharashtra,Mumbai,Private,Electronics & Telecommunication,Engineering,CET,65444,82,4,104,11510,14326,23303,23740,5,5
-C1949,MIT Academy of Engineering,Maharashtra,Mumbai,Government,Mechanical Engineering,Engineering,CET,121078,84,5,152,7118,9334,15024,20094,3,5
-C1950,SIES Graduate School of Technology,Maharashtra,Pune,Private,Robotics Engineering,Engineering,CET,119413,84,3,134,6731,9610,17729,21078,5,5
-C1951,D Y Patil College of Engineering Akurdi,Maharashtra,Nashik,Private,Electronics & Telecommunication,Engineering,CET,140568,79,5,174,4493,5733,14972,18894,4,4
-C1952,KK Wagh Institute of Engineering,Maharashtra,Nashik,Private,Cyber Security,Engineering,CET,73068,78,4,79,16940,19320,28040,30607,4,5
-C1953,Pimpri Chinchwad College of Engineering,Maharashtra,Mumbai,Private,Mechanical Engineering,Engineering,CET,97579,76,3,120,6738,9454,17938,19589,5,5
-C1954,Sandip Institute of Engineering and Management,Maharashtra,Nashik,Government,Electrical Engineering,Engineering,CET,74548,72,3,80,9939,12045,20424,24928,5,5
-C1955,KK Wagh Institute of Engineering,Maharashtra,Mumbai,Private,Electronics & Telecommunication,Engineering,CET,154131,70,5,101,18569,20450,29048,33921,3,5
-C1956,SIES Graduate School of Technology,Maharashtra,Pune,Government,Civil Engineering,Engineering,CET,61175,72,5,146,3228,5506,10670,17729,4,3
-C1957,Indira College of Engineering,Maharashtra,Mumbai,Government,Computer Engineering,Engineering,CET,131609,74,4,149,3702,6663,14265,18509,3,5
-C1958,Modern College of Engineering,Maharashtra,Pune,Government,Information Technology,Engineering,CET,157872,73,3,79,16532,18755,27676,31720,4,5
-C1959,Pimpri Chinchwad College of Engineering,Maharashtra,Nashik,Private,Robotics Engineering,Engineering,CET,117655,80,5,69,18913,19986,26740,36190,4,4
-C1960,AISSMS College of Engineering,Maharashtra,Pune,Government,Electrical Engineering,Engineering,CET,140172,73,5,82,4471,6802,14795,16515,3,3
-C1961,Datta Meghe College of Engineering,Maharashtra,Mumbai,Government,Mechanical Engineering,Engineering,CET,119407,81,3,98,10833,13337,19519,28077,3,5
-C1962,Indira College of Engineering,Maharashtra,Pune,Private,Information Technology,Engineering,CET,70511,88,4,172,10881,12335,20808,23090,3,5
-C1963,VJTI Mumbai,Maharashtra,Mumbai,Private,Robotics Engineering,Engineering,CET,74255,76,3,156,6975,8042,14128,19402,4,3
-C1964,Guru Gobind Singh College of Engineering Nashik,Maharashtra,Mumbai,Private,Computer Engineering,Engineering,CET,144690,92,3,66,14697,16504,24485,31374,4,3
-C1965,MIT Academy of Engineering,Maharashtra,Pune,Private,Civil Engineering,Engineering,CET,63148,85,4,168,10963,13058,20141,23329,5,4
-C1966,GCOE Nashik,Maharashtra,Pune,Government,Information Technology,Engineering,CET,159216,92,4,72,16124,18785,24779,28924,4,5
-C1967,Indira College of Engineering,Maharashtra,Mumbai,Government,Electrical Engineering,Engineering,CET,76358,74,5,80,10290,12413,20335,26228,4,4
-C1968,Fr CRCE Bandra,Maharashtra,Pune,Government,Data Science,Engineering,CET,147440,92,5,73,13674,15796,23253,26154,5,3
-C1969,Fr Agnel Bandra,Maharashtra,Pune,Private,AI & Data Science,Engineering,CET,119334,93,4,138,11998,14048,22849,26373,4,4
-C1970,Guru Gobind Singh College of Engineering Nashik,Maharashtra,Pune,Government,Electrical Engineering,Engineering,CET,158390,79,3,109,14839,16279,26306,29559,3,3
-C1971,KK Wagh Institute of Engineering,Maharashtra,Nashik,Private,Computer Engineering,Engineering,CET,110703,91,4,143,8893,11554,15753,25420,3,4
-C1972,Sandip Institute of Engineering and Management,Maharashtra,Pune,Private,Electrical Engineering,Engineering,CET,71318,91,4,131,4784,5887,15920,18234,5,4
-C1973,Fr Agnel Bandra,Maharashtra,Mumbai,Private,Mechanical Engineering,Engineering,CET,70679,78,5,164,4975,6572,12525,18788,4,3
-C1974,Sandip Institute of Engineering and Management,Maharashtra,Mumbai,Government,Computer Engineering,Engineering,CET,160689,76,3,73,5799,7894,17566,20489,3,4
-C1975,KK Wagh Institute of Engineering,Maharashtra,Pune,Government,Mechanical Engineering,Engineering,CET,129240,82,5,163,17832,20050,26552,34757,3,3
-C1976,D Y Patil College of Engineering Akurdi,Maharashtra,Nashik,Government,AI & Data Science,Engineering,CET,122176,92,3,98,14613,16113,25511,28459,3,4
-C1977,Pimpri Chinchwad College of Engineering,Maharashtra,Nashik,Private,Information Technology,Engineering,CET,119173,75,3,96,14624,16365,23495,28169,5,4
-C1978,VJTI Mumbai,Maharashtra,Pune,Private,Civil Engineering,Engineering,CET,162493,71,4,152,18736,20208,25423,31722,4,3
-C1979,Terna Engineering College,Maharashtra,Pune,Government,AI & Data Science,Engineering,CET,69321,83,3,145,4777,7526,14234,20957,5,3
-C1980,GCOE Nashik,Maharashtra,Mumbai,Private,Robotics Engineering,Engineering,CET,167149,72,5,93,18167,19889,24268,35129,4,5
-C1981,SIES Graduate School of Technology,Maharashtra,Mumbai,Private,Electrical Engineering,Engineering,CET,163444,73,4,124,14048,16373,24355,29476,3,3
-C1982,PICT Pune,Maharashtra,Pune,Private,Information Technology,Engineering,CET,168620,95,5,171,5793,6923,15540,18492,5,4
-C1983,MIT Academy of Engineering,Maharashtra,Mumbai,Private,Computer Engineering,Engineering,CET,75040,87,5,66,6941,8026,17160,24151,5,4
-C1984,Sinhgad Institute of Technology,Maharashtra,Nashik,Private,Electrical Engineering,Engineering,CET,71834,76,5,135,3231,5409,9652,18668,5,5
-C1985,D Y Patil College of Engineering Akurdi,Maharashtra,Mumbai,Government,Civil Engineering,Engineering,CET,140266,95,4,137,19674,20937,26542,34065,4,3
-C1986,Sandip Institute of Engineering and Management,Maharashtra,Mumbai,Government,Cyber Security,Engineering,CET,104576,94,3,103,16868,19590,23315,33504,4,5
-C1987,KK Wagh Institute of Engineering,Maharashtra,Pune,Private,AI & Data Science,Engineering,CET,85463,91,5,113,9434,11971,18773,27039,4,3
-C1988,AISSMS College of Engineering,Maharashtra,Nashik,Private,Data Science,Engineering,CET,119340,76,5,62,4960,6411,12654,20557,3,5
-C1989,Pimpri Chinchwad College of Engineering,Maharashtra,Mumbai,Government,Civil Engineering,Engineering,CET,151621,74,4,177,17755,20083,27232,30442,4,5
-C1990,Pimpri Chinchwad College of Engineering,Maharashtra,Nashik,Government,Computer Engineering,Engineering,CET,71986,70,3,136,12775,13810,23817,30392,3,5
-C1991,Thakur College of Engineering,Maharashtra,Mumbai,Government,Civil Engineering,Engineering,CET,114794,83,5,118,19574,21937,30211,32381,3,5
-C1992,Modern College of Engineering,Maharashtra,Nashik,Government,Electronics & Telecommunication,Engineering,CET,116793,90,4,77,10373,12199,19599,23767,4,5
-C1993,Thakur College of Engineering,Maharashtra,Mumbai,Private,Robotics Engineering,Engineering,CET,129016,71,5,171,4459,7140,11672,20006,4,4
-C1994,Sinhgad Institute of Technology,Maharashtra,Pune,Private,Civil Engineering,Engineering,CET,75503,74,4,124,3170,5307,13608,20494,4,4
-C1995,Fr CRCE Bandra,Maharashtra,Mumbai,Private,Civil Engineering,Engineering,CET,153742,85,4,107,19714,22590,29879,35928,5,5
-C1996,Sinhgad Institute of Technology,Maharashtra,Pune,Private,Data Science,Engineering,CET,133418,80,3,88,19893,21630,29972,36025,4,3
-C1997,AISSMS College of Engineering,Maharashtra,Nashik,Private,Mechanical Engineering,Engineering,CET,168327,73,3,67,18567,21062,27027,35404,4,5
-C1998,KK Wagh Institute of Engineering,Maharashtra,Nashik,Private,Robotics Engineering,Engineering,CET,157221,90,4,126,5376,8152,16196,20255,3,3
-C1999,PICT Pune,Maharashtra,Nashik,Private,Data Science,Engineering,CET,135789,73,3,83,16712,18086,28640,33268,3,3
-C2000,PICT Pune,Maharashtra,Pune,Private,Robotics Engineering,Engineering,CET,67135,85,5,109,10757,13474,22332,25944,5,5
+C001,COEP Technological University,Maharashtra,Pune,Government,Computer Engineering,Engineering,CET,90000,75,4,,,,,,4,4
+C002,COEP Technological University,Maharashtra,Pune,Government,Information Technology,Engineering,CET,90000,75,4,,,,,,4,4
+C003,COEP Technological University,Maharashtra,Pune,Government,Mechanical Engineering,Engineering,CET,90000,75,4,,,,,,4,4
+C004,COEP Technological University,Maharashtra,Pune,Government,Civil Engineering,Engineering,CET,90000,75,4,,,,,,4,4
+C005,COEP Technological University,Maharashtra,Pune,Government,Electrical Engineering,Engineering,CET,90000,75,4,,,,,,4,4
+C006,COEP Technological University,Maharashtra,Pune,Government,Electronics & Telecommunication,Engineering,CET,90000,75,4,,,,,,4,4
+C007,Pimpri Chinchwad College of Engineering,Maharashtra,Pune,Private,Computer Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C008,Pimpri Chinchwad College of Engineering,Maharashtra,Pune,Private,Information Technology,Engineering,CET,120000,75,4,,,,,,4,4
+C009,Pimpri Chinchwad College of Engineering,Maharashtra,Pune,Private,Mechanical Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C010,Pimpri Chinchwad College of Engineering,Maharashtra,Pune,Private,Civil Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C011,Pimpri Chinchwad College of Engineering,Maharashtra,Pune,Private,Electrical Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C012,Pimpri Chinchwad College of Engineering,Maharashtra,Pune,Private,Electronics & Telecommunication,Engineering,CET,120000,75,4,,,,,,4,4
+C013,MIT World Peace University School of Engineering,Maharashtra,Pune,Private,Computer Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C014,MIT World Peace University School of Engineering,Maharashtra,Pune,Private,Information Technology,Engineering,CET,120000,75,4,,,,,,4,4
+C015,MIT World Peace University School of Engineering,Maharashtra,Pune,Private,Mechanical Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C016,MIT World Peace University School of Engineering,Maharashtra,Pune,Private,Civil Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C017,MIT World Peace University School of Engineering,Maharashtra,Pune,Private,Electrical Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C018,MIT World Peace University School of Engineering,Maharashtra,Pune,Private,Electronics & Telecommunication,Engineering,CET,120000,75,4,,,,,,4,4
+C019,AISSMS College of Engineering,Maharashtra,Pune,Private,Computer Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C020,AISSMS College of Engineering,Maharashtra,Pune,Private,Information Technology,Engineering,CET,120000,75,4,,,,,,4,4
+C021,AISSMS College of Engineering,Maharashtra,Pune,Private,Mechanical Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C022,AISSMS College of Engineering,Maharashtra,Pune,Private,Civil Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C023,AISSMS College of Engineering,Maharashtra,Pune,Private,Electrical Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C024,AISSMS College of Engineering,Maharashtra,Pune,Private,Electronics & Telecommunication,Engineering,CET,120000,75,4,,,,,,4,4
+C025,Bharati Vidyapeeth College of Engineering,Maharashtra,Pune,Private,Computer Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C026,Bharati Vidyapeeth College of Engineering,Maharashtra,Pune,Private,Information Technology,Engineering,CET,120000,75,4,,,,,,4,4
+C027,Bharati Vidyapeeth College of Engineering,Maharashtra,Pune,Private,Mechanical Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C028,Bharati Vidyapeeth College of Engineering,Maharashtra,Pune,Private,Civil Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C029,Bharati Vidyapeeth College of Engineering,Maharashtra,Pune,Private,Electrical Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C030,Bharati Vidyapeeth College of Engineering,Maharashtra,Pune,Private,Electronics & Telecommunication,Engineering,CET,120000,75,4,,,,,,4,4
+C031,Sinhgad College of Engineering,Maharashtra,Pune,Private,Computer Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C032,Sinhgad College of Engineering,Maharashtra,Pune,Private,Information Technology,Engineering,CET,120000,75,4,,,,,,4,4
+C033,Sinhgad College of Engineering,Maharashtra,Pune,Private,Mechanical Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C034,Sinhgad College of Engineering,Maharashtra,Pune,Private,Civil Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C035,Sinhgad College of Engineering,Maharashtra,Pune,Private,Electrical Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C036,Sinhgad College of Engineering,Maharashtra,Pune,Private,Electronics & Telecommunication,Engineering,CET,120000,75,4,,,,,,4,4
+C037,DY Patil College of Engineering Akurdi,Maharashtra,Pune,Private,Computer Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C038,DY Patil College of Engineering Akurdi,Maharashtra,Pune,Private,Information Technology,Engineering,CET,120000,75,4,,,,,,4,4
+C039,DY Patil College of Engineering Akurdi,Maharashtra,Pune,Private,Mechanical Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C040,DY Patil College of Engineering Akurdi,Maharashtra,Pune,Private,Civil Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C041,DY Patil College of Engineering Akurdi,Maharashtra,Pune,Private,Electrical Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C042,DY Patil College of Engineering Akurdi,Maharashtra,Pune,Private,Electronics & Telecommunication,Engineering,CET,120000,75,4,,,,,,4,4
+C043,Vishwakarma Institute of Technology,Maharashtra,Pune,Private,Computer Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C044,Vishwakarma Institute of Technology,Maharashtra,Pune,Private,Information Technology,Engineering,CET,120000,75,4,,,,,,4,4
+C045,Vishwakarma Institute of Technology,Maharashtra,Pune,Private,Mechanical Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C046,Vishwakarma Institute of Technology,Maharashtra,Pune,Private,Civil Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C047,Vishwakarma Institute of Technology,Maharashtra,Pune,Private,Electrical Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C048,Vishwakarma Institute of Technology,Maharashtra,Pune,Private,Electronics & Telecommunication,Engineering,CET,120000,75,4,,,,,,4,4
+C049,Vishwakarma Institute of Information Technology,Maharashtra,Pune,Private,Computer Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C050,Vishwakarma Institute of Information Technology,Maharashtra,Pune,Private,Information Technology,Engineering,CET,120000,75,4,,,,,,4,4
+C051,Vishwakarma Institute of Information Technology,Maharashtra,Pune,Private,Mechanical Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C052,Vishwakarma Institute of Information Technology,Maharashtra,Pune,Private,Civil Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C053,Vishwakarma Institute of Information Technology,Maharashtra,Pune,Private,Electrical Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C054,Vishwakarma Institute of Information Technology,Maharashtra,Pune,Private,Electronics & Telecommunication,Engineering,CET,120000,75,4,,,,,,4,4
+C055,Army Institute of Technology,Maharashtra,Pune,Private,Computer Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C056,Army Institute of Technology,Maharashtra,Pune,Private,Information Technology,Engineering,CET,120000,75,4,,,,,,4,4
+C057,Army Institute of Technology,Maharashtra,Pune,Private,Mechanical Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C058,Army Institute of Technology,Maharashtra,Pune,Private,Civil Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C059,Army Institute of Technology,Maharashtra,Pune,Private,Electrical Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C060,Army Institute of Technology,Maharashtra,Pune,Private,Electronics & Telecommunication,Engineering,CET,120000,75,4,,,,,,4,4
+C061,Veermata Jijabai Technological Institute,Maharashtra,Mumbai,Government,Computer Engineering,Engineering,CET,90000,75,4,,,,,,4,4
+C062,Veermata Jijabai Technological Institute,Maharashtra,Mumbai,Government,Information Technology,Engineering,CET,90000,75,4,,,,,,4,4
+C063,Veermata Jijabai Technological Institute,Maharashtra,Mumbai,Government,Mechanical Engineering,Engineering,CET,90000,75,4,,,,,,4,4
+C064,Veermata Jijabai Technological Institute,Maharashtra,Mumbai,Government,Civil Engineering,Engineering,CET,90000,75,4,,,,,,4,4
+C065,Veermata Jijabai Technological Institute,Maharashtra,Mumbai,Government,Electrical Engineering,Engineering,CET,90000,75,4,,,,,,4,4
+C066,Veermata Jijabai Technological Institute,Maharashtra,Mumbai,Government,Electronics & Telecommunication,Engineering,CET,90000,75,4,,,,,,4,4
+C067,K J Somaiya College of Engineering,Maharashtra,Mumbai,Private,Computer Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C068,K J Somaiya College of Engineering,Maharashtra,Mumbai,Private,Information Technology,Engineering,CET,120000,75,4,,,,,,4,4
+C069,K J Somaiya College of Engineering,Maharashtra,Mumbai,Private,Mechanical Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C070,K J Somaiya College of Engineering,Maharashtra,Mumbai,Private,Civil Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C071,K J Somaiya College of Engineering,Maharashtra,Mumbai,Private,Electrical Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C072,K J Somaiya College of Engineering,Maharashtra,Mumbai,Private,Electronics & Telecommunication,Engineering,CET,120000,75,4,,,,,,4,4
+C073,Fr Conceicao Rodrigues College of Engineering,Maharashtra,Mumbai,Private,Computer Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C074,Fr Conceicao Rodrigues College of Engineering,Maharashtra,Mumbai,Private,Information Technology,Engineering,CET,120000,75,4,,,,,,4,4
+C075,Fr Conceicao Rodrigues College of Engineering,Maharashtra,Mumbai,Private,Mechanical Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C076,Fr Conceicao Rodrigues College of Engineering,Maharashtra,Mumbai,Private,Civil Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C077,Fr Conceicao Rodrigues College of Engineering,Maharashtra,Mumbai,Private,Electrical Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C078,Fr Conceicao Rodrigues College of Engineering,Maharashtra,Mumbai,Private,Electronics & Telecommunication,Engineering,CET,120000,75,4,,,,,,4,4
+C079,Sardar Patel Institute of Technology,Maharashtra,Mumbai,Private,Computer Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C080,Sardar Patel Institute of Technology,Maharashtra,Mumbai,Private,Information Technology,Engineering,CET,120000,75,4,,,,,,4,4
+C081,Sardar Patel Institute of Technology,Maharashtra,Mumbai,Private,Mechanical Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C082,Sardar Patel Institute of Technology,Maharashtra,Mumbai,Private,Civil Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C083,Sardar Patel Institute of Technology,Maharashtra,Mumbai,Private,Electrical Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C084,Sardar Patel Institute of Technology,Maharashtra,Mumbai,Private,Electronics & Telecommunication,Engineering,CET,120000,75,4,,,,,,4,4
+C085,Thadomal Shahani Engineering College,Maharashtra,Mumbai,Private,Computer Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C086,Thadomal Shahani Engineering College,Maharashtra,Mumbai,Private,Information Technology,Engineering,CET,120000,75,4,,,,,,4,4
+C087,Thadomal Shahani Engineering College,Maharashtra,Mumbai,Private,Mechanical Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C088,Thadomal Shahani Engineering College,Maharashtra,Mumbai,Private,Civil Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C089,Thadomal Shahani Engineering College,Maharashtra,Mumbai,Private,Electrical Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C090,Thadomal Shahani Engineering College,Maharashtra,Mumbai,Private,Electronics & Telecommunication,Engineering,CET,120000,75,4,,,,,,4,4
+C091,Don Bosco Institute of Technology,Maharashtra,Mumbai,Private,Computer Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C092,Don Bosco Institute of Technology,Maharashtra,Mumbai,Private,Information Technology,Engineering,CET,120000,75,4,,,,,,4,4
+C093,Don Bosco Institute of Technology,Maharashtra,Mumbai,Private,Mechanical Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C094,Don Bosco Institute of Technology,Maharashtra,Mumbai,Private,Civil Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C095,Don Bosco Institute of Technology,Maharashtra,Mumbai,Private,Electrical Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C096,Don Bosco Institute of Technology,Maharashtra,Mumbai,Private,Electronics & Telecommunication,Engineering,CET,120000,75,4,,,,,,4,4
+C097,Vidyalankar Institute of Technology,Maharashtra,Mumbai,Private,Computer Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C098,Vidyalankar Institute of Technology,Maharashtra,Mumbai,Private,Information Technology,Engineering,CET,120000,75,4,,,,,,4,4
+C099,Vidyalankar Institute of Technology,Maharashtra,Mumbai,Private,Mechanical Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C100,Vidyalankar Institute of Technology,Maharashtra,Mumbai,Private,Civil Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C101,Vidyalankar Institute of Technology,Maharashtra,Mumbai,Private,Electrical Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C102,Vidyalankar Institute of Technology,Maharashtra,Mumbai,Private,Electronics & Telecommunication,Engineering,CET,120000,75,4,,,,,,4,4
+C103,Rajiv Gandhi Institute of Technology,Maharashtra,Mumbai,Government,Computer Engineering,Engineering,CET,90000,75,4,,,,,,4,4
+C104,Rajiv Gandhi Institute of Technology,Maharashtra,Mumbai,Government,Information Technology,Engineering,CET,90000,75,4,,,,,,4,4
+C105,Rajiv Gandhi Institute of Technology,Maharashtra,Mumbai,Government,Mechanical Engineering,Engineering,CET,90000,75,4,,,,,,4,4
+C106,Rajiv Gandhi Institute of Technology,Maharashtra,Mumbai,Government,Civil Engineering,Engineering,CET,90000,75,4,,,,,,4,4
+C107,Rajiv Gandhi Institute of Technology,Maharashtra,Mumbai,Government,Electrical Engineering,Engineering,CET,90000,75,4,,,,,,4,4
+C108,Rajiv Gandhi Institute of Technology,Maharashtra,Mumbai,Government,Electronics & Telecommunication,Engineering,CET,90000,75,4,,,,,,4,4
+C109,Yeshwantrao Chavan College of Engineering,Maharashtra,Nagpur,Private,Computer Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C110,Yeshwantrao Chavan College of Engineering,Maharashtra,Nagpur,Private,Information Technology,Engineering,CET,120000,75,4,,,,,,4,4
+C111,Yeshwantrao Chavan College of Engineering,Maharashtra,Nagpur,Private,Mechanical Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C112,Yeshwantrao Chavan College of Engineering,Maharashtra,Nagpur,Private,Civil Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C113,Yeshwantrao Chavan College of Engineering,Maharashtra,Nagpur,Private,Electrical Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C114,Yeshwantrao Chavan College of Engineering,Maharashtra,Nagpur,Private,Electronics & Telecommunication,Engineering,CET,120000,75,4,,,,,,4,4
+C115,Shri Ramdeobaba College of Engineering and Management,Maharashtra,Nagpur,Private,Computer Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C116,Shri Ramdeobaba College of Engineering and Management,Maharashtra,Nagpur,Private,Information Technology,Engineering,CET,120000,75,4,,,,,,4,4
+C117,Shri Ramdeobaba College of Engineering and Management,Maharashtra,Nagpur,Private,Mechanical Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C118,Shri Ramdeobaba College of Engineering and Management,Maharashtra,Nagpur,Private,Civil Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C119,Shri Ramdeobaba College of Engineering and Management,Maharashtra,Nagpur,Private,Electrical Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C120,Shri Ramdeobaba College of Engineering and Management,Maharashtra,Nagpur,Private,Electronics & Telecommunication,Engineering,CET,120000,75,4,,,,,,4,4
+C121,G H Raisoni College of Engineering,Maharashtra,Nagpur,Private,Computer Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C122,G H Raisoni College of Engineering,Maharashtra,Nagpur,Private,Information Technology,Engineering,CET,120000,75,4,,,,,,4,4
+C123,G H Raisoni College of Engineering,Maharashtra,Nagpur,Private,Mechanical Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C124,G H Raisoni College of Engineering,Maharashtra,Nagpur,Private,Civil Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C125,G H Raisoni College of Engineering,Maharashtra,Nagpur,Private,Electrical Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C126,G H Raisoni College of Engineering,Maharashtra,Nagpur,Private,Electronics & Telecommunication,Engineering,CET,120000,75,4,,,,,,4,4
+C127,Priyadarshini College of Engineering,Maharashtra,Nagpur,Private,Computer Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C128,Priyadarshini College of Engineering,Maharashtra,Nagpur,Private,Information Technology,Engineering,CET,120000,75,4,,,,,,4,4
+C129,Priyadarshini College of Engineering,Maharashtra,Nagpur,Private,Mechanical Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C130,Priyadarshini College of Engineering,Maharashtra,Nagpur,Private,Civil Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C131,Priyadarshini College of Engineering,Maharashtra,Nagpur,Private,Electrical Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C132,Priyadarshini College of Engineering,Maharashtra,Nagpur,Private,Electronics & Telecommunication,Engineering,CET,120000,75,4,,,,,,4,4
+C133,St Vincent Pallotti College of Engineering,Maharashtra,Nagpur,Private,Computer Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C134,St Vincent Pallotti College of Engineering,Maharashtra,Nagpur,Private,Information Technology,Engineering,CET,120000,75,4,,,,,,4,4
+C135,St Vincent Pallotti College of Engineering,Maharashtra,Nagpur,Private,Mechanical Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C136,St Vincent Pallotti College of Engineering,Maharashtra,Nagpur,Private,Civil Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C137,St Vincent Pallotti College of Engineering,Maharashtra,Nagpur,Private,Electrical Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C138,St Vincent Pallotti College of Engineering,Maharashtra,Nagpur,Private,Electronics & Telecommunication,Engineering,CET,120000,75,4,,,,,,4,4
+C139,JD College of Engineering and Management,Maharashtra,Nagpur,Private,Computer Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C140,JD College of Engineering and Management,Maharashtra,Nagpur,Private,Information Technology,Engineering,CET,120000,75,4,,,,,,4,4
+C141,JD College of Engineering and Management,Maharashtra,Nagpur,Private,Mechanical Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C142,JD College of Engineering and Management,Maharashtra,Nagpur,Private,Civil Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C143,JD College of Engineering and Management,Maharashtra,Nagpur,Private,Electrical Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C144,JD College of Engineering and Management,Maharashtra,Nagpur,Private,Electronics & Telecommunication,Engineering,CET,120000,75,4,,,,,,4,4
+C145,K K Wagh Institute of Engineering Education and Research,Maharashtra,Nashik,Private,Computer Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C146,K K Wagh Institute of Engineering Education and Research,Maharashtra,Nashik,Private,Information Technology,Engineering,CET,120000,75,4,,,,,,4,4
+C147,K K Wagh Institute of Engineering Education and Research,Maharashtra,Nashik,Private,Mechanical Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C148,K K Wagh Institute of Engineering Education and Research,Maharashtra,Nashik,Private,Civil Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C149,K K Wagh Institute of Engineering Education and Research,Maharashtra,Nashik,Private,Electrical Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C150,K K Wagh Institute of Engineering Education and Research,Maharashtra,Nashik,Private,Electronics & Telecommunication,Engineering,CET,120000,75,4,,,,,,4,4
+C151,Sandip Institute of Engineering and Management,Maharashtra,Nashik,Private,Computer Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C152,Sandip Institute of Engineering and Management,Maharashtra,Nashik,Private,Information Technology,Engineering,CET,120000,75,4,,,,,,4,4
+C153,Sandip Institute of Engineering and Management,Maharashtra,Nashik,Private,Mechanical Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C154,Sandip Institute of Engineering and Management,Maharashtra,Nashik,Private,Civil Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C155,Sandip Institute of Engineering and Management,Maharashtra,Nashik,Private,Electrical Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C156,Sandip Institute of Engineering and Management,Maharashtra,Nashik,Private,Electronics & Telecommunication,Engineering,CET,120000,75,4,,,,,,4,4
+C157,MET Institute of Engineering,Maharashtra,Nashik,Private,Computer Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C158,MET Institute of Engineering,Maharashtra,Nashik,Private,Information Technology,Engineering,CET,120000,75,4,,,,,,4,4
+C159,MET Institute of Engineering,Maharashtra,Nashik,Private,Mechanical Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C160,MET Institute of Engineering,Maharashtra,Nashik,Private,Civil Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C161,MET Institute of Engineering,Maharashtra,Nashik,Private,Electrical Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C162,MET Institute of Engineering,Maharashtra,Nashik,Private,Electronics & Telecommunication,Engineering,CET,120000,75,4,,,,,,4,4
+C163,Guru Gobind Singh College of Engineering and Research Centre,Maharashtra,Nashik,Private,Computer Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C164,Guru Gobind Singh College of Engineering and Research Centre,Maharashtra,Nashik,Private,Information Technology,Engineering,CET,120000,75,4,,,,,,4,4
+C165,Guru Gobind Singh College of Engineering and Research Centre,Maharashtra,Nashik,Private,Mechanical Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C166,Guru Gobind Singh College of Engineering and Research Centre,Maharashtra,Nashik,Private,Civil Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C167,Guru Gobind Singh College of Engineering and Research Centre,Maharashtra,Nashik,Private,Electrical Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C168,Guru Gobind Singh College of Engineering and Research Centre,Maharashtra,Nashik,Private,Electronics & Telecommunication,Engineering,CET,120000,75,4,,,,,,4,4
+C169,Matoshri College of Engineering and Research Centre,Maharashtra,Nashik,Private,Computer Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C170,Matoshri College of Engineering and Research Centre,Maharashtra,Nashik,Private,Information Technology,Engineering,CET,120000,75,4,,,,,,4,4
+C171,Matoshri College of Engineering and Research Centre,Maharashtra,Nashik,Private,Mechanical Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C172,Matoshri College of Engineering and Research Centre,Maharashtra,Nashik,Private,Civil Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C173,Matoshri College of Engineering and Research Centre,Maharashtra,Nashik,Private,Electrical Engineering,Engineering,CET,120000,75,4,,,,,,4,4
+C174,Matoshri College of Engineering and Research Centre,Maharashtra,Nashik,Private,Electronics & Telecommunication,Engineering,CET,120000,75,4,,,,,,4,4
