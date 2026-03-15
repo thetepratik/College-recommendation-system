@@ -3,8 +3,8 @@ from pymongo import MongoClient
 
 # 🔹 MongoDB Connection
 client = MongoClient("mongodb://localhost:27017/")
-db = client["college_recommendation"]
-collection = db["diploma_colleges"]
+db = client["college_recommendation_db"]
+collection = db["colleges_diploma"]
 
 # 🔹 Clear old data
 collection.delete_many({})

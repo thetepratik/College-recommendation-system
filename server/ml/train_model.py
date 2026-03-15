@@ -52,13 +52,13 @@ from utils.helpers import get_college_dataframe
 
 
 def train_and_save_model():
-
     df = get_college_dataframe()
 
     if df.empty:
         print("❌ No college data found in MongoDB")
         return
 
+    # ✅ SAME FEATURES AS helpers.py
     features = [
         "fees",
         "ranking",
@@ -78,9 +78,7 @@ def train_and_save_model():
         "features": features
     }
 
-    model_path = os.path.join(os.path.dirname(__file__), "model.pkl")
-
-    with open(model_path, "wb") as f:
+    with open("model.pkl", "wb") as f:
         pickle.dump(model, f)
 
     print("✅ model.pkl created successfully")

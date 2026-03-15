@@ -108,6 +108,7 @@
 #     except Exception as e:
 #         print("❌ Diploma Recommendation Error:", e)
 #         return jsonify({"error": "Failed to fetch recommendations"}), 500
+
 from flask import Blueprint, request, jsonify
 from pymongo import DESCENDING
 from config.db import db
@@ -122,78 +123,48 @@ def recommend_12th():
     try:
         data = request.json or {}
 
-        rank = int(data.get("rank") or 999999)
         branch = data.get("branch")
         state = data.get("state")
         city = data.get("city")
         college_types = data.get("collegeType", [])
         budget = int(data.get("budget") or 9999999)
+        entrance_exam = data.get("entranceExam")
 
-        base_query = {
-            "diploma_cutoff": {"$lte": rank},
+        query = {
             "fees": {"$lte": budget}
         }
 
         if branch:
-            base_query["branch"] = branch
+            query["branch"] = {"$regex": branch, "$options": "i"}
+
         if state:
-            base_query["state"] = state
+            query["state"] = {"$regex": state, "$options": "i"}
+
+        if city:
+            query["city"] = {"$regex": city, "$options": "i"}
+
         if college_types:
-            base_query["college_type"] = {"$in": college_types}
+            query["college_type"] = {"$in": college_types}
 
-        # ---------- CITY COLLEGES ----------
-        city_colleges = []
-        if city:
-            city_query = base_query.copy()
-            city_query["city"] = city
+        if entrance_exam:
+            query["entrance_exam"] = entrance_exam
 
-            city_colleges = list(
-                db.colleges_12th
-                .find(city_query, {"_id": 0})
-                .sort([
-                    ("placement_percentage", DESCENDING),
-                    ("lab_score", DESCENDING),
-                    ("faculty_score", DESCENDING)
-                ])
-                .limit(15)
-            )
-
-        # ---------- OTHER CITY COLLEGES ----------
-        other_colleges = []
-        if city:
-            other_query = base_query.copy()
-            other_query["city"] = {"$ne": city}
-
-            other_colleges = list(
-                db.colleges_12th
-                .find(other_query, {"_id": 0})
-                .sort([
-                    ("placement_percentage", DESCENDING),
-                    ("lab_score", DESCENDING),
-                    ("faculty_score", DESCENDING)
-                ])
-                .limit(15)
-            )
-        else:
-            other_colleges = list(
-                db.colleges_12th
-                .find(base_query, {"_id": 0})
-                .sort([
-                    ("placement_percentage", DESCENDING),
-                    ("lab_score", DESCENDING),
-                    ("faculty_score", DESCENDING)
-                ])
-                .limit(30)
-            )
-
-        colleges = city_colleges + other_colleges
+        colleges = list(
+            db.colleges_12th
+            .find(query, {"_id": 0})
+            .sort([
+                ("placement_percentage", DESCENDING),
+                ("lab_score", DESCENDING),
+                ("faculty_score", DESCENDING)
+            ])
+            .limit(30)
+        )
 
         return jsonify(colleges)
 
     except Exception as e:
         print("❌ 12th Recommendation Error:", e)
         return jsonify({"error": "Failed to fetch recommendations"}), 500
-
 
 # =====================================================
 # DIPLOMA STUDENT RECOMMENDATION
@@ -210,52 +181,32 @@ def recommend_diploma():
         college_types = data.get("collegeType", [])
         budget = int(data.get("budget") or 9999999)
 
-        base_query = {
+        # ---------- BASE QUERY ----------
+        query = {
             "diploma_cutoff": {"$lte": diploma_percent},
             "fees": {"$lte": budget}
         }
 
+        # ---------- FILTERS ----------
         if branch:
-            base_query["branch"] = branch
+            query["branch"] = {"$regex": branch, "$options": "i"}
+
         if state:
-            base_query["state"] = state
+            query["state"] = {"$regex": f"^{state}$", "$options": "i"}
+
+        if city:
+            query["city"] = {"$regex": f"^{city}$", "$options": "i"}
+
         if college_types:
-            base_query["college_type"] = {"$in": college_types}
+            query["college_type"] = {"$in": college_types}
 
-        # ---------- CITY COLLEGES ----------
-        city_colleges = []
-        if city:
-            city_query = base_query.copy()
-            city_query["city"] = city
-
-            city_colleges = list(
-                db.colleges_diploma
-                .find(city_query, {"_id": 0})
-                .sort("placement_percentage", DESCENDING)
-                .limit(15)
-            )
-
-        # ---------- OTHER CITY COLLEGES ----------
-        other_colleges = []
-        if city:
-            other_query = base_query.copy()
-            other_query["city"] = {"$ne": city}
-
-            other_colleges = list(
-                db.colleges_diploma
-                .find(other_query, {"_id": 0})
-                .sort("placement_percentage", DESCENDING)
-                .limit(15)
-            )
-        else:
-            other_colleges = list(
-                db.colleges_diploma
-                .find(base_query, {"_id": 0})
-                .sort("placement_percentage", DESCENDING)
-                .limit(30)
-            )
-
-        colleges = city_colleges + other_colleges
+        # ---------- FETCH ----------
+        colleges = list(
+            db.colleges_diploma
+            .find(query, {"_id": 0})
+            .sort("placement_percentage", DESCENDING)
+            .limit(30)
+        )
 
         return jsonify(colleges)
 
